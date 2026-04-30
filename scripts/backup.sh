@@ -1,25 +1,19 @@
 #!/usr/bin/env bash
-# Sync personalization data from nanoclaw into nano_data and push to GitHub.
-# Run from anywhere; paths are relative to the nanoclaw install.
-
 set -euo pipefail
 
-NANOCLAW_DIR="$(cd "$(dirname "$0")/../.." && pwd)"
-NANO_DATA_DIR="$(cd "$(dirname "$0")/.." && pwd)"
-SRC="$NANOCLAW_DIR/nanoclaw/groups"
-
-echo "Syncing from $SRC → $NANO_DATA_DIR"
+SRC="/home/nano2/nanoclaw/groups"
+DST="/home/nano2/nano_data"
 
 # family system (full PARA)
 rsync -a --delete \
   --exclude='.claude-shared.md' \
   --exclude='.claude-fragments/' \
   --exclude='hooks/' \
-  "$SRC/family/" "$NANO_DATA_DIR/family/"
+  "$SRC/family/" "$DST/family/"
 
-# per-agent DM channels (persona + data files only)
+# per-agent DM channels
 for agent in dm-with-andi dm-with-suse dm-with-felix; do
-  mkdir -p "$NANO_DATA_DIR/agents/$agent"
+  mkdir -p "$DST/agents/$agent"
   rsync -a --delete \
     --include='CLAUDE.local.md' \
     --include='*.md' \
@@ -29,13 +23,13 @@ for agent in dm-with-andi dm-with-suse dm-with-felix; do
     --exclude='.claude-fragments/' \
     --exclude='hooks/' \
     --exclude='*' \
-    "$SRC/$agent/" "$NANO_DATA_DIR/agents/$agent/"
+    "$SRC/$agent/" "$DST/agents/$agent/"
 done
 
-cd "$NANO_DATA_DIR"
+cd "$DST"
 git add -A
 if git diff --cached --quiet; then
-  echo "Nothing changed — no commit needed."
+  echo "Nothing changed."
 else
   git commit -m "backup: $(date -u '+%Y-%m-%d %H:%M') UTC"
   git push origin main
