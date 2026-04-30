@@ -1,0 +1,11 @@
+{
+  "mcpServers": {},
+  "packages": {
+    "apt": ["python3-pip"],
+    "npm": []
+  },
+  "additionalMounts": [],
+  "skills": "all",
+  "groupName": "Familie Lindenblatt",
+  "assistantName": "Familie Lindenblatt"
+}
