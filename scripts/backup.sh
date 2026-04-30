@@ -11,6 +11,10 @@ rsync -a --delete \
   --exclude='hooks/' \
   "$SRC/family/" "$DST/family/"
 
+# shared global resources (Areas, Support docs)
+rsync -a --delete \
+  "$SRC/global/" "$DST/global/"
+
 # per-agent DM channels
 for agent in dm-with-andi dm-with-suse dm-with-felix; do
   mkdir -p "$DST/agents/$agent"
