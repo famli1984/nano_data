@@ -12,20 +12,23 @@ rsync -a --delete \
   "$SRC/family/" "$DST/family/"
 
 # shared global resources (Areas, Support docs)
-rsync -a --delete \
-  "$SRC/global/" "$DST/global/"
+if [ -d "$SRC/global" ]; then
+  rsync -a --delete \
+    "$SRC/global/" "$DST/global/"
+fi
 
 # per-agent DM channels
 for agent in dm-with-andi dm-with-suse dm-with-felix; do
   mkdir -p "$DST/agents/$agent"
   rsync -a --delete \
-    --include='CLAUDE.local.md' \
-    --include='*.md' \
     --exclude='CLAUDE.md' \
     --exclude='container.json' \
     --exclude='.claude-shared.md' \
     --exclude='.claude-fragments/' \
     --exclude='hooks/' \
+    --include='CLAUDE.local.md' \
+    --include='*/' \
+    --include='*.md' \
     --exclude='*' \
     "$SRC/$agent/" "$DST/agents/$agent/"
 done
