@@ -1,0 +1,16 @@
+rsync: [sender] change_dir "/home/nano2/nanoclaw/groups/global" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.2.7]
+rsync: [sender] change_dir "/home/nano2/nanoclaw/groups/global" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.2.7]
+rsync: [sender] change_dir "/home/nano2/nanoclaw/groups/global" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.2.7]
+rsync: [sender] change_dir "/home/nano2/nanoclaw/groups/global" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.2.7]
+rsync: [sender] change_dir "/home/nano2/nanoclaw/groups/global" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.2.7]
+rsync: [sender] change_dir "/home/nano2/nanoclaw/groups/global" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.2.7]
+rsync: [sender] change_dir "/home/nano2/nanoclaw/groups/global" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.2.7]
+rsync: [sender] change_dir "/home/nano2/nanoclaw/groups/global" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.2.7]

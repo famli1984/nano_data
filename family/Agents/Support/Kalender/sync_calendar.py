@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-CalDAV → Obsidian Markdown sync for Family Assistant.
+CalDAV → Markdown sync for Family Assistant. No external deps required.
 
 Posteo calendars:
   - Familie  → shared family calendar (all events, prefixed with AFMRS initials)
@@ -15,112 +15,235 @@ Local output (Areas/Family/):
   - kalender-felix.md      copy of Familie
   - kalender-marie.md      copy of Familie
   - kalender-rosa.md       copy of Familie
+  - aufgaben.md            combined task overview
+  - aufgaben-andi.md
+  - aufgaben-suse.md
+  - aufgaben-familie.md
 
-Run from repo root:  python Agents/Support/Kalender/sync_calendar.py
+Run from repo root:  python groups/family/Agents/Support/Kalender/sync_calendar.py
 """
 
+import base64
 import os
+import re
+import ssl
 import sys
+import urllib.request
+import urllib.error
+import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
-try:
-    import caldav
-    from icalendar import Calendar
-    from dotenv import load_dotenv
-except ImportError:
-    print("Missing dependencies. Run: pip install caldav icalendar python-dotenv")
+# ---------------------------------------------------------------------------
+# Config
+# ---------------------------------------------------------------------------
+
+SCRIPT_DIR    = Path(__file__).resolve().parent
+GROUP_ROOT    = SCRIPT_DIR.parent.parent.parent      # groups/family/
+NANOCLAW_ROOT = GROUP_ROOT.parent.parent             # nanoclaw/
+CAL_DIR       = GROUP_ROOT / "Areas" / "Family"
+DAYS_AHEAD    = int(os.getenv("DAYS_AHEAD", "30"))
+
+def _load_env():
+    env_path = NANOCLAW_ROOT / ".env"
+    if env_path.exists():
+        for line in env_path.read_text().splitlines():
+            line = line.strip()
+            if line and not line.startswith("#") and "=" in line:
+                k, _, v = line.partition("=")
+                os.environ.setdefault(k.strip(), v.strip())
+
+_load_env()
+
+USERNAME = os.environ.get("POSTEO_USERNAME", "")
+PASSWORD = os.environ.get("POSTEO_PASSWORD", "")
+if not USERNAME or not PASSWORD:
+    print("ERROR: POSTEO_USERNAME / POSTEO_PASSWORD not set", file=sys.stderr)
     sys.exit(1)
 
-# Load .env from repo root (three levels up from this script)
-REPO_ROOT = Path(__file__).parent.parent.parent.parent
-load_dotenv(REPO_ROOT / ".env")
+CALDAV_BASE = f"https://posteo.de:8443/calendars/{USERNAME.split('@')[0]}/"
 
-PRINCIPAL_URL = f"https://posteo.de:8443/calendars/{os.environ['POSTEO_USERNAME']}/"
-USERNAME      = os.environ["POSTEO_USERNAME"]
-PASSWORD      = os.environ["POSTEO_PASSWORD"]
-DAYS_AHEAD    = int(os.getenv("DAYS_AHEAD", "30"))
-CAL_DIR       = REPO_ROOT / "Areas" / "Family"
+CALENDAR_LABELS = {"Familie": "Familie", "Andi": "Andi", "Suse": "Suse"}
 
-# Posteo display name → internal label
-CALENDAR_LABELS = {
-    "Familie": "Familie",
-    "Andi":    "Andi",
-    "Suse":    "Suse",
-}
-
-# Individual output files per person/label
 PERSON_FILES = {
     "Andi":    "kalender-andi.md",
     "Suse":    "kalender-suse.md",
     "Familie": "kalender-familie.md",
-    # Kids share the Familie calendar
     "Felix":   "kalender-felix.md",
     "Marie":   "kalender-marie.md",
     "Rosa":    "kalender-rosa.md",
 }
 
+TASK_FILES = {
+    "Andi":    "aufgaben-andi.md",
+    "Suse":    "aufgaben-suse.md",
+    "Familie": "aufgaben-familie.md",
+}
 
-def parse_events_from_calendar(cal_obj, label):
-    start = datetime.now(timezone.utc)
-    end   = start + timedelta(days=DAYS_AHEAD)
-    events = []
+# ---------------------------------------------------------------------------
+# CalDAV helpers
+# ---------------------------------------------------------------------------
+
+_ctx   = ssl.create_default_context()
+_token = base64.b64encode(f"{USERNAME}:{PASSWORD}".encode()).decode()
+
+def _request(method, url, data=None, extra_headers=None):
+    headers = {
+        "Authorization": f"Basic {_token}",
+        "Content-Type":  "application/xml; charset=utf-8",
+    }
+    if extra_headers:
+        headers.update(extra_headers)
+    req = urllib.request.Request(url, headers=headers, method=method, data=data)
+    return urllib.request.urlopen(req, context=_ctx)
+
+
+def list_calendars():
+    """Return list of (display_name, href) tuples."""
+    body = b"""<?xml version="1.0" encoding="utf-8"?>
+<propfind xmlns="DAV:" xmlns:C="urn:ietf:params:xml:ns:caldav">
+  <prop><displayname/><resourcetype/></prop>
+</propfind>"""
+    with _request("PROPFIND", CALDAV_BASE, data=body, extra_headers={"Depth": "1"}) as r:
+        raw = r.read().decode()
+    ns = {"d": "DAV:", "c": "urn:ietf:params:xml:ns:caldav"}
+    root = ET.fromstring(raw)
+    result = []
+    for resp in root.findall("d:response", ns):
+        href = resp.findtext("d:href", namespaces=ns)
+        rt   = resp.find(".//d:resourcetype", ns)
+        if rt is None or rt.find("c:calendar", ns) is None:
+            continue
+        name = resp.findtext(".//d:displayname", namespaces=ns) or ""
+        result.append((name.strip(), href))
+    return result
+
+
+def _ics_prop(ical_text, prop):
+    """Extract first value of a property from raw iCalendar text."""
+    for line in ical_text.splitlines():
+        # handle property params like DTSTART;TZID=...:value
+        if line.startswith(prop + ":") or line.startswith(prop + ";"):
+            return line.split(":", 1)[-1].strip()
+    return ""
+
+
+def _parse_dt(value):
+    """Parse iCalendar DTSTART/DTEND/DUE value; returns date or datetime."""
+    value = value.strip()
     try:
-        raw = cal_obj.search(start=start, end=end, event=True, expand=True)
-    except Exception as e:
-        print(f"  Warnung: Fehler beim Lesen von '{label}': {e}")
-        return events
+        if len(value) == 8:  # all-day: YYYYMMDD
+            from datetime import date
+            return datetime(int(value[:4]), int(value[4:6]), int(value[6:8]))
+        if value.endswith("Z"):
+            dt = datetime.strptime(value, "%Y%m%dT%H%M%SZ").replace(tzinfo=timezone.utc)
+            return dt.astimezone().replace(tzinfo=None)
+        return datetime.strptime(value[:15], "%Y%m%dT%H%M%S")
+    except Exception:
+        return None
 
-    for vevent in raw:
-        ical = Calendar.from_ical(vevent.data)
-        for component in ical.walk():
-            if component.name != "VEVENT":
-                continue
-            summary  = str(component.get("SUMMARY", "(Kein Titel)"))
-            dtstart  = component.get("DTSTART").dt
-            dtend    = component.get("DTEND", component.get("DTSTART")).dt
-            location = str(component.get("LOCATION", ""))
-            desc     = str(component.get("DESCRIPTION", ""))
 
-            if hasattr(dtstart, "hour"):
-                dtstart  = dtstart.astimezone(None)
-                dtend    = dtend.astimezone(None)
-                start_str = dtstart.strftime("%H:%M")
-                if dtend.date() > dtstart.date():
-                    time_str = f"{start_str}–{dtend.strftime('%d.%m. %H:%M')}"
-                else:
-                    time_str = f"{start_str}–{dtend.strftime('%H:%M')}"
-                sort_key  = dtstart.replace(tzinfo=None)
-                is_allday = False
-            else:
-                # All-day event (dtstart/dtend are date objects)
-                last = dtend - timedelta(days=1) if dtend > dtstart else dtstart
-                if last > dtstart:
-                    time_str = f"{dtstart.strftime('%d.%m.')}–{last.strftime('%d.%m.')}"
-                else:
-                    time_str = "Ganztag"
-                sort_key  = datetime(dtstart.year, dtstart.month, dtstart.day)
-                is_allday = True
+def _report(href, component):
+    """Fetch all VEVENT or VTODO objects from a calendar."""
+    url  = f"https://posteo.de:8443{href}"
+    body = f"""<?xml version="1.0" encoding="utf-8"?>
+<C:calendar-query xmlns:D="DAV:" xmlns:C="urn:ietf:params:xml:ns:caldav">
+  <D:prop><D:getetag/><C:calendar-data/></D:prop>
+  <C:filter>
+    <C:comp-filter name="VCALENDAR">
+      <C:comp-filter name="{component}"/>
+    </C:comp-filter>
+  </C:filter>
+</C:calendar-query>""".encode()
 
-            events.append({
-                "summary":  summary,
-                "date":     sort_key,
-                "time":     time_str,
-                "is_allday": is_allday,
-                "location": location,
-                "desc":     desc.strip(),
-            })
+    with _request("REPORT", url, data=body, extra_headers={"Depth": "1"}) as r:
+        raw = r.read().decode()
+
+    objects = []
+    for block in re.split(r"(?=BEGIN:VCALENDAR)", raw):
+        if f"BEGIN:{component}" not in block:
+            continue
+        # extract the component block
+        m = re.search(rf"BEGIN:{component}(.+?)END:{component}", block, re.DOTALL)
+        if m:
+            objects.append(m.group(0).replace("\\n", "\n"))
+    return objects
+
+
+def fetch_events(href, label):
+    cutoff = datetime.now() + timedelta(days=DAYS_AHEAD)
+    events = []
+    for raw in _report(href, "VEVENT"):
+        summary  = _ics_prop(raw, "SUMMARY")
+        dtstart  = _parse_dt(_ics_prop(raw, "DTSTART"))
+        dtend_v  = _ics_prop(raw, "DTEND") or _ics_prop(raw, "DTSTART")
+        dtend    = _parse_dt(dtend_v)
+        location = _ics_prop(raw, "LOCATION")
+        desc     = _ics_prop(raw, "DESCRIPTION").replace("\\n", "\n").strip()
+
+        if dtstart is None or dtstart > cutoff:
+            continue
+
+        # format time string
+        orig_line = next((l for l in raw.splitlines() if l.startswith("DTSTART")), "")
+        is_allday = "T" not in _ics_prop(raw, "DTSTART") and len(_ics_prop(raw, "DTSTART")) == 8
+        if is_allday:
+            time_str = "Ganztag"
+        else:
+            ts = dtstart.strftime("%H:%M")
+            te = dtend.strftime("%H:%M") if dtend else ts
+            if dtend and dtend.date() > dtstart.date():
+                te = dtend.strftime("%d.%m. %H:%M")
+            time_str = f"{ts}–{te}"
+
+        events.append({
+            "summary":  summary or "(Kein Titel)",
+            "date":     dtstart,
+            "time":     time_str,
+            "location": location,
+            "desc":     desc,
+        })
     return events
 
 
+def fetch_tasks(href, label):
+    tasks = []
+    for raw in _report(href, "VTODO"):
+        status  = _ics_prop(raw, "STATUS").upper() or "NEEDS-ACTION"
+        if status in ("COMPLETED", "CANCELLED"):
+            continue
+        summary  = _ics_prop(raw, "SUMMARY")
+        due_raw  = _ics_prop(raw, "DUE")
+        due_dt   = _parse_dt(due_raw) if due_raw else None
+        priority = _ics_prop(raw, "PRIORITY")
+        desc     = _ics_prop(raw, "DESCRIPTION").replace("\\n", "\n").strip()
+
+        due_str = ""
+        if due_dt:
+            due_str = due_dt.strftime("%d.%m.%Y %H:%M") if due_dt.hour or due_dt.minute else due_dt.strftime("%d.%m.%Y")
+
+        tasks.append({
+            "summary":  summary or "(Kein Titel)",
+            "due":      due_str,
+            "due_sort": due_dt,
+            "priority": int(priority) if priority.isdigit() else 0,
+            "desc":     desc,
+        })
+    return tasks
+
+
+# ---------------------------------------------------------------------------
+# Rendering
+# ---------------------------------------------------------------------------
+
 def render_events(events, title, tags, person=None):
-    now = datetime.now()
+    now   = datetime.now()
     lines = [
         "---",
         f"tags: [{', '.join(tags)}]",
         f"updated: {now.strftime('%Y-%m-%d %H:%M')}",
         "calendar_source: posteo",
-        f"person: {person or tags[1].capitalize()}",
+        f"person: {person or title}",
         "type: calendar",
         f"sync_days_ahead: {DAYS_AHEAD}",
         "---",
@@ -131,7 +254,6 @@ def render_events(events, title, tags, person=None):
         f"> Zeigt Ereignisse der nächsten {DAYS_AHEAD} Tage.",
         "",
     ]
-
     if not events:
         lines.append(f"_Keine Termine in den nächsten {DAYS_AHEAD} Tagen._")
         return "\n".join(lines) + "\n"
@@ -155,7 +277,7 @@ def render_events(events, title, tags, person=None):
 
 
 def render_combined(events_by_label):
-    now = datetime.now()
+    now   = datetime.now()
     lines = [
         "---",
         "tags: [calendar, family, overview]",
@@ -172,17 +294,16 @@ def render_combined(events_by_label):
         f"> Zeigt Ereignisse der nächsten {DAYS_AHEAD} Tage.",
         "",
     ]
-
     for label in ["Andi", "Suse", "Familie"]:
-        events = events_by_label.get(label, [])
         lines.append(f"## 👤 {label}")
         lines.append("")
-        if not events:
-            lines.append(f"_Keine Termine._")
+        evs = events_by_label.get(label, [])
+        if not evs:
+            lines.append("_Keine Termine._")
             lines.append("")
             continue
         current_day = None
-        for ev in sorted(events, key=lambda e: e["date"]):
+        for ev in sorted(evs, key=lambda e: e["date"]):
             day       = ev["date"].strftime("%Y-%m-%d")
             day_label = ev["date"].strftime("%A, %d. %B %Y")
             if day != current_day:
@@ -200,57 +321,104 @@ def render_combined(events_by_label):
     return "\n".join(lines) + "\n"
 
 
+def render_tasks(tasks, title, tags, person=None):
+    now   = datetime.now()
+    lines = [
+        "---",
+        f"tags: [{', '.join(tags)}]",
+        f"updated: {now.strftime('%Y-%m-%d %H:%M')}",
+        "calendar_source: posteo",
+        f"person: {person or title}",
+        "type: tasks",
+        "---",
+        "",
+        f"# ✅ {title}",
+        "",
+        f"> Automatisch synchronisiert am {now.strftime('%d.%m.%Y um %H:%M')} Uhr",
+        "",
+    ]
+    if not tasks:
+        lines.append("_Keine offenen Aufgaben._")
+        return "\n".join(lines) + "\n"
+
+    def sort_key(t):
+        if t["due_sort"] is None:
+            return (1, datetime.max, t["priority"])
+        return (0, t["due_sort"], t["priority"])
+
+    for t in sorted(tasks, key=sort_key):
+        due_part = f" – fällig: {t['due']}" if t["due"] else ""
+        prio = " 🔴" if 1 <= t["priority"] <= 3 else (" 🟡" if 4 <= t["priority"] <= 6 else "")
+        lines.append(f"- [ ] {t['summary']}{due_part}{prio}")
+        if t["desc"]:
+            for dl in t["desc"].splitlines():
+                lines.append(f"  > {dl}")
+
+    return "\n".join(lines) + "\n"
+
+
+# ---------------------------------------------------------------------------
+# Main
+# ---------------------------------------------------------------------------
+
 def write(path, content):
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(content, encoding="utf-8")
-    print(f"  ✓ {path.relative_to(REPO_ROOT)}")
+    print(f"  ✓ {path.relative_to(GROUP_ROOT)}")
 
 
 def main():
-    client    = caldav.DAVClient(url=PRINCIPAL_URL, username=USERNAME, password=PASSWORD)
-    principal = client.principal()
+    print(f"Lese Kalender von {CALDAV_BASE} ...")
+    calendars = list_calendars()
+    print(f"  Gefunden: {[n for n, _ in calendars]}")
 
     events_by_label = {}
-    for cal in principal.calendars():
-        server_name = cal.get_display_name()
-        label = CALENDAR_LABELS.get(server_name)
+    tasks_by_label  = {}
+
+    for name, href in calendars:
+        label = CALENDAR_LABELS.get(name)
         if label is None:
             continue
-        print(f"  Lese '{label}' ({server_name}) ...")
-        events = parse_events_from_calendar(cal, label)
-        print(f"    → {len(events)} Termine")
-        events_by_label[label] = events
+        print(f"  Lese '{label}' ...")
+        evs  = fetch_events(href, label)
+        tsks = fetch_tasks(href, label)
+        print(f"    → {len(evs)} Termine, {len(tsks)} Aufgaben")
+        events_by_label[label] = evs
+        tasks_by_label[label]  = tsks
 
     if not events_by_label:
-        print("Keine bekannten Kalender gefunden.")
+        print("Keine bekannten Kalender gefunden.", file=sys.stderr)
         sys.exit(1)
 
     familie_events = events_by_label.get("Familie", [])
 
-    print("\nSchreibe lokale Kalender-Kopien:")
-
-    # Individual files for Andi and Suse
+    print("\nSchreibe Kalender-Dateien:")
     for person in ["Andi", "Suse"]:
-        evs = events_by_label.get(person, [])
-        md  = render_events(evs, f"Kalender – {person}", ["calendar", person.lower()], person=person)
+        md = render_events(events_by_label.get(person, []),
+                           f"Kalender – {person}", ["calendar", person.lower()], person=person)
         write(CAL_DIR / PERSON_FILES[person], md)
 
-    # Familie aggregated
     md = render_events(familie_events, "Kalender – Familie", ["calendar", "familie"], person="Familie")
     write(CAL_DIR / PERSON_FILES["Familie"], md)
 
-    # Individual kid copies (same events, different file/label)
     for kid in ["Felix", "Marie", "Rosa"]:
         md = render_events(familie_events, f"Kalender – {kid}", ["calendar", kid.lower()], person=kid)
         write(CAL_DIR / PERSON_FILES[kid], md)
 
-    # Combined overview
-    md = render_combined(events_by_label)
-    write(CAL_DIR / "kalender.md", md)
+    write(CAL_DIR / "kalender.md", render_combined(events_by_label))
+
+    print("\nSchreibe Aufgaben-Dateien:")
+    for person in ["Andi", "Suse", "Familie"]:
+        md = render_tasks(tasks_by_label.get(person, []),
+                          f"Aufgaben – {person}", ["tasks", person.lower()], person=person)
+        write(CAL_DIR / TASK_FILES[person], md)
+
+    all_tasks = [t for ts in tasks_by_label.values() for t in ts]
+    write(CAL_DIR / "aufgaben.md",
+          render_tasks(all_tasks, "Aufgaben – Übersicht", ["tasks", "family", "overview"], person="Familie"))
 
     print("\nFertig.")
 
 
 if __name__ == "__main__":
     main()
-

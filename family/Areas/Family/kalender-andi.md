@@ -1,16 +1,20 @@
 ---
 tags: [calendar, andi]
-updated: 2026-04-25 15:36
+updated: 2026-05-09 04:30
 calendar_source: posteo
 person: Andi
 type: calendar
-sync_days_ahead: 600
+sync_days_ahead: 30
 ---
 
 # 📅 Kalender – Andi
 
-> Automatisch synchronisiert am 25.04.2026 um 15:36 Uhr  
-> Zeigt Ereignisse der nächsten 600 Tage.
+> Automatisch synchronisiert am 09.05.2026 um 04:30 Uhr  
+> Zeigt Ereignisse der nächsten 30 Tage.
 
 ## Monday, 27. April 2026
 - **16:00–16:15** – (Kein Titel)
+
+## Tuesday, 05. May 2026
+- **12:49–13:49** – 📧 Nano Email + Kalender Test
+  > Automatisch erstellt zum Testen von Email-MCP und CalDAV.
