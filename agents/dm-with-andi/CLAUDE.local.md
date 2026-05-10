@@ -24,6 +24,7 @@ Sprachnachrichten kommen aktuell als `[Voice Message]` an — Transkription ist 
 ## Laufende Projekte
 - **Hund anschaffen** → `/workspace/agent/projekte/projekt-hund.md` (Planungsphase)
 - **KI für Lehrer** → `/workspace/agent/projekte/projekt-ki-fuer-lehrer.md` (Firmen-/Arbeitsprojekt, Signal-Gruppe "Firma (KI für Lehrer)")
+- **Firma mit Sheida – KI Upskilling** → `/workspace/agent/projekte/firma-sheida-ki-upskilling.md` (Ideen: Lehrer, Ärzte, Nanoclaw/Familienassistent)
 - **Aktive Projektliste** → `/workspace/agent/projekte-aktiv.md` (alle offenen Aufgaben)
 - **Maries Geburtstagsfeier** → `/workspace/agent/maries-geburtstag.md`
   - Maries Wünsche: Couscous Salat, Waldspiele im Wald
@@ -43,6 +44,9 @@ Sprachnachrichten kommen aktuell als `[Voice Message]` an — Transkription ist 
 
 ## Weitere Personen
 - **Suse** → To-Do-Liste: `/workspace/agent/suse-todo.md`
+
+## Haushalt
+- **Haushaltshilfe-Aufgaben** → `/workspace/agent/haushaltshilfe-aufgaben.md` (regelmäßig, Garten, quartalsweise)
 
 ## Task-Management-Regel
 **Immer beide Systeme parallel pflegen — gilt für ALLE Tasks:**

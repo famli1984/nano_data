@@ -1,6 +1,6 @@
 ---
 tags: [tasks, family, overview]
-updated: 2026-05-09 12:30
+updated: 2026-05-10 04:30
 calendar_source: posteo
 person: Familie
 type: tasks
@@ -8,7 +8,7 @@ type: tasks
 
 # ✅ Aufgaben – Übersicht
 
-> Automatisch synchronisiert am 09.05.2026 um 12:30 Uhr
+> Automatisch synchronisiert am 10.05.2026 um 04:30 Uhr
 
 - [ ] Stadtbücherei Bücher zurückgeben – fällig: 09.05.2026 02:00
 - [ ] Student für Haushaltshilfe – fällig: 11.05.2026 02:00
@@ -45,6 +45,7 @@ type: tasks
 - [ ] Auffahrkeil an Fahrradträger – fällig: 15.05.2026 02:00
 - [ ] Kartuschenkocher kaufen – fällig: 15.05.2026 02:00
   > EN417-kompatibel
+- [ ] Ki für Lehrer Repo – fällig: 15.05.2026 02:00
 - [ ] Arbeit – fällig: 15.05.2026 02:00
 - [ ] Silca 324 kaufen – fällig: 15.05.2026 02:00
 - [ ] Fensterbänke ölen – fällig: 16.05.2026 02:00
