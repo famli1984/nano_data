@@ -24,6 +24,7 @@ last_updated: 2026-05-08
 
 - [ ] **Ubuntu Pro hinzufügen** — Ubuntu Pro Abonnement aktivieren/verknüpfen
 - [ ] **Arbeits-Update-Kanal einrichten** — Weg, damit Pauline regelmäßige Updates zu Arbeitsaufgaben auf Andis Arbeitsaccount sendet
+- [ ] **Virenscanner auf allen PCs installieren**
 
 ## Haushalt & Verkauf
 
@@ -73,6 +74,9 @@ last_updated: 2026-05-08
 - [ ] Schuppen reinigen
 - [ ] Schuppen Mausfest machen
 - [ ] Tomaten einpflanzen
+- [ ] Kirschstamm zersägen
+- [ ] Zaun freischneiden
+- [ ] Gießen automatisieren
 
 ## Offene System-Aufgaben (Pauline)
 

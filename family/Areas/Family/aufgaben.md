@@ -1,6 +1,6 @@
 ---
 tags: [tasks, family, overview]
-updated: 2026-05-10 04:30
+updated: 2026-05-11 04:30
 calendar_source: posteo
 person: Familie
 type: tasks
@@ -8,7 +8,7 @@ type: tasks
 
 # ✅ Aufgaben – Übersicht
 
-> Automatisch synchronisiert am 10.05.2026 um 04:30 Uhr
+> Automatisch synchronisiert am 11.05.2026 um 04:30 Uhr
 
 - [ ] Stadtbücherei Bücher zurückgeben – fällig: 09.05.2026 02:00
 - [ ] Student für Haushaltshilfe – fällig: 11.05.2026 02:00
@@ -52,3 +52,7 @@ type: tasks
 - [ ] Küchenfronten ölen – fällig: 16.05.2026 02:00
 - [ ] Bad: Kalk und Schimmel entfernen – fällig: 16.05.2026 02:00
 - [ ] Dachrinnen säubern – fällig: 16.05.2026 02:00
+- [ ] Gießen automatisieren – fällig: 17.05.2026 02:00
+- [ ] Zaun freischneiden – fällig: 17.05.2026 02:00
+- [ ] Kirschstamm zersägen – fällig: 17.05.2026 02:00
+- [ ] Virenscanner auf allen PCs installieren – fällig: 17.05.2026 02:00

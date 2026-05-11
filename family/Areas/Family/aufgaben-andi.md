@@ -1,6 +1,6 @@
 ---
 tags: [tasks, andi]
-updated: 2026-05-10 04:30
+updated: 2026-05-11 04:30
 calendar_source: posteo
 person: Andi
 type: tasks
@@ -8,7 +8,7 @@ type: tasks
 
 # ✅ Aufgaben – Andi
 
-> Automatisch synchronisiert am 10.05.2026 um 04:30 Uhr
+> Automatisch synchronisiert am 11.05.2026 um 04:30 Uhr
 
 - [ ] Stadtbücherei Bücher zurückgeben – fällig: 09.05.2026 02:00
 - [ ] Student für Haushaltshilfe – fällig: 11.05.2026 02:00
@@ -30,3 +30,4 @@ type: tasks
 - [ ] Ki für Lehrer Repo – fällig: 15.05.2026 02:00
 - [ ] Arbeit – fällig: 15.05.2026 02:00
 - [ ] Silca 324 kaufen – fällig: 15.05.2026 02:00
+- [ ] Virenscanner auf allen PCs installieren – fällig: 17.05.2026 02:00
