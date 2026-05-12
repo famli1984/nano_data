@@ -1,6 +1,6 @@
 ---
 tags: [calendar, felix]
-updated: 2026-05-11 04:30
+updated: 2026-05-12 04:30
 calendar_source: posteo
 person: Felix
 type: calendar
@@ -9,7 +9,7 @@ sync_days_ahead: 30
 
 # 📅 Kalender – Felix
 
-> Automatisch synchronisiert am 11.05.2026 um 04:30 Uhr  
+> Automatisch synchronisiert am 12.05.2026 um 04:30 Uhr  
 > Zeigt Ereignisse der nächsten 30 Tage.
 
 ## Monday, 27. April 2026
@@ -89,3 +89,9 @@ sync_days_ahead: 30
 
 ## Monday, 08. June 2026
 - **Ganztag** – AS - Keine école
+
+## Wednesday, 10. June 2026
+- **17:00–19:30** – FMR - Mittwoch 2 Training 📍 Harbigweg 5
+
+## Thursday, 11. June 2026
+- **Ganztag** – S - Dienst

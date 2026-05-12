@@ -21,3 +21,11 @@ rsync error: some files/attrs were not transferred (see previous errors) (code 2
 To https://github.com/famli1984/nano_data.git
    3d668b7..751602c  main -> main
 Pushed.
+[main 2402d9d] backup: 2026-05-11 03:00 UTC
+ 18 files changed, 89 insertions(+), 360 deletions(-)
+ create mode 100644 agents/dm-with-andi/projekte/business-ideen.md
+ create mode 100644 agents/dm-with-andi/steuererklarung-2026.md
+ delete mode 100644 family/Resources/Knowledge/nanoclaw-installation.md
+To https://github.com/famli1984/nano_data.git
+   54d1554..2402d9d  main -> main
+Pushed.
