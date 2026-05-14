@@ -1,6 +1,6 @@
 ---
 tags: [calendar, family, overview]
-updated: 2026-05-13 04:30
+updated: 2026-05-14 04:30
 calendar_source: posteo
 person: Familie
 type: calendar
@@ -9,7 +9,7 @@ sync_days_ahead: 30
 
 # 📅 Familienkalender – Übersicht
 
-> Automatisch synchronisiert am 13.05.2026 um 04:30 Uhr  
+> Automatisch synchronisiert am 14.05.2026 um 04:30 Uhr  
 > Zeigt Ereignisse der nächsten 30 Tage.
 
 ## 👤 Andi
@@ -112,4 +112,8 @@ _Keine Termine._
 - **Ganztag** – S - Dienst
 - **15:00–17:00** – S - JF R1
 - **15:30–12.06. 10:00** – AS - Wolfgang in Hd
+
+### Friday, 12. June 2026
+- **12:30–13:30** – A - Friseur Andi
+- **18:30–14.06. 18:30** – AS - Langenzenner WE
 
