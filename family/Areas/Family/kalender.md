@@ -1,6 +1,6 @@
 ---
 tags: [calendar, family, overview]
-updated: 2026-05-15 04:30
+updated: 2026-05-16 04:30
 calendar_source: posteo
 person: Familie
 type: calendar
@@ -9,7 +9,7 @@ sync_days_ahead: 30
 
 # 📅 Familienkalender – Übersicht
 
-> Automatisch synchronisiert am 15.05.2026 um 04:30 Uhr  
+> Automatisch synchronisiert am 16.05.2026 um 04:30 Uhr  
 > Zeigt Ereignisse der nächsten 30 Tage.
 
 ## 👤 Andi
@@ -119,4 +119,7 @@ _Keine Termine._
 
 ### Sunday, 14. June 2026
 - **Ganztag** – FMR - Geburtstag Hans
+
+### Monday, 15. June 2026
+- **Ganztag** – S - Staatsexamen
 

@@ -13,6 +13,9 @@ last_updated: 2026-05-08
 
 - [ ] **Teams-Nachrichten durchgehen** — Links zu Dateien finden (mit Claude)
 - [ ] **Todos besser strukturieren**
+- [ ] **KI Termin Vorbereitung (Mittwoch 20.05.)** — fällig 20.05.
+  - [ ] GitHub füllen
+  - [ ] Mails hinzufügen
 
 ## Persönliches & Behörden
 
