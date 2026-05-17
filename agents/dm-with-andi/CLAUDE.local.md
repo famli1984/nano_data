@@ -30,7 +30,8 @@ Sprachnachrichten kommen aktuell als `[Voice Message]` an — Transkription ist 
 - **Steuererklärung 2026** → `/workspace/extra/familypara/03_Areas/Finances/steuerausgaben-2026.md`
 
 ## Listen & Ressourcen
-- **Bücherliste** → `/workspace/agent/buecherliste.md`
+- **Bücherliste** → `/workspace/agent/04_Resources/buecherliste.md`
+- **Filmliste** → `/workspace/agent/04_Resources/filmliste.md`
 - **Geschenkideen** → `/workspace/agent/geschenkideen.md`
 - **Essensliste / Koch** → `/workspace/extra/familypara/03_Areas/Food/essensliste.md`
 - **Urlaube & Packlisten** → `/workspace/extra/familypara/03_Areas/Urlaube/` (planung.md + packlisten/)
