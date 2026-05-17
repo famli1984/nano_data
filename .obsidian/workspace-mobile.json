@@ -166,6 +166,11 @@
   },
   "active": "11b088656d75adaf",
   "lastOpenFiles": [
+    "agents/dm-with-andi/CLAUDE.md",
+    "agents/dm-with-andi/01_Projekte/Business_ideen/business-ideen.md",
+    "agents/dm-with-andi/00_Todos",
+    "agents/dm-with-andi/04_Ressourcen",
+    "agents/dm-with-andi/01_Projekte/Business_ideen",
     "familypara/03_Areas/Urlaube/README.md",
     "familypara/03_Areas/Urlaube/planung.md",
     "familypara/03_Areas/Urlaube/packlisten/wochenende-bus.md",
@@ -190,8 +195,8 @@
     "packlisten/busreise-template.md",
     "familypara/03_Areas/Health/CLAUDE.md",
     "agents/dm-with-andi/urlaubsplanung.md",
-    "agents/dm-with-andi/areas/health/aerzte-suse.md",
-    "agents/dm-with-andi/areas/health/hausaerzte-bawue-umland.md",
+    "agents/dm-with-andi/02_Areas/health/aerzte-suse.md",
+    "agents/dm-with-andi/02_Areas/health/hausaerzte-bawue-umland.md",
     "sync.log",
     "scripts/pull_and_sync.sh"
   ]
