@@ -37,8 +37,7 @@ Sprachnachrichten kommen aktuell als `[Voice Message]` an — Transkription ist 
 - **Bücherliste** → `/workspace/agent/buecherliste.md`
 - **Geschenkideen** → `/workspace/agent/geschenkideen.md`
 - **Essensliste / Koch** → `/workspace/agent/essensliste.md`
-- **Packlisten** → `/workspace/agent/packlisten/` (winter-urlaub.md, sommer-bus-urlaub.md, wochenende-bus-urlaub.md, busreise-template.md)
-- **Urlaubsplanung** → `/workspace/agent/urlaubsplanung.md`
+- **Urlaube & Packlisten** → `/workspace/extra/familypara/03_Areas/Urlaube/` (planung.md + packlisten/)
 - **Wunschliste Zukunft** → `/workspace/agent/wunschliste-zukunft.md`
 - **Ärzte Suse** → `/workspace/agent/areas/health/aerzte-suse.md`
 - **Hausärzte Mannheim (Suse)** → `/workspace/agent/areas/health/hausaerzte-mannheim.md`
@@ -78,6 +77,7 @@ Das geteilte Familien-Wissenssystem liegt unter `/workspace/extra/familypara/`. 
 │   ├── Health/
 │   ├── House/                      ← checkliste.md, putzplan.md
 │   ├── School/
+│   ├── Urlaube/                    ← planung.md + packlisten/
 │   └── Vehicles/                   ← wartungsplan.md
 ├── 04_Resources/                   ← Referenzmaterial, Vorlagen, Wissen
 │   ├── Checklists/                 ← schuljahr-start.md, urlaub-packliste.md
@@ -97,7 +97,7 @@ Das geteilte Familien-Wissenssystem liegt unter `/workspace/extra/familypara/`. 
 2. **Familie betrifft** (Finanzen, Haus, Garten, Fahrzeuge, Kinder, Gesundheit Familie) → `/workspace/extra/familypara/03_Areas/<Bereich>/`
 3. **Nur Andi betrifft** (persönliche Listen, Projekte, Notizen) → `/workspace/agent/`
 4. **Steuern** → immer Familien-PARA: `03_Areas/Finances/steuerausgaben-YYYY.md` (eine Datei pro Jahr)
-5. **Packlisten** → `/workspace/agent/packlisten/` (Andis Reisen)
+5. **Urlaub & Packlisten** → immer Familien-PARA: `03_Areas/Urlaube/`
 
 ## Task-Management-Regel
 **Immer beide Systeme parallel pflegen — gilt für ALLE Tasks:**
