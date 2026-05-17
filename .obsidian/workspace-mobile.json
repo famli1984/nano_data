@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "familypara/03_Areas/Shopping/einkaufsliste.md",
+                "file": "familypara/03_Areas/Urlaube/packlisten/allgemein.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "einkaufsliste"
+              "title": "allgemein"
             }
           }
         ]
@@ -170,6 +170,8 @@
   },
   "active": "446638a5626e845d",
   "lastOpenFiles": [
+    "familypara/03_Areas/Urlaube/planung.md",
+    "familypara/03_Areas/Shopping/einkaufsliste.md",
     "familypara/03_Areas/Family/einkaufsliste.md",
     "familypara/03_Areas/Family/shared-todos.md",
     "agents/dm-with-andi/00_Todo/todos.md",
@@ -201,8 +203,6 @@
     "familypara/03_Areas/Family/abholplan.md",
     "familypara/03_Areas/Family",
     "familypara/02_Projects/suse/mailingliste_hausaerzte/hausaerzte-rlp.md",
-    "familypara/02_Projects/suse/mailingliste_hausaerzte/hausaerzte-mannheim.md",
-    "familypara/02_Projects/suse/mailingliste_hausaerzte/hausaerzte-hessen.md",
     "familypara/02_Projects/suse/mailingliste_hausaerzte",
     "familypara/02_Projects/suse",
     "agents/dm-with-andi/projekte/ki-fuer-lehrer"
