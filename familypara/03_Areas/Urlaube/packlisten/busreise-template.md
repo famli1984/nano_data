@@ -7,6 +7,12 @@ last_updated: 2026-05-17
 
 > Template basierend auf BusUrlaub-Checkliste. Kategorien je nach Reise aktivieren/deaktivieren.
 
+## Lebensmittel
+- [ ] Weißwein
+- [ ] Kaffee
+- [ ] Müsli
+- [ ] Milch
+
 ## Verpflegung (Fahrt)
 - [ ] Obst
 - [ ] Trinken
