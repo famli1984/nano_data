@@ -24,7 +24,7 @@ Sprachnachrichten kommen aktuell als `[Voice Message]` an — Transkription ist 
 ## Laufende Projekte
 - **KI für Lehrer** → `/workspace/agent/02_Projects/projekt-ki-fuer-lehrer.md` (Firmen-/Arbeitsprojekt, Signal-Gruppe "Firma (KI für Lehrer)")
 - **Business-Ideen** → `/workspace/agent/02_Projects/business-ideen/` (uebersicht.md + firma-sheida-ki-upskilling.md)
-- **Aktive Projektliste** → `/workspace/agent/projekte-aktiv.md` (alle offenen Aufgaben)
+- **Aktive Projektliste** → `/workspace/agent/00_Todo/projekte-aktiv.md` (alle offenen Aufgaben)
 
 ## Finanzen
 - **Steuererklärung 2026** → `/workspace/extra/familypara/03_Areas/Finances/steuerausgaben-2026.md`
