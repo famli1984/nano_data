@@ -7,6 +7,12 @@ last_updated: 2026-05-17
 
 > Template basierend auf BusUrlaub-Checkliste. Kategorien je nach Reise aktivieren/deaktivieren.
 
+## Verpflegung (Fahrt)
+- [ ] Obst
+- [ ] Trinken
+- [ ] Snacks
+- [ ] Sandwiches / Brot
+
 ## Küche
 - [ ] Gaspatronen
 - [ ] Trinkflaschen
@@ -17,7 +23,7 @@ last_updated: 2026-05-17
 
 ## Schlafen
 - [ ] Schlafsäcke (5x)
-- [ ] Laken / Wasserschutz
+- [ ] Laken
 - [ ] Kissen (4x)
 - [ ] Stirnlampen
 - [ ] Ohrstöpsel
@@ -31,20 +37,18 @@ last_updated: 2026-05-17
 - [ ] Kindershampoo
 - [ ] Zahnbürsten etc.
 - [ ] Handtücher
-- [ ] Windeln
 
 ## Medis
 - [ ] Mückenstift
 - [ ] Mückenschutz
 - [ ] Sonnencreme
 - [ ] Desinfektion
-- [ ] Ebastel
 - [ ] Aspiverin
 - [ ] 1. Hilfe-Kit
 - [ ] Pflaster
 - [ ] Zäpfchen
 - [ ] Thermometer
-- [ ] Aerochamber + Salbu
+
 
 ## Bus Ausstattung
 - [ ] Tarp
@@ -52,9 +56,7 @@ last_updated: 2026-05-17
 - [ ] Zeltplane
 - [ ] Picknickdecke
 - [ ] Windlicht
-- [ ] Roter Deckel
 - [ ] Tüten (Müll/Klo)
-- [ ] Pipiflasche
 
 ## Fahrradfahren
 - [ ] Helme
