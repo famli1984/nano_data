@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "familypara/03_Areas/Shopping/einkaufsliste.md",
+                "file": "packlisten/sommer-bus-urlaub.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "einkaufsliste"
+              "title": "sommer-bus-urlaub"
             }
           }
         ]
@@ -112,6 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "packlisten/sommer-bus-urlaub.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -130,6 +131,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "packlisten/sommer-bus-urlaub.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -143,7 +145,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "familypara/04_Resources/Checklists/urlaub-packliste.md",
+            "file": "packlisten/sommer-bus-urlaub.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -166,22 +168,22 @@
       "bases:Neue Base erstellen": false
     }
   },
-  "active": "4a474e221a8c26a0",
+  "active": "11b088656d75adaf",
   "lastOpenFiles": [
+    "packlisten/winter-urlaub.md",
+    "packlisten/wochenende-bus-urlaub.md",
+    "familypara/03_Areas/Shopping/einkaufsliste.md",
+    "familypara/04_Resources/Checklists/urlaub-packliste.md",
     "familypara/04_Resources/Checklists/schuljahr-start.md",
     "familypara/03_Areas/Family/shared-todos.md",
     "familypara/03_Areas/Shopping",
     "familypara/03_Areas/Family/kontakte.md",
-    "familypara/03_Areas/Shopping/einkaufsliste.md",
     "familypara/03_Areas/Family/CLAUDE.md",
-    "packlisten/wochenende-bus-urlaub.md",
     "familypara/03_Areas/Family/abholplan.md",
-    "packlisten/winter-urlaub.md",
     "packlisten/sommer-bus-urlaub.md",
     "familypara/03_Areas/Finances/steuerausgaben-2026.md",
     "packlisten/busreise-template.md",
     "familypara/03_Areas/Health/CLAUDE.md",
-    "familypara/04_Resources/Checklists/urlaub-packliste.md",
     "agents/dm-with-andi/urlaubsplanung.md",
     "agents/dm-with-andi/areas/health/aerzte-suse.md",
     "agents/dm-with-andi/areas/health/hausaerzte-bawue-umland.md",
