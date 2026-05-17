@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "familypara/00_Todo/CLAUDE.md",
+                "file": "agents/dm-with-andi/00_Todo/todos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CLAUDE"
+              "title": "todos"
             }
           }
         ]
@@ -168,8 +168,9 @@
       "bases:Neue Base erstellen": false
     }
   },
-  "active": "4a474e221a8c26a0",
+  "active": "446638a5626e845d",
   "lastOpenFiles": [
+    "familypara/00_Todo/CLAUDE.md",
     "familypara/03_Areas/Urlaube/packlisten/pfingsten-2026.md",
     "agents/dm-with-andi/conversations/2026-05-17-conversation-1948.md",
     "agents/dm-with-andi/00_Todo/todos.md",
@@ -202,7 +203,6 @@
     "familypara/02_Projects/suse/mailingliste_hausaerzte/hausaerzte-rlp.md",
     "familypara/02_Projects/suse/mailingliste_hausaerzte/hausaerzte-mannheim.md",
     "familypara/02_Projects/suse/mailingliste_hausaerzte/hausaerzte-hessen.md",
-    "familypara/02_Projects/suse/mailingliste_hausaerzte/hausaerzte-heidelberg.md",
     "familypara/02_Projects/suse/mailingliste_hausaerzte",
     "familypara/02_Projects/suse",
     "agents/dm-with-andi/projekte/ki-fuer-lehrer"
