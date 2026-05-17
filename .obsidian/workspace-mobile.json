@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "agents/dm-with-andi/00_Todos/Todos.md",
+                "file": "familypara/03_Areas/Food.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Todos"
+              "title": "Food"
             }
           }
         ]
@@ -168,9 +168,12 @@
       "bases:Neue Base erstellen": false
     }
   },
-  "active": "4a474e221a8c26a0",
+  "active": "11b088656d75adaf",
   "lastOpenFiles": [
+    "agents/dm-with-andi/04_Ressourcen/wunschliste-zukunft.md",
+    "familypara/03_Areas/Food.md",
     "agents/dm-with-andi/00_Todos/Todos.md",
+    "familypara/00_Todos",
     "agents/dm-with-andi/CLAUDE.md",
     "agents/dm-with-andi/01_Projekte/Business_ideen/business-ideen.md",
     "agents/dm-with-andi/00_Todos",
@@ -200,8 +203,6 @@
     "packlisten/busreise-template.md",
     "familypara/03_Areas/Health/CLAUDE.md",
     "agents/dm-with-andi/urlaubsplanung.md",
-    "familypara/02_Projects/health/aerzte-suse.md",
-    "familypara/02_Projects/health/hausaerzte-bawue-umland.md",
     "sync.log",
     "scripts/pull_and_sync.sh"
   ]
