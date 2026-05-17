@@ -43,6 +43,8 @@ last_updated: 2026-05-17
 - [ ] Kindershampoo
 - [ ] Zahnbürsten etc.
 - [ ] Handtücher
+- [ ] Sonnencreme
+- [ ] Waschmittel (Tabs)
 
 ## Medis
 - [ ] Mückenstift
@@ -88,27 +90,21 @@ last_updated: 2026-05-17
 
 ## Schwimmen
 - [ ] Badehosen / Shirts
-- [ ] Schwimmflügel
 - [ ] Taucherbrillen
 - [ ] Schnorchel
 - [ ] Handtücher
-- [ ] Sonnencreme
-- [ ] Strandmuschel
 - [ ] Neos
 - [ ] Sonnenhüte
 - [ ] Sonnenbrillen
 - [ ] Flipflops
 - [ ] Wasserschuhe
-- [ ] Schwimmwesten
 - [ ] Flossen
 - [ ] Schwimmbrillen
-- [ ] Waschmittel (Tabs)
 
 ## Spielen
 - [ ] Slackline
 - [ ] Malbuch + Stifte
 - [ ] Seifenblasen
-- [ ] Tiptoi
 - [ ] Frisbee
 - [ ] Drachen
 - [ ] Kinderbücher
