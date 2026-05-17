@@ -170,9 +170,12 @@
   },
   "active": "11b088656d75adaf",
   "lastOpenFiles": [
+    "familypara/03_Areas/Health/CLAUDE.md",
+    "familypara/03_Areas/Finances/steuerausgaben-2026.md",
+    "familypara/04_Resources/Checklists/urlaub-packliste.md",
+    "agents/dm-with-andi/urlaubsplanung.md",
     "agents/dm-with-andi/areas/health/aerzte-suse.md",
     "agents/dm-with-andi/areas/health/hausaerzte-bawue-umland.md",
-    "familypara/03_Areas/Finances/steuerausgaben-2026.md",
     "sync.log",
     "scripts/pull_and_sync.sh"
   ]
