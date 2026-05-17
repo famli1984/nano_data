@@ -15,9 +15,9 @@ managed_by: Steuerberater-Agent
 
 ### Handwerkerleistungen (max. 1.200 € Steuerbonus)
 
-| Datum | Dienstleister | Beschreibung | Lohnkosten € | Beleg | Bezahlt per |
-|-------|--------------|-------------|-------------|-------|-------------|
-| _(eintragen)_ | | | | ☐ | |
+| Datum         | Dienstleister | Beschreibung | Lohnkosten € | Beleg | Bezahlt per |
+| ------------- | ------------- | ------------ | ------------ | ----- | ----------- |
+| _(eintragen)_ | Maier         |              |              | ☐     |             |
 
 **Laufende Summe Lohnkosten:** 0 € / 6.000 €  
 **Voraussichtlicher Steuerbonus:** 0 € / 1.200 €
