@@ -164,8 +164,17 @@
       "bases:Neue Base erstellen": false
     }
   },
-  "active": "446638a5626e845d",
+  "active": "4a474e221a8c26a0",
   "lastOpenFiles": [
+    "agents/dm-with-andi/02_Projects/projekt-ki-fuer-lehrer.md",
+    "agents/dm-with-andi/02_Projects/projekt-hund.md",
+    "agents/dm-with-andi/02_Projects/ki-fuer-lehrer/kapitel-03-setup-github-copilot.md",
+    "agents/dm-with-andi/02_Projects/ki-fuer-lehrer/kapitel-02-begriffe.md",
+    "agents/dm-with-andi/02_Projects/ki-fuer-lehrer/kapitel-01-ki-loesungen.md",
+    "agents/dm-with-andi/02_Projects/ki-fuer-lehrer",
+    "agents/dm-with-andi/02_Projects/firma-sheida-ki-upskilling.md",
+    "agents/dm-with-andi/02_Projects/business-ideen.md",
+    "agents/dm-with-andi/02_Projects",
     "scripts/pull_and_sync.sh",
     "scripts/backup.sh",
     "familypara/04_Resources/Checklists/schuljahr-start.md",
@@ -191,16 +200,7 @@
     "agents/dm-with-andi/projekte/ki-fuer-lehrer/kapitel-02-begriffe.md",
     "agents/dm-with-andi/projekte/ki-fuer-lehrer/kapitel-01-ki-loesungen.md",
     "agents/dm-with-andi/projekte/projekt-ki-fuer-lehrer.md",
-    "agents/dm-with-andi/projekte/projekt-hund.md",
     "agents/dm-with-andi/projekte/ki-fuer-lehrer",
-    "agents/dm-with-andi/projekte/firma-sheida-ki-upskilling.md",
-    "agents/dm-with-andi/projekte/business-ideen.md",
-    "agents/dm-with-andi/projekte",
-    "agents/dm-with-andi/projekte-aktiv.md",
-    "agents/dm-with-andi/projekt-nano-einrichten.md",
-    "agents/dm-with-andi/maries-geburtstag.md",
-    "familypara/03_Areas/Food",
-    "familypara/00_Todos",
-    "agents/dm-with-andi/00_Todos"
+    "agents/dm-with-andi/projekte"
   ]
 }
