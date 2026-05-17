@@ -33,3 +33,7 @@ From https://github.com/famli1984/nano_data
    6411c47..eda1d81  main       -> origin/main
 fatal: Not possible to fast-forward, aborting.
 2026-05-17 15:30 UTC [pull_and_sync] ERROR: git pull failed (possible conflict — resolve manually)
+error: You have not concluded your merge (MERGE_HEAD exists).
+hint: Please, commit your changes before merging.
+fatal: Exiting because of unfinished merge.
+2026-05-17 15:35 UTC [pull_and_sync] ERROR: git pull failed (possible conflict — resolve manually)

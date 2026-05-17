@@ -10,8 +10,8 @@ cd "$REPO"
 BEFORE=$(git rev-parse HEAD)
 
 # Pull from GitHub; if there's a conflict, log and bail
-if ! git pull --ff-only origin main >> "$LOG" 2>&1; then
-  echo "$(date -u '+%Y-%m-%d %H:%M') UTC [pull_and_sync] ERROR: git pull failed (possible conflict — resolve manually)" >> "$LOG"
+if ! git pull --no-rebase origin main >> "$LOG" 2>&1; then
+  echo "$(date -u '+%Y-%m-%d %H:%M') UTC [pull_and_sync] ERROR: git pull failed (conflict needs manual resolution)" >> "$LOG"
   exit 1
 fi
 
