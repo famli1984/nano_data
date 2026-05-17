@@ -37,3 +37,31 @@ error: You have not concluded your merge (MERGE_HEAD exists).
 hint: Please, commit your changes before merging.
 fatal: Exiting because of unfinished merge.
 2026-05-17 15:35 UTC [pull_and_sync] ERROR: git pull failed (possible conflict — resolve manually)
+From https://github.com/famli1984/nano_data
+ * branch            main       -> FETCH_HEAD
+   5c6c8e6..c256752  main       -> origin/main
+Merge made by the 'ort' strategy.
+ .obsidian/workspace-mobile.json | 21 +++++++++++++--------
+ 1 file changed, 13 insertions(+), 8 deletions(-)
+2026-05-17 15:40 UTC [pull_and_sync] Pulled (no familypara changes).
+From https://github.com/famli1984/nano_data
+ * branch            main       -> FETCH_HEAD
+   c256752..15c9abf  main       -> origin/main
+CONFLICT (rename/rename): agents/dm-with-andi/areas/health/aerzte-suse.md renamed to familypara/02_Projects/suse/mailingliste_hausaerzte/aerzte-suse.md in HEAD and to agents/dm-with-andi/02_Areas/health/aerzte-suse.md in 15c9abffb9bf28afa5bc1f61d6b35d2213bba61d.
+CONFLICT (rename/rename): agents/dm-with-andi/areas/health/hausaerzte-bawue-umland.md renamed to familypara/02_Projects/suse/mailingliste_hausaerzte/hausaerzte-bawue-umland.md in HEAD and to agents/dm-with-andi/02_Areas/health/hausaerzte-bawue-umland.md in 15c9abffb9bf28afa5bc1f61d6b35d2213bba61d.
+CONFLICT (rename/rename): agents/dm-with-andi/areas/health/hausaerzte-heidelberg.md renamed to familypara/02_Projects/suse/mailingliste_hausaerzte/hausaerzte-heidelberg.md in HEAD and to agents/dm-with-andi/02_Areas/health/hausaerzte-heidelberg.md in 15c9abffb9bf28afa5bc1f61d6b35d2213bba61d.
+CONFLICT (rename/rename): agents/dm-with-andi/areas/health/hausaerzte-hessen.md renamed to familypara/02_Projects/suse/mailingliste_hausaerzte/hausaerzte-hessen.md in HEAD and to agents/dm-with-andi/02_Areas/health/hausaerzte-hessen.md in 15c9abffb9bf28afa5bc1f61d6b35d2213bba61d.
+CONFLICT (rename/rename): agents/dm-with-andi/areas/health/hausaerzte-mannheim.md renamed to familypara/02_Projects/suse/mailingliste_hausaerzte/hausaerzte-mannheim.md in HEAD and to agents/dm-with-andi/02_Areas/health/hausaerzte-mannheim.md in 15c9abffb9bf28afa5bc1f61d6b35d2213bba61d.
+CONFLICT (rename/rename): agents/dm-with-andi/areas/health/hausaerzte-rlp.md renamed to familypara/02_Projects/suse/mailingliste_hausaerzte/hausaerzte-rlp.md in HEAD and to agents/dm-with-andi/02_Areas/health/hausaerzte-rlp.md in 15c9abffb9bf28afa5bc1f61d6b35d2213bba61d.
+Automatic merge failed; fix conflicts and then commit the result.
+2026-05-17 15:45 UTC [pull_and_sync] ERROR: git pull failed (conflict needs manual resolution)
+error: Pulling is not possible because you have unmerged files.
+hint: Fix them up in the work tree, and then use 'git add/rm <file>'
+hint: as appropriate to mark resolution and make a commit.
+fatal: Exiting because of an unresolved conflict.
+2026-05-17 15:50 UTC [pull_and_sync] ERROR: git pull failed (conflict needs manual resolution)
+error: Pulling is not possible because you have unmerged files.
+hint: Fix them up in the work tree, and then use 'git add/rm <file>'
+hint: as appropriate to mark resolution and make a commit.
+fatal: Exiting because of an unresolved conflict.
+2026-05-17 15:55 UTC [pull_and_sync] ERROR: git pull failed (conflict needs manual resolution)
