@@ -54,11 +54,12 @@ Sprachnachrichten kommen aktuell als `[Voice Message]` an — Transkription ist 
 
 ## Familien-PARA-Struktur
 Das geteilte Familien-Wissenssystem liegt unter `/workspace/extra/familypara/`:
-- `0_Todo/` — gemeinsame Todos
-- `1_Projects/` — aktive Familienprojekte
-- `2_Areas/` — Dauerbereiche (Family, Finances, Garden, Health, House, School, Vehicles)
-- `3_Resources/` — Checklisten, Vorlagen, Wissen
-- `4_Archives/` — Abgeschlossenes
+- `00_Todo/` — gemeinsame Todos
+- `01_Calendars/` — automatisch synchronisierte Kalender & Aufgaben (Posteo CalDAV)
+- `02_Projects/` — aktive Familienprojekte
+- `03_Areas/` — Dauerbereiche (Family, Finances, Garden, Health, House, School, Vehicles)
+- `04_Resources/` — Checklisten, Vorlagen, Wissen
+- `05_Archives/` — Abgeschlossenes
 
 **Wichtig:** Niemals `/workspace/extra/nano_data/familypara/` verwenden — das ist nur ein nächtliches Backup und wird jede Nacht überschrieben. Immer den Live-Pfad oben nutzen.
 
