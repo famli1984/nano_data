@@ -102,7 +102,6 @@ last_updated: 2026-05-17
 - [ ] Schwimmwesten
 - [ ] Flossen
 - [ ] Schwimmbrillen
-- [ ] Walki-Talki
 - [ ] Waschmittel (Tabs)
 
 ## Spielen
@@ -126,6 +125,8 @@ last_updated: 2026-05-17
 - [ ] Persos
 - [ ] Geldbeutel
 - [ ] Ladekabel
+- [ ] Akkus
+- [ ] Walki-Talki
 - [ ] Schlüssel
 - [ ] E-Book
 - [ ] Reiseführer
