@@ -83,7 +83,6 @@ last_updated: 2026-05-17
 - [ ] Seil
 - [ ] Handschuhe
 - [ ] Hängematten
-- [ ] Klettersteigset
 - [ ] Kletterschuhe
 - [ ] Klettergurte
 
