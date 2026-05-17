@@ -11,10 +11,14 @@
             "id": "446638a5626e845d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "agents/dm-with-andi/CLAUDE.local.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Neuer Tab"
+              "title": "CLAUDE.local"
             }
           }
         ]
@@ -164,8 +168,10 @@
       "bases:Neue Base erstellen": false
     }
   },
-  "active": "4a474e221a8c26a0",
+  "active": "446638a5626e845d",
   "lastOpenFiles": [
+    "agents/dm-with-andi/CLAUDE.md",
+    "agents/dm-with-andi/00_Todo/projekte-aktiv.md",
     "agents/dm-with-andi/02_Projects/business-ideen/uebersicht.md",
     "agents/dm-with-andi/02_Projects/business-ideen/firma-sheida-ki-upskilling.md",
     "agents/dm-with-andi/02_Projects/business-ideen",
@@ -199,8 +205,6 @@
     "familypara/02_Projects/suse",
     "agents/dm-with-andi/wunschliste-zukunft.md",
     "agents/dm-with-andi/suse-todo.md",
-    "agents/dm-with-andi/projekte/ki-fuer-lehrer/kapitel-03-setup-github-copilot.md",
-    "agents/dm-with-andi/projekte/ki-fuer-lehrer/kapitel-02-begriffe.md",
     "agents/dm-with-andi/projekte/ki-fuer-lehrer"
   ]
 }
