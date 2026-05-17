@@ -31,7 +31,7 @@ Sprachnachrichten kommen aktuell als `[Voice Message]` an — Transkription ist 
   - Maries Wünsche: Couscous Salat, Waldspiele im Wald
 
 ## Finanzen
-- **Steuererklärung 2026** → `/workspace/agent/steuererklarung-2026.md` (Belege sammeln)
+- **Steuererklärung 2026** → `/workspace/extra/familypara/03_Areas/Finances/steuerausgaben-2026.md`
 
 ## Listen & Ressourcen
 - **Bücherliste** → `/workspace/agent/buecherliste.md`
@@ -91,6 +91,13 @@ Das geteilte Familien-Wissenssystem liegt unter `/workspace/extra/familypara/`. 
 - Für neue Familienprojekte → `02_Projects/`
 - Abgeschlossene Projekte/Todos → `05_Archives/` verschieben (mit Datum)
 - Änderungen werden automatisch in Echtzeit nach GitHub gesichert
+
+**Wo neue Dateien anlegen — Entscheidungsregel:**
+1. **Vor dem Anlegen immer prüfen**, ob eine passende Datei bereits existiert (familypara UND /workspace/agent/)
+2. **Familie betrifft** (Finanzen, Haus, Garten, Fahrzeuge, Kinder, Gesundheit Familie) → `/workspace/extra/familypara/03_Areas/<Bereich>/`
+3. **Nur Andi betrifft** (persönliche Listen, Projekte, Notizen) → `/workspace/agent/`
+4. **Steuern** → immer Familien-PARA: `03_Areas/Finances/steuerausgaben-YYYY.md` (eine Datei pro Jahr)
+5. **Packlisten** → `/workspace/agent/packlisten/` (Andis Reisen)
 
 ## Task-Management-Regel
 **Immer beide Systeme parallel pflegen — gilt für ALLE Tasks:**

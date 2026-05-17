@@ -59,7 +59,21 @@ managed_by: Steuerberater-Agent
 
 | Datum | Artikel | Betrag € | Beruflich % | Absetzbar € | Beleg |
 |-------|---------|---------|------------|------------|-------|
-| _(eintragen)_ | | | | | ☐ |
+| 2026 | Schuhe Jack Wolfskin | 99,95 | | | - |
+
+## Software & Abonnements
+
+| Datum | Beschreibung | Betrag € | Beleg |
+|-------|-------------|---------|-------|
+| 2026-05 | GitSync | 21,00 | - |
+| 2026 | Anthropic (Claude/API) | _(Betrag eintragen)_ | - |
+| 2026 | Hetzner Server | _(Betrag eintragen)_ | - |
+
+## Hardware
+
+| Datum | Artikel | Betrag € | Beruflich % | Absetzbar € | Beleg |
+|-------|---------|---------|------------|------------|-------|
+| 2026 | Laptop Felix | _(Betrag eintragen)_ | _(%)_ | | - |
 
 ---
 

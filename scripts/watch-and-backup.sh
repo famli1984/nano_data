@@ -1,37 +1,33 @@
 #!/usr/bin/env bash
 # Watches nanoclaw group folders for file changes and triggers backup.
-# Debounces: waits 10s of quiet after the last change before running.
+# Uses a flag file for debounce so the state is shared between processes.
 set -euo pipefail
 
 WATCH_DIR="/home/nano2/nanoclaw/groups"
 BACKUP_SCRIPT="/home/nano2/nano_data/scripts/backup.sh"
-DEBOUNCE=10  # seconds to wait after last change
+DEBOUNCE=10  # seconds of quiet before backup fires
+FLAG="/tmp/nanoclaw-backup-pending"
 
+rm -f "$FLAG"
 echo "[watch-and-backup] Starting. Watching $WATCH_DIR"
 
-pending=false
-last_change=0
-
+# Write current timestamp to flag file on every relevant change
 inotifywait -m -r -q \
   --exclude '(\.claude-shared|\.claude-fragments|hooks|\.heartbeat|\.db-shm|\.db-wal|conversations)' \
   -e close_write,create,delete,move \
-  "$WATCH_DIR" |
-while read -r _dir _event _file; do
-  last_change=$(date +%s)
-  if ! $pending; then
-    pending=true
-    (
-      while true; do
-        sleep 1
-        now=$(date +%s)
-        elapsed=$(( now - last_change ))
-        if (( elapsed >= DEBOUNCE )); then
-          echo "[watch-and-backup] Change detected — running backup"
-          bash "$BACKUP_SCRIPT" && echo "[watch-and-backup] Done." || echo "[watch-and-backup] Backup failed."
-          pending=false
-          exit 0
-        fi
-      done
-    ) &
+  "$WATCH_DIR" | while read -r _line; do
+    date +%s > "$FLAG"
+  done &
+
+# Poll the flag every 2s; once it's DEBOUNCE seconds old, run backup
+while true; do
+  sleep 2
+  [ -f "$FLAG" ] || continue
+  trigger=$(cat "$FLAG")
+  now=$(date +%s)
+  if (( now - trigger >= DEBOUNCE )); then
+    rm -f "$FLAG"
+    echo "[watch-and-backup] Change detected — running backup"
+    bash "$BACKUP_SCRIPT" && echo "[watch-and-backup] Done." || echo "[watch-and-backup] Backup failed."
   fi
 done
