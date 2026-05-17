@@ -106,3 +106,20 @@ To https://github.com/famli1984/nano_data.git
 Pushed.
 [watch-and-backup] Done.
 [watch-and-backup] Change detected — running backup
+[main d805aa1] backup: 2026-05-17 15:24 UTC
+ 6 files changed, 276 insertions(+)
+ create mode 100644 familypara/03_Areas/Urlaube/packlisten/busreise-template.md
+ create mode 100644 familypara/03_Areas/Urlaube/packlisten/sommer-bus.md
+ create mode 100644 familypara/03_Areas/Urlaube/packlisten/winter-urlaub.md
+ create mode 100644 familypara/03_Areas/Urlaube/packlisten/wochenende-bus.md
+ create mode 100644 familypara/03_Areas/Urlaube/planung.md
+To https://github.com/famli1984/nano_data.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/famli1984/nano_data.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+[watch-and-backup] Backup failed.
+[watch-and-backup] Change detected — running backup

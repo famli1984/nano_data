@@ -1,12 +1,13 @@
 ---
-tags: [urlaub, checkliste, resources]
+tags: [urlaub, checkliste, packliste, allgemein]
+last_updated: 2026-05-17
 ---
 
-# 🧳 Urlaub-Packliste
+# Packliste: Allgemein (alle Reisen)
 
 ## Dokumente
 - [ ] Reisepässe / Personalausweise (alle)
-- [ ] Versicherungskarten (Krankenversicherung)
+- [ ] Krankenversicherungskarten
 - [ ] Buchungsbestätigungen
 - [ ] Notfallkontakte
 
@@ -32,6 +33,3 @@ tags: [urlaub, checkliste, resources]
 - [ ] Pflanzen gießen / Nachbarn beauftragen
 - [ ] Post-Nachsendeauftrag oder Nachbarn bitten
 - [ ] Hausmeister informieren
-
----
-*Tags: `#urlaub #checkliste #packing`*
