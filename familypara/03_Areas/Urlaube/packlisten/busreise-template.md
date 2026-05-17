@@ -32,7 +32,6 @@ last_updated: 2026-05-17
 - [ ] Laken
 - [ ] Kissen (4x)
 - [ ] Stirnlampen
-- [ ] Ohrstöpsel
 - [ ] Isomatten
 
 ## Badezimmer
@@ -61,7 +60,8 @@ last_updated: 2026-05-17
 ## Bus Ausstattung
 - [ ] Tarp
 - [ ] Wurfzelt
-- [ ] Zeltplane
+- [ ] Zelt
+- [ ] Luftmatratze
 - [ ] Picknickdecke
 - [ ] Windlicht
 - [ ] Tüten (Müll/Klo)
@@ -75,8 +75,17 @@ last_updated: 2026-05-17
 - [ ] Schläuche
 - [ ] Fahrradflaschen
 - [ ] Pumpe
-- [ ] Trinkblase
 - [ ] Fahrrad-Warnschild
+- [ ] Fahrradschuhe
+- [ ] Garmin
+
+## Kleidung
+- [ ] Regenjacken
+- [ ] Daunenjacken
+- [ ] Mützen
+- [ ] Wanderschuhe
+- [ ] Blauer Rucksack
+- [ ] Wanderrucksack
 
 ## Klettern
 - [ ] Kletterhelme
@@ -113,17 +122,22 @@ last_updated: 2026-05-17
 - [ ] Beachboule
 - [ ] Kartenspiele
 - [ ] Wasserspritze
+
+## Elektronik
+- [ ] Laptops
+- [ ] Handy-Ladegeräte
+- [ ] Ladekabel
+- [ ] Power Bank
+- [ ] Akkus
+- [ ] Walki-Talki
+- [ ] Foto + Kabel
+- [ ] E-Book
 - [ ] Tablet
 - [ ] Kopfhörer + Handy
 
 ## Sonstiges / Dokumente
-- [ ] Foto + Kabel
 - [ ] Versicherungskarten
 - [ ] Persos
 - [ ] Geldbeutel
-- [ ] Ladekabel
-- [ ] Akkus
-- [ ] Walki-Talki
 - [ ] Schlüssel
-- [ ] E-Book
 - [ ] Reiseführer
