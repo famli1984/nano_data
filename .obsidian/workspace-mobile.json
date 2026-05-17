@@ -11,14 +11,10 @@
             "id": "11b088656d75adaf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "packlisten/sommer-bus-urlaub.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "sommer-bus-urlaub"
+              "title": "Neuer Tab"
             }
           }
         ]
@@ -170,6 +166,16 @@
   },
   "active": "11b088656d75adaf",
   "lastOpenFiles": [
+    "familypara/03_Areas/Urlaube/README.md",
+    "familypara/03_Areas/Urlaube/planung.md",
+    "familypara/03_Areas/Urlaube/packlisten/wochenende-bus.md",
+    "familypara/03_Areas/Urlaube/packlisten/winter-urlaub.md",
+    "familypara/03_Areas/Urlaube/packlisten/sommer-bus.md",
+    "familypara/03_Areas/Urlaube/packlisten/busreise-template.md",
+    "familypara/03_Areas/Urlaube/packlisten/allgemein.md",
+    "familypara/03_Areas/Urlaube/packlisten",
+    "familypara/03_Areas/Urlaube",
+    "packlisten/sommer-bus-urlaub.md",
     "packlisten/winter-urlaub.md",
     "packlisten/wochenende-bus-urlaub.md",
     "familypara/03_Areas/Shopping/einkaufsliste.md",
@@ -180,7 +186,6 @@
     "familypara/03_Areas/Family/kontakte.md",
     "familypara/03_Areas/Family/CLAUDE.md",
     "familypara/03_Areas/Family/abholplan.md",
-    "packlisten/sommer-bus-urlaub.md",
     "familypara/03_Areas/Finances/steuerausgaben-2026.md",
     "packlisten/busreise-template.md",
     "familypara/03_Areas/Health/CLAUDE.md",
