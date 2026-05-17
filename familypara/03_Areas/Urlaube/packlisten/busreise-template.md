@@ -57,12 +57,12 @@ last_updated: 2026-05-17
 
 ## Bus Ausstattung
 - [ ] Tarp
-- [ ] Wurfzelt
 - [ ] Zelt
 - [ ] Luftmatratze
 - [ ] Picknickdecke
 - [ ] Windlicht
 - [ ] Tüten (Müll/Klo)
+- [ ] Hängematten
 - [ ] Taschenmesser
 
 ## Fahrradfahren
@@ -75,6 +75,8 @@ last_updated: 2026-05-17
 - [ ] Pumpe
 - [ ] Fahrrad-Warnschild
 - [ ] Fahrradschuhe
+- [ ] Radjacken
+- [ ] Rad Klamotten
 
 ## Kleidung
 - [ ] Regenjacken
@@ -83,6 +85,11 @@ last_updated: 2026-05-17
 - [ ] Wanderschuhe
 - [ ] Blauer Rucksack
 - [ ] Wanderrucksack
+- [ ] Kleidung Felix
+- [ ] Kleidung Marie
+- [ ] Kleidung Rosa
+- [ ] Kleidung Suse
+- [ ] Kleidung Andi
 
 ## Klettern
 - [ ] Kletterhelme
@@ -90,7 +97,6 @@ last_updated: 2026-05-17
 - [ ] Sicherungsgeräte
 - [ ] Seil
 - [ ] Handschuhe
-- [ ] Hängematten
 - [ ] Kletterschuhe
 - [ ] Klettergurte
 
@@ -110,7 +116,6 @@ last_updated: 2026-05-17
 ## Spielen
 - [ ] Slackline
 - [ ] Malbuch + Stifte
-- [ ] Seifenblasen
 - [ ] Frisbee
 - [ ] Drachen
 - [ ] Kinderbücher
