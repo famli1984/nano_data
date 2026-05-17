@@ -39,6 +39,10 @@ for group in \
 done
 
 cd "$DST"
+
+# Pull remote changes first to avoid divergence
+git pull --no-rebase origin main
+
 git add -A
 if git diff --cached --quiet; then
   echo "Nothing changed."
