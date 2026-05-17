@@ -26,14 +26,13 @@ last_updated: 2026-05-17
 - [ ] Tupperdosen
 - [ ] Scharfe Messer
 - [ ] Kaffeesachen
+- [ ] Salz
+- [ ] Spülschwamm
 
 ## Schlafen
 - [ ] Schlafsäcke (5x)
 - [ ] Laken
-- [ ] Kissen (4x)
-- [ ] Stirnlampen
-- [ ] Ohrstöpsel
-- [ ] Isomatten
+- [ ] Kissen (5x)
 
 ## Badezimmer
 - [ ] Toilettenpapier
@@ -41,8 +40,13 @@ last_updated: 2026-05-17
 - [ ] Nagelknipser
 - [ ] Feuchttücher
 - [ ] Kindershampoo
+- [ ] Shampoo
+- [ ] Haargummis
+- [ ] Haarbürste
 - [ ] Zahnbürsten etc.
 - [ ] Handtücher
+- [ ] Sonnencreme
+- [ ] Waschmittel (Tabs)
 
 ## Medis
 - [ ] Mückenstift
@@ -54,15 +58,19 @@ last_updated: 2026-05-17
 - [ ] Pflaster
 - [ ] Zäpfchen
 - [ ] Thermometer
+- [ ] Cetirizin
+- [ ] Lippenpflege mit LSF
 
 
 ## Bus Ausstattung
 - [ ] Tarp
-- [ ] Wurfzelt
-- [ ] Zeltplane
+- [ ] Zelt
+- [ ] Luftmatratze
 - [ ] Picknickdecke
 - [ ] Windlicht
 - [ ] Tüten (Müll/Klo)
+- [ ] Hängematten
+- [ ] Wasserkanister
 - [ ] Taschenmesser
 
 ## Fahrradfahren
@@ -73,8 +81,26 @@ last_updated: 2026-05-17
 - [ ] Schläuche
 - [ ] Fahrradflaschen
 - [ ] Pumpe
-- [ ] Trinkblase
 - [ ] Fahrrad-Warnschild
+- [ ] Fahrradlicht
+- [ ] Fahrradschloss
+- [ ] Flickzeug
+- [ ] Fahrradschuhe
+- [ ] Radjacken
+- [ ] Rad Klamotten
+
+## Kleidung
+- [ ] Regenjacken
+- [ ] Daunenjacken
+- [ ] Mützen
+- [ ] Wanderschuhe
+- [ ] Blauer Rucksack
+- [ ] Wanderrucksack
+- [ ] Kleidung Felix
+- [ ] Kleidung Marie
+- [ ] Kleidung Rosa
+- [ ] Kleidung Suse
+- [ ] Kleidung Andi
 
 ## Klettern
 - [ ] Kletterhelme
@@ -82,51 +108,54 @@ last_updated: 2026-05-17
 - [ ] Sicherungsgeräte
 - [ ] Seil
 - [ ] Handschuhe
-- [ ] Hängematten
-- [ ] Klettersteigset
 - [ ] Kletterschuhe
 - [ ] Klettergurte
 
 ## Schwimmen
 - [ ] Badehosen / Shirts
-- [ ] Schwimmflügel
 - [ ] Taucherbrillen
 - [ ] Schnorchel
 - [ ] Handtücher
-- [ ] Sonnencreme
-- [ ] Strandmuschel
 - [ ] Neos
 - [ ] Sonnenhüte
 - [ ] Sonnenbrillen
 - [ ] Flipflops
 - [ ] Wasserschuhe
-- [ ] Schwimmwesten
 - [ ] Flossen
 - [ ] Schwimmbrillen
-- [ ] Walki-Talki
-- [ ] Waschmittel (Tabs)
 
 ## Spielen
 - [ ] Slackline
 - [ ] Malbuch + Stifte
-- [ ] Seifenblasen
-- [ ] Tiptoi
 - [ ] Frisbee
 - [ ] Drachen
 - [ ] Kinderbücher
+- [ ] Spikeball
 - [ ] Speedminton
-- [ ] Beachboule
 - [ ] Kartenspiele
 - [ ] Wasserspritze
+
+## Elektronik
+- [ ] Laptops
+- [ ] Handy-Ladegeräte
+- [ ] Ladekabel
+- [ ] Power Bank
+- [ ] Akkus
+- [ ] Wecker
+- [ ] Stirnlampen
+- [ ] Garmin
+- [ ] Walki-Talki
+- [ ] Kamera
+- [ ] Foto + Kabel
+- [ ] E-Book
 - [ ] Tablet
 - [ ] Kopfhörer + Handy
 
 ## Sonstiges / Dokumente
-- [ ] Foto + Kabel
 - [ ] Versicherungskarten
 - [ ] Persos
 - [ ] Geldbeutel
-- [ ] Ladekabel
+- [ ] Bargeld
+- [ ] CHF
 - [ ] Schlüssel
-- [ ] E-Book
 - [ ] Reiseführer
