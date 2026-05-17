@@ -33,7 +33,7 @@ Sprachnachrichten kommen aktuell als `[Voice Message]` an — Transkription ist 
 - **Merklisten** (Bücher, Filme, Geschenke) → `/workspace/agent/04_Resources/merklisten/`
 - **Essensliste / Koch** → `/workspace/extra/familypara/03_Areas/Food/essensliste.md`
 - **Urlaube & Packlisten** → `/workspace/extra/familypara/03_Areas/Urlaube/` (planung.md + packlisten/)
-- **Wunschliste Zukunft** → `/workspace/agent/wunschliste-zukunft.md`
+- **Wunschliste Zukunft** → `/workspace/extra/familypara/03_Areas/Shopping/wunschliste-zukunft.md`
 - **Hausärzte-Mailingliste (Suse)** → `/workspace/extra/familypara/02_Projects/suse/mailingliste_hausaerzte/` (aerzte-suse, mannheim, heidelberg, rlp, hessen, bawue-umland)
 
 ## Weitere Personen
