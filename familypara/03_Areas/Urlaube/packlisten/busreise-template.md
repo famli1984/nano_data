@@ -57,6 +57,7 @@ last_updated: 2026-05-17
 - [ ] Picknickdecke
 - [ ] Windlicht
 - [ ] Tüten (Müll/Klo)
+- [ ] Taschenmesser
 
 ## Fahrradfahren
 - [ ] Helme
@@ -89,6 +90,8 @@ last_updated: 2026-05-17
 - [ ] Sonnencreme
 - [ ] Strandmuschel
 - [ ] Neos
+- [ ] Sonnenhüte
+- [ ] Sonnenbrillen
 - [ ] Flipflops
 - [ ] Wasserschuhe
 - [ ] Schwimmwesten
