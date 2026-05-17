@@ -11,10 +11,14 @@
             "id": "11b088656d75adaf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "agents/dm-with-andi/00_Todos/Todos.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Neuer Tab"
+              "title": "Todos"
             }
           }
         ]
@@ -164,8 +168,9 @@
       "bases:Neue Base erstellen": false
     }
   },
-  "active": "11b088656d75adaf",
+  "active": "4a474e221a8c26a0",
   "lastOpenFiles": [
+    "agents/dm-with-andi/00_Todos/Todos.md",
     "agents/dm-with-andi/CLAUDE.md",
     "agents/dm-with-andi/01_Projekte/Business_ideen/business-ideen.md",
     "agents/dm-with-andi/00_Todos",
