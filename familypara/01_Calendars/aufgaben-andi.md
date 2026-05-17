@@ -1,6 +1,6 @@
 ---
 tags: [tasks, andi]
-updated: 2026-05-18 01:00
+updated: 2026-05-18 01:30
 calendar_source: posteo
 person: Andi
 type: tasks
@@ -8,7 +8,7 @@ type: tasks
 
 # ✅ Aufgaben – Andi
 
-> Automatisch synchronisiert am 18.05.2026 um 01:00 Uhr
+> Automatisch synchronisiert am 18.05.2026 um 01:30 Uhr
 
 - [ ] Stadtbücherei Bücher zurückgeben – fällig: 09.05.2026 02:00
 - [ ] Todos besser strukturieren – fällig: 15.05.2026 02:00
