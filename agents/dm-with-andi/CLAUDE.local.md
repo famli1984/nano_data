@@ -100,4 +100,4 @@ Das geteilte Familien-Wissenssystem liegt unter `/workspace/extra/familypara/`. 
 - **hausmeister** → Haus & Grundstück: Wartung, Handwerker, Haushalt, Verkauf
 
 ## System-Notizen
-- **Nano-Setup-Projekt** → `/workspace/agent/projekt-nano-einrichten.md`
+- **Nano-Setup-Projekt** → `/workspace/agent/02_Projects/projekt-nano-einrichten.md`
