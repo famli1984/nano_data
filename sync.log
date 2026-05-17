@@ -1,0 +1,17 @@
+From https://github.com/famli1984/nano_data
+ * branch            main       -> FETCH_HEAD
+   16ed645..7678c0f  main       -> origin/main
+Updating 16ed645..7678c0f
+Fast-forward
+ .obsidian/app.json                                 |   1 +
+ .obsidian/appearance.json                          |   1 +
+ .obsidian/core-plugins.json                        |  32 ++++
+ .obsidian/workspace-mobile.json                    | 173 +++++++++++++++++++++
+ .../03_Areas/Finances/steuerausgaben-2026.md       |   6 +-
+ 5 files changed, 210 insertions(+), 3 deletions(-)
+ create mode 100644 .obsidian/app.json
+ create mode 100644 .obsidian/appearance.json
+ create mode 100644 .obsidian/core-plugins.json
+ create mode 100644 .obsidian/workspace-mobile.json
+2026-05-17 15:16 UTC [pull_and_sync] familypara changed — syncing to live...
+2026-05-17 15:16 UTC [pull_and_sync] Done.
