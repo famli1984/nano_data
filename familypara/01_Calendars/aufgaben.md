@@ -1,6 +1,6 @@
 ---
 tags: [tasks, family, overview]
-updated: 2026-05-17 23:30
+updated: 2026-05-18 00:00
 calendar_source: posteo
 person: Familie
 type: tasks
@@ -8,7 +8,7 @@ type: tasks
 
 # ✅ Aufgaben – Übersicht
 
-> Automatisch synchronisiert am 17.05.2026 um 23:30 Uhr
+> Automatisch synchronisiert am 18.05.2026 um 00:00 Uhr
 
 - [ ] Stadtbücherei Bücher zurückgeben – fällig: 09.05.2026 02:00
 - [ ] Schuppen Mausfest machen – fällig: 15.05.2026 02:00
