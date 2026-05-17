@@ -9,7 +9,7 @@ rsync -a --delete \
   --exclude='.claude-shared.md' \
   --exclude='.claude-fragments/' \
   --exclude='hooks/' \
-  "$SRC/family/" "$DST/family/"
+  "$SRC/familypara/" "$DST/familypara/"
 
 # shared global resources (Areas, Support docs)
 if [ -d "$SRC/global" ]; then

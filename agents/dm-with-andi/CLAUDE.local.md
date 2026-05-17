@@ -37,7 +37,7 @@ Sprachnachrichten kommen aktuell als `[Voice Message]` an — Transkription ist 
 - **Bücherliste** → `/workspace/agent/buecherliste.md`
 - **Geschenkideen** → `/workspace/agent/geschenkideen.md`
 - **Essensliste / Koch** → `/workspace/agent/essensliste.md`
-- **Packlisten** → `/workspace/agent/packlisten/` (winter-urlaub.md, sommer-bus-urlaub.md, wochenende-bus-urlaub.md)
+- **Packlisten** → `/workspace/agent/packlisten/` (winter-urlaub.md, sommer-bus-urlaub.md, wochenende-bus-urlaub.md, busreise-template.md)
 - **Urlaubsplanung** → `/workspace/agent/urlaubsplanung.md`
 - **Wunschliste Zukunft** → `/workspace/agent/wunschliste-zukunft.md`
 - **Ärzte Suse** → `/workspace/agent/areas/health/aerzte-suse.md`
