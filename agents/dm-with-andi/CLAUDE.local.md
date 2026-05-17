@@ -53,15 +53,44 @@ Sprachnachrichten kommen aktuell als `[Voice Message]` an — Transkription ist 
 - **Haushaltshilfe-Aufgaben** → `/workspace/agent/haushaltshilfe-aufgaben.md` (regelmäßig, Garten, quartalsweise)
 
 ## Familien-PARA-Struktur
-Das geteilte Familien-Wissenssystem liegt unter `/workspace/extra/familypara/`:
-- `00_Todo/` — gemeinsame Todos
-- `01_Calendars/` — automatisch synchronisierte Kalender & Aufgaben (Posteo CalDAV)
-- `02_Projects/` — aktive Familienprojekte
-- `03_Areas/` — Dauerbereiche (Family, Finances, Garden, Health, House, School, Vehicles)
-- `04_Resources/` — Checklisten, Vorlagen, Wissen
-- `05_Archives/` — Abgeschlossenes
+Das geteilte Familien-Wissenssystem liegt unter `/workspace/extra/familypara/`. Dies ist der einzige korrekte Pfad — immer diesen verwenden.
 
-**Wichtig:** Niemals `/workspace/extra/nano_data/familypara/` verwenden — das ist nur ein nächtliches Backup und wird jede Nacht überschrieben. Immer den Live-Pfad oben nutzen.
+```
+/workspace/extra/familypara/
+├── 00_Todo/                        ← gemeinsame Familien-Todos
+├── 01_Calendars/                   ← automatisch alle 30 Min. von Posteo CalDAV synchronisiert (nicht manuell bearbeiten)
+│   ├── kalender.md                 ← Übersicht alle Personen
+│   ├── kalender-andi.md
+│   ├── kalender-suse.md
+│   ├── kalender-familie.md
+│   ├── kalender-felix.md
+│   ├── kalender-marie.md
+│   ├── kalender-rosa.md
+│   ├── aufgaben.md                 ← Übersicht alle Aufgaben
+│   ├── aufgaben-andi.md
+│   ├── aufgaben-suse.md
+│   └── aufgaben-familie.md
+├── 02_Projects/                    ← aktive Familienprojekte mit Ziel & Deadline
+├── 03_Areas/                       ← Dauerhaft laufende Verantwortungsbereiche
+│   ├── Family/                     ← abholplan.md, einkaufsliste.md, kontakte.md, shared-todos.md
+│   ├── Finances/                   ← steuerausgaben-2026.md
+│   ├── Garden/                     ← checkliste.md
+│   ├── Health/
+│   ├── House/                      ← checkliste.md, putzplan.md
+│   ├── School/
+│   └── Vehicles/                   ← wartungsplan.md
+├── 04_Resources/                   ← Referenzmaterial, Vorlagen, Wissen
+│   ├── Checklists/                 ← schuljahr-start.md, urlaub-packliste.md
+│   ├── Knowledge/                  ← family-profile.md
+│   └── Templates/                  ← project-template.md, weekly-report-template.md
+└── 05_Archives/                    ← Abgeschlossenes & Inaktives
+```
+
+**Regeln:**
+- `01_Calendars/` wird automatisch überschrieben — dort niemals manuell schreiben
+- Für neue Familienprojekte → `02_Projects/`
+- Abgeschlossene Projekte/Todos → `05_Archives/` verschieben (mit Datum)
+- Änderungen werden automatisch in Echtzeit nach GitHub gesichert
 
 ## Task-Management-Regel
 **Immer beide Systeme parallel pflegen — gilt für ALLE Tasks:**
