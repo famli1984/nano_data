@@ -22,10 +22,9 @@ Antworten immer **in dem Kanal, aus dem die Nachricht stammt** — niemals in ei
 Sprachnachrichten kommen aktuell als `[Voice Message]` an — Transkription ist noch nicht konfiguriert (kein Whisper, kein OpenAI-Key). Wenn du `[Voice Message]` als Nachrichteninhalt erhältst, antworte auf Deutsch sinngemäß: „Ich hab deine Sprachnachricht erhalten, kann sie aber gerade nicht abhören — schick sie bitte nochmal als Text."
 
 ## Laufende Projekte
-- **Hund anschaffen** → `/workspace/agent/projekte/projekt-hund.md` (Planungsphase)
-- **KI für Lehrer** → `/workspace/agent/projekte/projekt-ki-fuer-lehrer.md` (Firmen-/Arbeitsprojekt, Signal-Gruppe "Firma (KI für Lehrer)")
-- **Firma mit Sheida – KI Upskilling** → `/workspace/agent/projekte/firma-sheida-ki-upskilling.md` (Ideen: Lehrer, Ärzte, Nanoclaw/Familienassistent)
-- **Business-Ideen Übersicht** → `/workspace/agent/projekte/business-ideen.md` (alle Ideen inkl. Toni/Marina/Sheida)
+- **KI für Lehrer** → `/workspace/agent/02_Projects/projekt-ki-fuer-lehrer.md` (Firmen-/Arbeitsprojekt, Signal-Gruppe "Firma (KI für Lehrer)")
+- **Firma mit Sheida – KI Upskilling** → `/workspace/agent/02_Projects/firma-sheida-ki-upskilling.md` (Ideen: Lehrer, Ärzte, Nanoclaw/Familienassistent)
+- **Business-Ideen Übersicht** → `/workspace/agent/02_Projects/business-ideen.md` (alle Ideen inkl. Toni/Marina/Sheida)
 - **Aktive Projektliste** → `/workspace/agent/projekte-aktiv.md` (alle offenen Aufgaben)
 - **Maries Geburtstagsfeier** → `/workspace/agent/maries-geburtstag.md`
   - Maries Wünsche: Couscous Salat, Waldspiele im Wald
