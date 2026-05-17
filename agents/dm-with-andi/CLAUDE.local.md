@@ -39,11 +39,7 @@ Sprachnachrichten kommen aktuell als `[Voice Message]` an — Transkription ist 
 - **Essensliste / Koch** → `/workspace/agent/essensliste.md`
 - **Urlaube & Packlisten** → `/workspace/extra/familypara/03_Areas/Urlaube/` (planung.md + packlisten/)
 - **Wunschliste Zukunft** → `/workspace/agent/wunschliste-zukunft.md`
-- **Ärzte Suse** → `/workspace/agent/areas/health/aerzte-suse.md`
-- **Hausärzte Mannheim (Suse)** → `/workspace/agent/areas/health/hausaerzte-mannheim.md`
-- **Hausärzte Heidelberg (Suse)** → `/workspace/agent/areas/health/hausaerzte-heidelberg.md`
-- **Hausärzte RLP/Ludwigshafen (Suse)** → `/workspace/agent/areas/health/hausaerzte-rlp.md`
-- **Hausärzte Hessen (Suse)** → `/workspace/agent/areas/health/hausaerzte-hessen.md`
+- **Hausärzte-Mailingliste (Suse)** → `/workspace/extra/familypara/02_Projects/suse/mailingliste_hausaerzte/` (aerzte-suse, mannheim, heidelberg, rlp, hessen, bawue-umland)
 
 ## Weitere Personen
 - **Suse** → To-Do-Liste: `/workspace/agent/suse-todo.md`
