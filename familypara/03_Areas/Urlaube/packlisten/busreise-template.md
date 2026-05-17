@@ -64,6 +64,8 @@ last_updated: 2026-05-17
 
 ## Bus Ausstattung
 - [ ] Tarp
+- [ ] Feuerschale
+- [ ] Pizzaofen
 - [ ] Zelt
 - [ ] Campingtoilette
 - [ ] Campingkocher + Gas
@@ -138,6 +140,7 @@ last_updated: 2026-05-17
 - [ ] Wasserspritze
 
 ## Elektronik
+- [ ] Drohne
 - [ ] Laptops
 - [ ] Handy-Ladegeräte
 - [ ] Ladekabel

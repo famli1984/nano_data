@@ -93,6 +93,9 @@ last_updated: 2026-05-17
 - [ ] Tablet
 - [ ] Kopfhörer
 
+## Elektronik
+- [ ] Drohne
+
 ## Dokumente & Sonstiges
 - [ ] Persos
 - [ ] Versicherungskarten
