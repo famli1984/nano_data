@@ -29,7 +29,6 @@ last_updated: 2026-05-17
 ## Haus vor Abfahrt
 - [ ] Fenster schließen
 - [ ] Türen abschließen
-- [ ] Strom/Wasser (ggf. absperren)
+- [ ] Heizung runterdrehen
 - [ ] Pflanzen gießen / Nachbarn beauftragen
 - [ ] Post-Nachsendeauftrag oder Nachbarn bitten
-- [ ] Hausmeister informieren
