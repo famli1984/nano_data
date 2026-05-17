@@ -25,8 +25,6 @@ Sprachnachrichten kommen aktuell als `[Voice Message]` an — Transkription ist 
 - **KI für Lehrer** → `/workspace/agent/02_Projects/projekt-ki-fuer-lehrer.md` (Firmen-/Arbeitsprojekt, Signal-Gruppe "Firma (KI für Lehrer)")
 - **Business-Ideen** → `/workspace/agent/02_Projects/business-ideen/` (uebersicht.md + firma-sheida-ki-upskilling.md)
 - **Aktive Projektliste** → `/workspace/agent/projekte-aktiv.md` (alle offenen Aufgaben)
-- **Maries Geburtstagsfeier** → `/workspace/agent/maries-geburtstag.md`
-  - Maries Wünsche: Couscous Salat, Waldspiele im Wald
 
 ## Finanzen
 - **Steuererklärung 2026** → `/workspace/extra/familypara/03_Areas/Finances/steuerausgaben-2026.md`
@@ -40,7 +38,7 @@ Sprachnachrichten kommen aktuell als `[Voice Message]` an — Transkription ist 
 - **Hausärzte-Mailingliste (Suse)** → `/workspace/extra/familypara/02_Projects/suse/mailingliste_hausaerzte/` (aerzte-suse, mannheim, heidelberg, rlp, hessen, bawue-umland)
 
 ## Weitere Personen
-- **Suse** → To-Do-Liste: `/workspace/agent/suse-todo.md`
+- **Suse** → To-Do-Liste: `/workspace/extra/familypara/00_Todos/suse-todo.md`
 
 ## Haushalt
 - **Haushaltshilfe-Aufgaben** → `/workspace/agent/haushaltshilfe-aufgaben.md` (regelmäßig, Garten, quartalsweise)
