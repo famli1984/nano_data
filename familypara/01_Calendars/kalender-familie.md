@@ -1,6 +1,6 @@
 ---
 tags: [calendar, familie]
-updated: 2026-05-17 19:30
+updated: 2026-05-17 20:00
 calendar_source: posteo
 person: Familie
 type: calendar
@@ -9,7 +9,7 @@ sync_days_ahead: 30
 
 # 📅 Kalender – Familie
 
-> Automatisch synchronisiert am 17.05.2026 um 19:30 Uhr  
+> Automatisch synchronisiert am 17.05.2026 um 20:00 Uhr  
 > Zeigt Ereignisse der nächsten 30 Tage.
 
 ## Monday, 27. April 2026
@@ -107,3 +107,6 @@ sync_days_ahead: 30
 
 ## Monday, 15. June 2026
 - **Ganztag** – S - Staatsexamen
+
+## Tuesday, 16. June 2026
+- **18:00–21:00** – S - Abendessen Hospitationskurs
