@@ -99,3 +99,10 @@ last_updated: 2026-05-17
 - [ ] Schlüssel
 - [ ] Foto + Kabel
 - [ ] E-Book
+
+## Haus vor Abfahrt
+- [ ] Fenster schließen
+- [ ] Türen abschließen
+- [ ] Heizung runterdrehen
+- [ ] Pflanzen gießen / Nachbarn beauftragen
+- [ ] Post-Nachsendeauftrag oder Nachbarn bitten

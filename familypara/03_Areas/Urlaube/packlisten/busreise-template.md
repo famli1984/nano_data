@@ -159,3 +159,10 @@ last_updated: 2026-05-17
 - [ ] CHF
 - [ ] Schlüssel
 - [ ] Reiseführer
+
+## Haus vor Abfahrt
+- [ ] Fenster schließen
+- [ ] Türen abschließen
+- [ ] Heizung runterdrehen
+- [ ] Pflanzen gießen / Nachbarn beauftragen
+- [ ] Post-Nachsendeauftrag oder Nachbarn bitten
