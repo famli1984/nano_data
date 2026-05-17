@@ -133,6 +133,7 @@ last_updated: 2026-05-17
 - [ ] Stirnlampen
 - [ ] Garmin
 - [ ] Walki-Talki
+- [ ] Kamera
 - [ ] Foto + Kabel
 - [ ] E-Book
 - [ ] Tablet
