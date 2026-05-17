@@ -14,3 +14,4 @@ Bücher die empfohlen wurden oder die Andy lesen möchte.
 | Hörnchen Comics Band 2 | - | - | 📋 kaufen |
 | Hörnchen Comics Band 3 | - | - | 📋 kaufen |
 | Glück | Eckart von Hirschhausen | - | 📋 lesen |
+| The Subtle Art of Not Giving a F*ck | Mark Manson | - | 📋 lesen |

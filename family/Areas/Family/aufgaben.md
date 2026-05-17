@@ -1,6 +1,6 @@
 ---
 tags: [tasks, family, overview]
-updated: 2026-05-16 04:30
+updated: 2026-05-17 04:30
 calendar_source: posteo
 person: Familie
 type: tasks
@@ -8,7 +8,7 @@ type: tasks
 
 # ✅ Aufgaben – Übersicht
 
-> Automatisch synchronisiert am 16.05.2026 um 04:30 Uhr
+> Automatisch synchronisiert am 17.05.2026 um 04:30 Uhr
 
 - [ ] Stadtbücherei Bücher zurückgeben – fällig: 09.05.2026 02:00
 - [ ] Student für Haushaltshilfe – fällig: 11.05.2026 02:00
@@ -43,8 +43,6 @@ type: tasks
 - [ ] Teams-Nachrichten durchgehen und Links zu Dateien finden – fällig: 15.05.2026 02:00
 - [ ] Nano – fällig: 15.05.2026 02:00
 - [ ] Auffahrkeil an Fahrradträger – fällig: 15.05.2026 02:00
-- [ ] Kartuschenkocher kaufen – fällig: 15.05.2026 02:00
-  > EN417-kompatibel
 - [ ] Ki für Lehrer Repo – fällig: 15.05.2026 02:00
 - [ ] Arbeit – fällig: 15.05.2026 02:00
 - [ ] Silca 324 kaufen – fällig: 15.05.2026 02:00
@@ -56,6 +54,9 @@ type: tasks
 - [ ] Zaun freischneiden – fällig: 17.05.2026 02:00
 - [ ] Kirschstamm zersägen – fällig: 17.05.2026 02:00
 - [ ] Virenscanner auf allen PCs installieren – fällig: 17.05.2026 02:00
+- [ ] Slide von Felix – fällig: 19.05.2026 02:00
+- [ ] Kontodaten vorbereiten – fällig: 19.05.2026 02:00
 - [ ] KI Termin Vorbereitung (Mittwoch) – fällig: 20.05.2026 02:00
 - [ ] Mails hinzufügen – fällig: 20.05.2026 02:00
 - [ ] GitHub füllen – fällig: 20.05.2026 02:00
+- [ ] Blutwerte beim Arzt machen lassen – fällig: 23.05.2026 02:00

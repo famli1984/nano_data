@@ -16,9 +16,12 @@ last_updated: 2026-05-08
 - [ ] **KI Termin Vorbereitung (Mittwoch 20.05.)** — fällig 20.05.
   - [ ] GitHub füllen
   - [ ] Mails hinzufügen
+  - [ ] Slide von Felix (bis Mo 19.05.)
+  - [ ] Kontodaten vorbereiten (bis Mo 19.05.)
 
 ## Persönliches & Behörden
 
+- [ ] **Blutwerte beim Arzt machen lassen**
 - [ ] **Stadtbücherei Bücher zurückgeben** — fällig 09.05.2026
 - [ ] **Neuen Führerschein beantragen** — Termin Bürgeramt, Unterlagen zusammenstellen
 - [ ] **Steuererklärung 2025** — Belege sammeln, ggf. Steuerberater-Termin
@@ -42,7 +45,6 @@ last_updated: 2026-05-08
 - [ ] **Stand-up-Paddle reparieren**
 - [ ] **VW Bus**
   - [ ] Schneidebretter einladen
-  - [ ] Kartuschenkocher kaufen (EN417)
   - [ ] Wartung / Werkstatt-Termin
   - [ ] Gasflasche kaufen
   - [ ] Auffahrkeil an Fahrradträger
@@ -98,3 +100,4 @@ last_updated: 2026-05-08
 | 2026-05-08 | **Posteo Mailadresse einrichten** — IMAP/SMTP konfigurieren |
 | 2026-05-08 | **Terminal einrichten an Andis Handy** — Zugang zu Pauline via Terminal |
 | 2026-05-08 | **Tasks über Posteo aktivieren** — Aufgabenverwaltung via Posteo einrichten |
+| 2026-05-16 | **Kartuschenkocher kaufen** — EN417-kompatibel (für VW Bus) |
