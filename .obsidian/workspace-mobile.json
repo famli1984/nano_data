@@ -169,5 +169,8 @@
     }
   },
   "active": "11b088656d75adaf",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "sync.log",
+    "scripts/pull_and_sync.sh"
+  ]
 }
