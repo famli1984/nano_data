@@ -168,7 +168,7 @@
       "bases:Neue Base erstellen": false
     }
   },
-  "active": "11b088656d75adaf",
+  "active": "4a474e221a8c26a0",
   "lastOpenFiles": [
     "agents/dm-with-andi/00_Todos/Todos.md",
     "agents/dm-with-andi/CLAUDE.md",
@@ -200,8 +200,8 @@
     "packlisten/busreise-template.md",
     "familypara/03_Areas/Health/CLAUDE.md",
     "agents/dm-with-andi/urlaubsplanung.md",
-    "agents/dm-with-andi/02_Areas/health/aerzte-suse.md",
-    "agents/dm-with-andi/02_Areas/health/hausaerzte-bawue-umland.md",
+    "familypara/02_Projects/health/aerzte-suse.md",
+    "familypara/02_Projects/health/hausaerzte-bawue-umland.md",
     "sync.log",
     "scripts/pull_and_sync.sh"
   ]
