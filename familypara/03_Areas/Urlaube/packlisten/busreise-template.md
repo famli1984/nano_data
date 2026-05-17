@@ -26,6 +26,8 @@ last_updated: 2026-05-17
 - [ ] Tupperdosen
 - [ ] Scharfe Messer
 - [ ] Kaffeesachen
+- [ ] Salz
+- [ ] Spülschwamm
 
 ## Schlafen
 - [ ] Schlafsäcke (5x)
@@ -38,6 +40,9 @@ last_updated: 2026-05-17
 - [ ] Nagelknipser
 - [ ] Feuchttücher
 - [ ] Kindershampoo
+- [ ] Shampoo
+- [ ] Haargummis
+- [ ] Haarbürste
 - [ ] Zahnbürsten etc.
 - [ ] Handtücher
 - [ ] Sonnencreme
@@ -53,6 +58,8 @@ last_updated: 2026-05-17
 - [ ] Pflaster
 - [ ] Zäpfchen
 - [ ] Thermometer
+- [ ] Cetirizin
+- [ ] Lippenpflege mit LSF
 
 
 ## Bus Ausstattung
@@ -63,6 +70,7 @@ last_updated: 2026-05-17
 - [ ] Windlicht
 - [ ] Tüten (Müll/Klo)
 - [ ] Hängematten
+- [ ] Wasserkanister
 - [ ] Taschenmesser
 
 ## Fahrradfahren
@@ -74,6 +82,9 @@ last_updated: 2026-05-17
 - [ ] Fahrradflaschen
 - [ ] Pumpe
 - [ ] Fahrrad-Warnschild
+- [ ] Fahrradlicht
+- [ ] Fahrradschloss
+- [ ] Flickzeug
 - [ ] Fahrradschuhe
 - [ ] Radjacken
 - [ ] Rad Klamotten
@@ -130,6 +141,7 @@ last_updated: 2026-05-17
 - [ ] Ladekabel
 - [ ] Power Bank
 - [ ] Akkus
+- [ ] Wecker
 - [ ] Stirnlampen
 - [ ] Garmin
 - [ ] Walki-Talki
@@ -143,6 +155,7 @@ last_updated: 2026-05-17
 - [ ] Versicherungskarten
 - [ ] Persos
 - [ ] Geldbeutel
+- [ ] Bargeld
 - [ ] CHF
 - [ ] Schlüssel
 - [ ] Reiseführer
