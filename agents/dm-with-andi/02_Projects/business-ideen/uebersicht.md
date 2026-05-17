@@ -11,7 +11,7 @@ last_updated: 2026-05-10
 
 | # | Idee | Partner | Status | Details |
 |---|------|---------|--------|---------|
-| 1 | KI für Lehrer | - | aktiv | [→ projekt-ki-fuer-lehrer.md](projekt-ki-fuer-lehrer.md) |
+| 1 | KI für Lehrer | - | aktiv | [→ ../projekt-ki-fuer-lehrer.md](../projekt-ki-fuer-lehrer.md) |
 | 1b | KI Upskilling (Lehrer, Ärzte, Nanoclaw) | Sheida | Ideen-Phase | [→ firma-sheida-ki-upskilling.md](firma-sheida-ki-upskilling.md) |
 
 ## Neue Ideen
