@@ -41,7 +41,7 @@ Sprachnachrichten kommen aktuell als `[Voice Message]` an — Transkription ist 
 - **Suse** → To-Do-Liste: `/workspace/extra/familypara/00_Todos/suse-todo.md`
 
 ## Haushalt
-- **Haushaltshilfe-Aufgaben** → `/workspace/agent/haushaltshilfe-aufgaben.md` (regelmäßig, Garten, quartalsweise)
+- **Haushaltshilfe-Aufgaben** → `/workspace/extra/familypara/03_Areas/House/haushaltshilfe-aufgaben.md` (regelmäßig, Garten, quartalsweise)
 
 ## Familien-PARA-Struktur
 Das geteilte Familien-Wissenssystem liegt unter `/workspace/extra/familypara/`. Dies ist der einzige korrekte Pfad — immer diesen verwenden.
