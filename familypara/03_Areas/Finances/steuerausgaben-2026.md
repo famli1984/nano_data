@@ -89,7 +89,8 @@ managed_by: Steuerberater-Agent
 
 | Datum | Organisation | Betrag € | Spendenquittung |
 |-------|-------------|---------|----------------|
-| _(eintragen)_ | | | ☐ |
+| 2026 | WRO | 50,00 | ☐ |
+| 2026 | Effektiv Spenden | _(eintragen)_ | ☐ |
 
 ---
 
