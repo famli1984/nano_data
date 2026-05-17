@@ -65,6 +65,8 @@ last_updated: 2026-05-17
 ## Bus Ausstattung
 - [ ] Tarp
 - [ ] Zelt
+- [ ] Campingtoilette
+- [ ] Campingkocher + Gas
 - [ ] Luftmatratze
 - [ ] Picknickdecke
 - [ ] Windlicht
