@@ -38,17 +38,21 @@ last_updated: 2026-05-08
 - [ ] **Blaues Rad verkaufen** — Plattform wählen, Inserat erstellen
 - [ ] **Rotes Rad verkaufen** — Plattform wählen, Inserat erstellen
 - [ ] **Lastenradsitze verkaufen** — Plattform wählen, Inserat erstellen
+- [ ] **Spiele Schrank aufräumen und aussortieren**
+- [ ] **Keller aufräumen**
 
 ## Wartung & Fahrzeug
 
 - [ ] **Heizung warten lassen** — Termin vereinbaren
 - [ ] **Stand-up-Paddle reparieren**
+- [ ] **Autos putzen**
 - [ ] **VW Bus**
   - [ ] Schneidebretter einladen
   - [ ] Wartung / Werkstatt-Termin
   - [ ] Gasflasche kaufen
   - [ ] Auffahrkeil an Fahrradträger
   - [ ] Kühlschrank Befestigung
+  - [ ] Bus warten lassen und Reifen-Wechsel
 - [ ] **Fahrräder**
   - [ ] Silca 324 kaufen
 
@@ -64,12 +68,7 @@ last_updated: 2026-05-08
 - [ ] Fensterbänke ölen
 - [ ] Küchenfronten ölen
 - [ ] Dachrinnen säubern
-- [ ] Heizung warten
-- [ ] Spiele Schrank aufräumen und aussortieren
-- [ ] Keller aufräumen
 - [ ] Mädels Hochbetten
-- [ ] Bus warten lassen und Reifen-Wechsel
-- [ ] Autos putzen
 
 ## Garten (Familienkalender)
 
