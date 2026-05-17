@@ -52,6 +52,16 @@ Sprachnachrichten kommen aktuell als `[Voice Message]` an — Transkription ist 
 ## Haushalt
 - **Haushaltshilfe-Aufgaben** → `/workspace/agent/haushaltshilfe-aufgaben.md` (regelmäßig, Garten, quartalsweise)
 
+## Familien-PARA-Struktur
+Das geteilte Familien-Wissenssystem liegt unter `/workspace/extra/familypara/`:
+- `0_Todo/` — gemeinsame Todos
+- `1_Projects/` — aktive Familienprojekte
+- `2_Areas/` — Dauerbereiche (Family, Finances, Garden, Health, House, School, Vehicles)
+- `3_Resources/` — Checklisten, Vorlagen, Wissen
+- `4_Archives/` — Abgeschlossenes
+
+**Wichtig:** Niemals `/workspace/extra/nano_data/familypara/` verwenden — das ist nur ein nächtliches Backup und wird jede Nacht überschrieben. Immer den Live-Pfad oben nutzen.
+
 ## Task-Management-Regel
 **Immer beide Systeme parallel pflegen — gilt für ALLE Tasks:**
 - Posteo (CalDAV): nur aktive Tasks
