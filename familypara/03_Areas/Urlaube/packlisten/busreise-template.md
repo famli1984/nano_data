@@ -31,7 +31,6 @@ last_updated: 2026-05-17
 - [ ] Schlafsäcke (5x)
 - [ ] Laken
 - [ ] Kissen (4x)
-- [ ] Stirnlampen
 - [ ] Isomatten
 
 ## Badezimmer
@@ -77,7 +76,6 @@ last_updated: 2026-05-17
 - [ ] Pumpe
 - [ ] Fahrrad-Warnschild
 - [ ] Fahrradschuhe
-- [ ] Garmin
 
 ## Kleidung
 - [ ] Regenjacken
@@ -119,7 +117,6 @@ last_updated: 2026-05-17
 - [ ] Kinderbücher
 - [ ] Spikeball
 - [ ] Speedminton
-- [ ] Beachboule
 - [ ] Kartenspiele
 - [ ] Wasserspritze
 
@@ -129,6 +126,8 @@ last_updated: 2026-05-17
 - [ ] Ladekabel
 - [ ] Power Bank
 - [ ] Akkus
+- [ ] Stirnlampen
+- [ ] Garmin
 - [ ] Walki-Talki
 - [ ] Foto + Kabel
 - [ ] E-Book
