@@ -30,8 +30,7 @@ last_updated: 2026-05-17
 ## Schlafen
 - [ ] Schlafsäcke (5x)
 - [ ] Laken
-- [ ] Kissen (4x)
-- [ ] Isomatten
+- [ ] Kissen (5x)
 
 ## Badezimmer
 - [ ] Toilettenpapier
