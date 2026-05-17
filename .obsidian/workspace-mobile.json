@@ -168,8 +168,11 @@
       "bases:Neue Base erstellen": false
     }
   },
-  "active": "446638a5626e845d",
+  "active": "4a474e221a8c26a0",
   "lastOpenFiles": [
+    "familypara/03_Areas/Urlaube/packlisten/pfingsten-2026.md",
+    "agents/dm-with-andi/conversations/2026-05-17-conversation-1948.md",
+    "agents/dm-with-andi/00_Todo/todos.md",
     "agents/dm-with-andi/CLAUDE.md",
     "agents/dm-with-andi/CLAUDE.local.md",
     "agents/dm-with-andi/00_Todo/projekte-aktiv.md",
@@ -200,11 +203,8 @@
     "familypara/02_Projects/suse/mailingliste_hausaerzte/hausaerzte-mannheim.md",
     "familypara/02_Projects/suse/mailingliste_hausaerzte/hausaerzte-hessen.md",
     "familypara/02_Projects/suse/mailingliste_hausaerzte/hausaerzte-heidelberg.md",
-    "familypara/02_Projects/suse/mailingliste_hausaerzte/hausaerzte-bawue-umland.md",
-    "familypara/02_Projects/suse/mailingliste_hausaerzte/aerzte-suse.md",
     "familypara/02_Projects/suse/mailingliste_hausaerzte",
     "familypara/02_Projects/suse",
-    "agents/dm-with-andi/wunschliste-zukunft.md",
     "agents/dm-with-andi/projekte/ki-fuer-lehrer"
   ]
 }
