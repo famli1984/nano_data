@@ -216,3 +216,31 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 From https://github.com/famli1984/nano_data
  * branch            main       -> FETCH_HEAD
 Already up to date.
+[main 201bdf0] backup: 2026-07-17 13:00 UTC
+ 42 files changed, 22128 insertions(+), 342 deletions(-)
+ create mode 100644 agents/dm-with-andi/02_Projects/seminar-how-to-found/seminar-how-to-found.md
+ create mode 100644 agents/dm-with-andi/02_Projects/whitepaper-pm/linkedin-posts.md
+ create mode 100644 agents/dm-with-andi/02_Projects/whitepaper-pm/whitepaper-1-team-pm.md
+ create mode 100644 agents/dm-with-andi/02_Projects/whitepaper-pm/whitepaper-2-product-leadership.md
+ create mode 100644 agents/dm-with-andi/conversations/2026-05-22-conversation-1821.md
+ create mode 100644 agents/dm-with-andi/conversations/2026-06-03-conversation-1606.md
+ create mode 100644 agents/dm-with-andi/conversations/2026-06-08-conversation-1137.md
+ create mode 100644 agents/dm-with-andi/conversations/2026-06-25-conversation-0900.md
+ create mode 100644 agents/dm-with-andi/conversations/2026-07-12-conversation-1829.md
+ create mode 100644 agents/dm-with-felix/conversations/2026-06-27-conversation-0800.md
+ rewrite agents/tony-andi/entropic/01_idea/why-us.md (93%)
+ create mode 100644 agents/tony-andi/entropic/03_strategy/seminar-how-to-found.md
+ create mode 100644 agents/tony-andi/entropic/04_decisions/2026-06-02-equity-structure.md
+ create mode 100644 agents/tony-andi/entropic/04_decisions/2026-06-02-legal-structure.md
+ create mode 100644 agents/tony-andi/entropic/05_ops/coach-finden.md
+ create mode 100644 agents/tony-andi/entropic/05_ops/finanzierungsrechnung.md
+ rewrite agents/tony-andi/entropic/07_founding/equity.md (95%)
+ create mode 100644 agents/tony-andi/entropic/07_founding/rechtskonstrukt.md
+ rewrite familypara/03_Areas/Urlaube/packlisten/2026_05_Pfingsten.md (72%)
+ create mode 100644 familypara/03_Areas/Urlaube/packlisten/2026_06_Andi_Rosa_Wochenende.md
+ create mode 100644 familypara/03_Areas/Urlaube/packlisten/2026_07_Sommer.md
+ mode change 100644 => 100755 scripts/watch-and-backup.sh
+To https://github.com/famli1984/nano_data.git
+   d61745a..201bdf0  main -> main
+Pushed.
+[watch-and-backup] Done.
