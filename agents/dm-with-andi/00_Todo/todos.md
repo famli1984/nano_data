@@ -11,9 +11,7 @@ last_updated: 2026-05-08
 
 ## Arbeit
 
-- [x] **KI-Produktivitäts-Workshop** — Ariel nachfassen, Termin blocken (Tag: Mitarbeitende zeigen KI-Nutzung)
 - [ ] **Problems to be Solved + Strategie-Tag** — Termin blocken, 30 min pro Person
-- [x] **T3 Stress-Interview-Tag** — Fragebogen erstellen, dann Termine mit allen T3s
 - [ ] **Seminar "How to Found in the Age of AI"** — Konzept mit Tony, Steffen, Maryna besprechen → `02_Projects/seminar-how-to-found/`
 - [ ] **Teams-Nachrichten durchgehen** — Links zu Dateien finden (mit Claude)
 - [ ] **Todos besser strukturieren**
@@ -26,16 +24,12 @@ last_updated: 2026-05-08
 ## Persönliches & Behörden
 
 - [ ] **Notartermin Berlin** — Termin vereinbaren
-- [x] **Monika absagen**
-- [x] **Seminarmontag Babysitter organisieren**
 - [ ] **Blutwerte beim Arzt machen lassen**
-- [x] **Stadtbücherei Bücher zurückgeben** — fällig 09.05.2026
 - [ ] **Neuen Führerschein beantragen** — Termin Bürgeramt, Unterlagen zusammenstellen
 - [ ] **Steuererklärung 2025** — Belege sammeln, ggf. Steuerberater-Termin
 
 ## Technik & Setup
 
-- [x] **Bessere Spracheingabe finden** — Alternative zu aktuellem Setup evaluieren
 - [ ] **Nanoclaw Anleitung schreiben**
 - [ ] **Ubuntu Pro hinzufügen** — Ubuntu Pro Abonnement aktivieren/verknüpfen
 - [ ] **Arbeits-Update-Kanal einrichten** — Weg, damit Pauline regelmäßige Updates zu Arbeitsaufgaben auf Andis Arbeitsaccount sendet
@@ -104,6 +98,12 @@ last_updated: 2026-05-08
 
 | Erledigt am | Aufgabe |
 |------------|---------|
+| 2026-07-17 | **KI-Produktivitäts-Workshop** — Ariel nachfassen, Termin blocken |
+| 2026-07-17 | **T3 Stress-Interview-Tag** — Fragebogen erstellen |
+| 2026-07-17 | **Monika absagen** |
+| 2026-07-17 | **Seminarmontag Babysitter organisieren** |
+| 2026-07-17 | **Stadtbücherei Bücher zurückgeben** |
+| 2026-07-17 | **Bessere Spracheingabe finden** |
 | 2026-07-12 | **Gasflasche kaufen** — VW Bus |
 | 2026-07-12 | **Felix MTB Pedale kaufen** |
 | 2026-05-08 | **Reisekostenabrechnung Wien** — Belege aufbereiten, einreichen |
