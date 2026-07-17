@@ -47,8 +47,6 @@ last_updated: 2026-05-08
 
 ## Wartung & Fahrzeug
 
-- [ ] **Heizung Reparatur Termin verschieben**
-- [ ] **Heizung warten lassen** — Termin vereinbaren
 - [ ] **Stand-up-Paddle reparieren**
 - [ ] **Autos putzen**
 - [ ] **VW Bus**
@@ -98,6 +96,8 @@ last_updated: 2026-05-08
 
 | Erledigt am | Aufgabe |
 |------------|---------|
+| 2026-07-17 | **Heizung Reparatur Termin verschieben** |
+| 2026-07-17 | **Heizung warten lassen** |
 | 2026-07-17 | **KI-Produktivitäts-Workshop** — Ariel nachfassen, Termin blocken |
 | 2026-07-17 | **T3 Stress-Interview-Tag** — Fragebogen erstellen |
 | 2026-07-17 | **Monika absagen** |
