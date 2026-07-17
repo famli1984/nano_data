@@ -1,6 +1,6 @@
 ---
 tags: [tasks, andi]
-updated: 2026-07-17 17:00
+updated: 2026-07-17 17:30
 calendar_source: posteo
 person: Andi
 type: tasks
@@ -8,7 +8,7 @@ type: tasks
 
 # ✅ Aufgaben – Andi
 
-> Automatisch synchronisiert am 17.07.2026 um 17:00 Uhr
+> Automatisch synchronisiert am 17.07.2026 um 17:30 Uhr
 
 - [ ] Stadtbücherei Bücher zurückgeben – fällig: 09.05.2026 02:00
 - [ ] Arbeit – fällig: 15.05.2026 02:00
