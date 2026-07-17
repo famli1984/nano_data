@@ -1,6 +1,6 @@
 ---
 tags: [tasks, family, overview]
-updated: 2026-07-17 20:00
+updated: 2026-07-17 20:30
 calendar_source: posteo
 person: Familie
 type: tasks
@@ -8,9 +8,8 @@ type: tasks
 
 # ✅ Aufgaben – Übersicht
 
-> Automatisch synchronisiert am 17.07.2026 um 20:00 Uhr
+> Automatisch synchronisiert am 17.07.2026 um 20:30 Uhr
 
-- [ ] Stadtbücherei Bücher zurückgeben – fällig: 09.05.2026 02:00
 - [ ] Schuppen Mausfest machen – fällig: 15.05.2026 02:00
 - [ ] Mädels Hochbetten – fällig: 15.05.2026 02:00
 - [ ] Haus streichen inkl. Türen – fällig: 15.05.2026 02:00
@@ -70,17 +69,12 @@ type: tasks
 - [ ] Kühlschrank Befestigung – fällig: 24.05.2026 02:00
 - [ ] Bus warten lassen und Reifen-Wechsel – fällig: 24.05.2026 02:00
 - [ ] Silca 324 kaufen – fällig: 24.05.2026 02:00
-- [ ] Bessere Spracheingabe finden – fällig: 05.06.2026 02:00
 - [ ] Nanoclaw Anleitung schreiben – fällig: 05.06.2026 02:00
 - [ ] Notartermin Berlin – fällig: 05.06.2026 02:00
 - [ ] Felix MTB Hinterrad 8er beseitigen – fällig: 05.06.2026 02:00
 - [ ] Felix Lego Räder kaufen – fällig: 05.06.2026 02:00
 - [ ] Heizung Reparatur Termin verschieben – fällig: 05.06.2026 02:00
-- [ ] Monika absagen – fällig: 05.06.2026 02:00
-- [ ] Seminarmontag Babysitter organisieren – fällig: 05.06.2026 02:00
-- [ ] KI-Produktivitäts-Workshop — Ariel nachfassen, Termin blocken – fällig: 09.06.2026 02:00
 - [ ] Problems to be Solved + Strategie-Tag — Termin blocken – fällig: 09.06.2026 02:00
-- [ ] T3 Stress-Interview-Tag — Fragebogen erstellen – fällig: 09.06.2026 02:00
 - [ ] Seminar "How to Found in the Age of AI" — Konzept besprechen – fällig: 09.06.2026 02:00
 - [ ] Trinkflaschen kaufen (Sommerurlaub) – fällig: 19.07.2026 02:00
 - [ ] Schwimmbrillenbänder kaufen (Sommerurlaub) – fällig: 19.07.2026 02:00
