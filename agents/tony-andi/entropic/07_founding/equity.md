@@ -1,66 +1,60 @@
 # Equity & Vesting
 
-*How we split ownership of Entropic.*
+*Wie die Eigentümerschaft von Entropic aufgeteilt wird.*
 
-*Last updated: 2026-05-10 — Not yet decided. First principles below.*
-
----
-
-## First Principles
-
-We don't use a fixed formula. We use a conversation:
-
-**What each founder brings (inputs to the split):**
-
-| Factor | [Your Name] | Tony |
-|--------|-------------|------|
-| Time commitment (months 1–6) | Full-time / near full-time | Part-time (other commitments) |
-| Technical build (non-delegatable) | ✅ Building the entire tech stack | — |
-| Network for first customers | First-doer network + ideas | MBA/consulting/investor network |
-| IP contribution | AI agent framework, quiz | Business model, deal structure |
-| Capital at risk | — | — |
-| Upside brought in (Studio Track) | — | ✅ Primary driver |
-
-**Initial sense:** Close to 50/50, potentially 55/45 in favor of [Your Name] given full-time technical build in the early phase. To be discussed.
-
-> ❓ Question: How do we handle Tony's time commitment being lower initially? Two options: (1) Acknowledge it and do 55/45, (2) 50/50 and agree Tony "earns in" through network contributions. Option 2 feels more aligned.
+*Last updated: 2026-06-02*
 
 ---
 
-## Vesting Schedule
+## Entscheidung: 33% / 33% / 33%
 
-**Standard:** 4 years total, 1-year cliff.
+| Gründer | Anteil | Beitrag |
+|---------|--------|---------|
+| Andi | 33,3% | Idee, Netzwerk, Verbinden, Programmentwicklung |
+| Tony | 33,3% | Rechtsstruktur (jetzt), Investor Relations + Scaling (ab 2027) |
+| Steffen | 33,3% | IT-Gründungserfahrung, Seminar-Begleitung, kritisches Korrektiv |
 
-- Month 0–12: No vesting (cliff)
-- Month 12: 25% vests immediately
-- Months 13–48: Remaining 75% vests monthly (2.08% per month)
+**Begründung:** Gleiche Kapitaleinlage (je 5.000 €), komplementäre und gleichwertige Beiträge, kein Profil verzichtbar. Gleichteilung vermeidet Konflikte über "wer mehr leistet".
 
-**Acceleration on exit:** Single trigger (acquisition) — discuss whether full or partial.
+**Risiko:** Ohne Vesting kann ein Gründer aussteigen und trotzdem 33% halten.
+
+---
+
+## Vesting-Mechanismus (Empfehlung)
+
+- **Laufzeit:** 3 Jahre
+- **Cliff:** 6 Monate — wer vor Monat 6 aussteigt, bekommt keine Anteile
+- **Danach:** Monatlich linear (~2,78%/Monat)
+
+**Good Leaver** (Krankheit, Tod, gegenseitige Vereinbarung): Erdiente Anteile bleiben zum Marktwert.  
+**Bad Leaver** (Kündigung innerhalb Cliff, schwerwiegendes Fehlverhalten): Nicht erdiente Anteile verfallen, erdiente zum Nominalwert.
+
+---
+
+## Kapitaleinlage
+
+Jeder Gründer bringt **5.000 €** ein → **15.000 € Gesamtkapital**.
+
+Verwendung: Gründungskosten Holding, ~8–10 Studenten-UGs (Startkapital + Infrastruktur), Fixkosten Pilot.
+
+Detaillierte Rechnung: `05_ops/finanzierungsrechnung.md`
 
 ---
 
 ## Option Pool
 
-If we bring in employees or advisors, we'll want to reserve 10–15% for an option pool. This dilutes both founders equally.
+Wenn Mitarbeiter oder Berater hinzukommen: 10–15% Option Pool reservieren, dilutiert alle drei Gründer gleichmäßig.
 
-**Timing:** Create the option pool before any external fundraising (if we raise for Studio Track).
-
----
-
-## Reassessment Checkpoints
-
-- **Month 6:** Have both founders delivered on their commitments? Is the split still fair?
-- **Month 12:** At cliff vesting — are we aligned? Any role changes?
-- **Year 2:** Is the Studio Track generating value? Does Tony's network contribution justify the split?
+**Timing:** Vor externer Finanzierung anlegen (falls Studio Track später Kapital braucht).
 
 ---
 
-## Cap Table (Initial)
+## Cap Table (Initial, nach Gründung)
 
-| Shareholder | Shares | % |
-|-------------|--------|---|
-| [Your Name] | TBD | TBD |
-| Tony | TBD | TBD |
-| Option Pool | TBD | 10–15% |
+| Gesellschafter | Anteil |
+|----------------|--------|
+| Andi | 33,3% |
+| Tony | 33,3% |
+| Steffen | 33,3% |
 
-*To be formalized once entity is registered.*
+*Wird formalisiert sobald Entity registriert. Tony erstellt Gesellschaftsvertrag-Entwurf.*

@@ -7,103 +7,125 @@ last_updated: 2026-05-17
 
 > Pfingsten 2026 (23.–26. Mai). Checkboxen vor Abfahrt zurücksetzen.
 
+## Lebensmittel
+- [x] Weißwein
+- [x] Kaffee
+
 ## Küche
-- [ ] Gaspatronen
-- [ ] Trinkflaschen
-- [ ] Spüli
-- [ ] Tupperdosen
-- [ ] Scharfe Messer
-- [ ] Kaffeesachen
-- [ ] Snacks für Fahrt
+- [x] Gaspatronen
+- [x] Trinkflaschen
+- [x] Spüli
+- [x] Tupperdosen
+- [x] Scharfe Messer
+- [x] Kaffeefilter
+- [x] Kaffeesachen
+- [x] Getränke für Fahrt
+- [x] Snacks für Fahrt
 
 ## Schlafen
-- [ ] Schlafsäcke (5x)
-- [ ] Laken / Wasserschutz
-- [ ] Kissen (4x)
-- [ ] Stirnlampen
-- [ ] Ohrstöpsel
-- [ ] Isomatten
+- [x] Schlafsäcke (5x)
+- [x] Laken
+- [x] Kissen (5x)
+- [x] Stirnlampen
+- [x] Batterien
+- [x] Ladegerät AAA Akkus
+- [x] Ohrstöpsel
+- [x] Isomatten
 
 ## Badezimmer
-- [ ] Toilettenpapier
-- [ ] Bodylotion
-- [ ] Nagelknipser
-- [ ] Feuchttücher
-- [ ] Kindershampoo
-- [ ] Zahnbürsten etc.
-- [ ] Handtücher
-- [ ] Windeln
+- [x] Toilettenpapier
+- [x] Bodylotion
+- [x] Nagelknipser
+- [x] Feuchttücher
+- [x] Kindershampoo
+- [x] Haarbürste
+- [x] Zahnbürsten etc.
+- [x] Handtücher
 
 ## Medis
-- [ ] Mückenstift
-- [ ] Mückenschutz
-- [ ] Sonnencreme
-- [ ] Desinfektion
-- [ ] Ebastel
-- [ ] Aspiverin
-- [ ] 1. Hilfe-Kit
-- [ ] Pflaster
-- [ ] Zäpfchen
-- [ ] Thermometer
-- [ ] Aerochamber + Salbu
+- [x] Mückenstift
+- [x] Mückenschutz
+- [x] Sonnencreme
+- [x] Desinfektion
+- [x] Ebastel
+- [x] Aspiverin
+- [x] 1. Hilfe-Kit
+- [x] Pflaster
+- [x] Thermometer
 
-## Bus Ausstattung
-- [ ] Tarp
-- [ ] Wurfzelt
-- [ ] Campingtoilette
-- [ ] Campingkocher + Gas
-- [ ] Zeltplane
-- [ ] Picknickdecke
-- [ ] Windlicht
-- [ ] Roter Deckel
-- [ ] Tüten (Müll/Klo)
-- [ ] Pipiflasche
 
 ## Fahrradfahren
-- [ ] Helme
-- [ ] Handschuhe
-- [ ] Rucksack
-- [ ] Schuhe
-- [ ] Schläuche
-- [ ] Fahrradflaschen
-- [ ] Pumpe
-- [ ] Fahrrad-Warnschild
+- [x] Helme
+- [x] Handschuhe
+- [x] Rucksack
+- [x] Schuhe
+- [x] Schläuche
+- [x] Fahrradflaschen
+- [x] Pumpe
+- [x] Fahrrad-Warnschild
+- [x] Fahrradflickzeug
+- [x] MTB Schoner Andi
+- [x] Rückenprotektoren
+- [x] Kettenwachs
+- [x] Lenkertaschen Rapha
+- [x] MTB Schaltung Ladegerät
+- [x] Dämpferpumpe
 
 ## Schwimmen
-- [ ] Badehosen / Shirts
-- [ ] Schwimmflügel
-- [ ] Taucherbrillen
-- [ ] Handtücher
-- [ ] Sonnencreme
-- [ ] Flipflops
-- [ ] Wasserschuhe
-- [ ] Schwimmwesten
+- [x] Badehosen / Shirts
+- [x] Taucherbrillen
+- [x] Handtücher
+- [x] Sonnencreme
+- [x] Flipflops Andi
+- [x] Flipflops Suse
+- [x] Flipflops Rosa
+- [x] Flipflops Marie
+- [x] Wasserschuhe
+- [x] Schwimmwesten
+- [x] Sonnenbrillen
 
 ## Spielen
-- [ ] Slackline
-- [ ] Malbuch + Stifte
-- [ ] Seifenblasen
-- [ ] Frisbee
-- [ ] Drachen
-- [ ] Kinderbücher
-- [ ] Speedminton
-- [ ] Beachboule
-- [ ] Kartenspiele
-- [ ] Wasserspritze
-- [ ] Tablet
-- [ ] Kopfhörer
+- [x] Angel Felix
+- [x] Slackline
+- [x] Malbuch + Stifte
+- [x] Kinderbücher
+- [x] Spikeball
+- [x] Speedminton
+- [x] Kartenspiele
+- [x] Wasserspritze
 
 ## Elektronik
-- [ ] Drohne
+- [x] Drohne
+- [x] Kopfhörer
+- [x] Laptop Ladegerät
+- [x] Ladekabel (alle)
+- [x] Foto + Kabel
+- [x] E-Book
 
 ## Dokumente & Sonstiges
-- [ ] Persos
-- [ ] Versicherungskarten
-- [ ] Geldbeutel
-- [ ] Ladekabel (alle)
-- [ ] Schlüssel
-- [ ] Foto + Kabel
-- [ ] E-Book
+- [x] Persos / Reisepässe
+- [x] Versicherungskarten
+- [x] Geldbeutel
+- [x] CHF
+- [x] Schlüssel
+
+## Kleidung & Schuhe
+- [x] Wanderschuhe Andi
+- [x] Wanderschuhe Suse
+- [x] Sandalen Rosa
+- [x] Sandalen Marie
+- [x] Radschuhe Andi
+- [x] Radschuhe Suse
+- [x] Zweites Paar Schuhe Felix
+- [x] Kleidung Andi (inkl. Rad Klamotten)
+- [x] Kleidung Suse
+- [x] Kleidung Felix
+- [x] Kleidung Marie
+- [x] Kleidung Rosa
+- [x] Bücher Suse
+- [x] Bücher Andi
+- [x] Buch: Fantasia ruft
+- [x] Kochbuch
 
 ## Haus vor Abfahrt
 - [ ] Fenster schließen
@@ -111,3 +133,6 @@ last_updated: 2026-05-17
 - [ ] Heizung runterdrehen
 - [ ] Pflanzen gießen / Nachbarn beauftragen
 - [ ] Post-Nachsendeauftrag oder Nachbarn bitten
+- [ ] Wasserfilter entleeren
+- [ ] Kühlschrank abstellen
+- [ ] Trampolin zudecken

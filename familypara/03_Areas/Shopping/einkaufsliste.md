@@ -11,12 +11,25 @@ last_updated: 2026-04-25
 
 ## Haushalt
 
-- [ ] _(ergänzen)_
+- [ ] Fliegengitter
+- [ ] Lüftungsgitter Fenster_
+
+## Sport / Outdoor
+
+- [ ] uvex Sonnenbrille 0218 (Andi)
+- [ ] Kette KMC Z8 RB RO 154 Glieder
+
+### Decathlon (Sommerurlaub)
+- [ ] Sonnenschirm
+- [ ] Bodyboard
+- [x] Schwimmbrille (Andi)
+- [ ] Skimboard
 
 ## Kinder-Bedarf
 
 ### Felix (13)
-- [ ] _(ergänzen)_
+- [ ] Birkenstock Schuhe
+- [ ] Adidas Schuhe
 
 ### Marie (9)
 - [ ] _(ergänzen)_

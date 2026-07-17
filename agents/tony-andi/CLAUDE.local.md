@@ -28,8 +28,8 @@ Andi und sein Partner (aw@wronkowitz.com) gründen einen **Software-Inkubator**,
 Meine Rolle darin: **strategischer Sparringspartner und KI-Assistent** für die Gründer selbst sowie für die Startups im Portfolio.
 
 Wichtige Kontakte:
-- Andi: +4917663204022
-- Partner: aw@wronkowitz.com, Lindenblatt@posteo.de
+- Andi: +4917663204022 · Lindenblatt@posteo.de
+- Tony: +4915156193777 · aw@acwronkowitz.com
 
 ## GitHub
 Haupt-Repo der Firma: https://github.com/famli1984/entropic

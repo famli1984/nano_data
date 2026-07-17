@@ -1,6 +1,6 @@
 # The Problem
 
-*Last updated: 2026-05-10*
+*Last updated: 2026-06-02*
 
 ---
 
@@ -51,6 +51,25 @@ This is not a small market. There are ~200,000 MBA graduates per year globally. 
 
 The cost of doing nothing: talented, ambitious people spend the prime years of their potential building other people's companies. The world loses the companies they could have built.
 
-> ❓ Question: Is the MBA student persona really the best beachhead, or is the "post-consultant going independent" persona stronger? Both have the problem, but the economics may differ.
+---
 
-> ❓ Question: What's the right unit — individual founders, or founding teams?
+## Why Students — Motivation & Messaging
+
+### Externe Botschaft (für Partner-Unis, Öffentlichkeit)
+Studierende stehen vor einer strukturellen Verschiebung:
+- Klassische Einstiegspositionen werden durch AI enger — gute Jobs sind schwieriger zu bekommen
+- AI-Kompetenz ist nicht mehr optional, sondern Grundvoraussetzung
+- Praktisches Gründungswissen — also wirklich eine Firma gebaut und betrieben zu haben — ist ein Differenzierungsmerkmal, das kein Studium liefert
+
+Für Partner-Unis ist Entropic wie das **Sparkassen Börsenspiel, aber mit echtem Geld und echter Firma**: Studierende lernen Gründen nicht theoretisch, sondern indem sie es tun — mit echter Haftung, echten Kunden, echten Entscheidungen.
+
+### Interne Realität (ehrlich)
+Wir wollen auch Geld verdienen. Das ist legitim und kein Widerspruch. Das externe Motiv (Studenten helfen, Gründerkultur stärken) muss jedoch in der Außenkommunikation überwiegen — weil es das ist, was Partner-Unis, Mentoren und Studenten anspricht, und weil es auch wahr ist.
+
+---
+
+## Open Questions
+
+> ❓ Is the MBA student persona really the best beachhead, or is the "post-consultant going independent" persona stronger?
+
+> ❓ **Einzelgründer oder Gründerteams?** Einzelgründer sind einfacher zu koordinieren, aber Einsamkeit ist ein echtes Risiko. Teams sind resilienter, aber Konflikte zwischen Studierenden können das Programm komplizieren. Was ist das richtige Programmformat?

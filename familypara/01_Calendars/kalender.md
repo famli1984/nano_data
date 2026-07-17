@@ -1,6 +1,6 @@
 ---
 tags: [calendar, family, overview]
-updated: 2026-05-18 04:30
+updated: 2026-07-17 15:00
 calendar_source: posteo
 person: Familie
 type: calendar
@@ -9,7 +9,7 @@ sync_days_ahead: 30
 
 # 📅 Familienkalender – Übersicht
 
-> Automatisch synchronisiert am 18.05.2026 um 04:30 Uhr  
+> Automatisch synchronisiert am 17.07.2026 um 15:00 Uhr  
 > Zeigt Ereignisse der nächsten 30 Tage.
 
 ## 👤 Andi
@@ -125,4 +125,81 @@ _Keine Termine._
 
 ### Tuesday, 16. June 2026
 - **18:00–21:00** – S - Abendessen Hospitationskurs
+
+### Wednesday, 17. June 2026
+- **17:00–19:30** – FMR - Mittwoch 2 Training 📍 Harbigweg 5
+
+### Thursday, 18. June 2026
+- **09:50–10:50** – R - Fröbelschule
+- **18:00–20:00** – S - streamed up
+
+### Friday, 19. June 2026
+- **Ganztag** – S - Dienst
+
+### Saturday, 20. June 2026
+- **09:00–12:00** – M - Chorfest Marie
+
+### Sunday, 21. June 2026
+- **Ganztag** – S - Dienst
+
+### Wednesday, 24. June 2026
+- **Ganztag** – A - LT offsite - München
+- **17:00–19:30** – FMR - Mittwoch 2 Training 📍 Harbigweg 5
+- **17:30–19:00** – AS - DAG Beiratssitzung online
+
+### Friday, 26. June 2026
+- **Ganztag** – A - Coaching
+- **23:00–28.06. 00:00** – AS - Familien Mountainbike Wochenende
+
+### Monday, 29. June 2026
+- **Ganztag** – S - Dienst
+- **13:00–15:00** – AS - Promotionsausschuss
+
+### Tuesday, 30. June 2026
+- **16:00–17:00** – F - Kieferorthopädie
+
+### Wednesday, 01. July 2026
+- **17:00–19:30** – FMR - Mittwoch 2 Training 📍 Harbigweg 5
+
+### Thursday, 02. July 2026
+- **17:30–20:30** – S - OA Konferenz
+
+### Saturday, 04. July 2026
+- **Ganztag** – AS - Fest Jettenburg
+
+### Wednesday, 08. July 2026
+- **Ganztag** – A - Coaching
+- **17:00–19:30** – FMR - Mittwoch 2 Training 📍 Harbigweg 5
+
+### Thursday, 09. July 2026
+- **Ganztag** – A - Henje Andi Urlaub
+
+### Friday, 10. July 2026
+- **15:00–20:00** – S - R1 Ausflug
+
+### Wednesday, 15. July 2026
+- **17:00–19:30** – FMR - Mittwoch 2 Training 📍 Harbigweg 5
+
+### Friday, 17. July 2026
+- **17:00–22:00** – S - Sommerfest Verbund
+
+### Wednesday, 22. July 2026
+- **Ganztag** – A - offsite
+- **17:00–19:30** – FMR - Mittwoch 2 Training 📍 Harbigweg 5
+
+### Wednesday, 29. July 2026
+- **17:00–19:30** – FMR - Mittwoch 2 Training 📍 Harbigweg 5
+
+### Wednesday, 05. August 2026
+- **07:30–08.08. 08:30** – AS - Metropolinkfestival
+- **17:00–19:30** – FMR - Mittwoch 2 Training 📍 Harbigweg 5
+
+### Friday, 07. August 2026
+- **Ganztag** – AS - Hüttentour?
+
+### Wednesday, 12. August 2026
+- **17:00–19:30** – FMR - Mittwoch 2 Training 📍 Harbigweg 5
+
+### Saturday, 15. August 2026
+- **Ganztag** – FMR - Kinder BV
 

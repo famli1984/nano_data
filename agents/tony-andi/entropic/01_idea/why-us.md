@@ -1,78 +1,84 @@
 # Why Us — Founder-Market Fit
 
-*Last updated: 2026-05-10*
+*Last updated: 2026-06-02*
 
 ---
 
-## The Two Founders
+## The Three Founders
 
-### [Your Name] — Product × AI × Engineering
+### Andi — Idee × Netzwerk × Verbinden
 
 **Background:**
-- Product-led growth — building products that sell themselves through usage
-- Software engineering and AI-native development
-- Software product management at scale
-- Access to a network of "first doers" — people willing to be first customers and first critics
+- Hatte die Idee für Entropic
+- Stärke: Menschen verbinden, anderen einen Gefallen tun, neues lernen
+- Betreibt gemeinsam mit Maryna eine Firma für digitale Gründungspräsenz (Domain, Web, Konto)
+- Zugang zu ersten Kunden und Partnern
 
 **What this unlocks for Entropic:**
-- We can build the AI agent framework ourselves — no dependency on contractors
-- We understand product-market fit and how to find it without VC pressure
-- We can iterate fast: the technical infrastructure is not a blocker, it's an advantage
-- First customer relationships are already warm — we don't start from zero
-
-**Personal edge:** Has built with AI before the current wave. Knows what's actually automatable and what isn't. Can teach it credibly because they've done it.
+- Netzwerk zu ersten Partnern (Uni Pforzheim u.a.)
+- Energie und Antrieb, der das Projekt am Leben hält
+- Direkte Verbindung zur Firmengründungs-GmbH (Maryna)
 
 ---
 
-### Tony — Consulting × Network × Deals
+### Tony — Consulting × Struktur × Deals
 
 **Background:**
-- Management consulting (with McKinsey/BCG network connections)
-- M&A, carve-outs, and corporate restructuring
-- Scaling companies and turnarounds
-- Active network of startup investors
-- Former client network across industries and geographies
+- McKinsey/BCG-Netzwerk
+- M&A, Carve-outs, Corporate Restructuring
+- Scaling und Turnarounds
+- Investorennetzwerk
 
 **What this unlocks for Entropic:**
-- The expert network IS Tony's existing network — we're not building from scratch
-- Credibility with MBA students: someone who's been in top consulting understands their world
-- Deal-making for the Studio Track: Tony can spot, structure, and support founding teams
-- Investor introductions when/if our portfolio founders need capital
+- Rechtsstruktur und Gesellschaftsverträge (Phase 1)
+- Investor Relations und Scaling Expertise (ab 2027+)
+- Glaubwürdigkeit bei MBA-Studenten (kennt ihre Welt)
+- Deal-Making für fortgeschrittene Gründer im Portfolio
 
-**Personal edge:** Has watched hundreds of companies start, scale, fail, and sell. Knows what actually matters in the first 12 months. Can mentor from direct operator experience, not just frameworks.
+**Personal edge:** Hat hunderte Unternehmen beim Starten, Skalieren, Scheitern und Verkaufen erlebt. Weiß, was in den ersten 12 Monaten wirklich zählt.
+
+---
+
+### Steffen — IT-Gründung × Skepsis × Strategie
+
+**Background:**
+- Hat selbst in der IT gegründet — kennt den Prozess von innen
+- Strategischer, skeptischer Denker in Bezug auf Software und AI
+- Unterstützt beim Seminar und beim Handling der MBA-Studenten
+
+**What this unlocks for Entropic:**
+- Glaubwürdigkeit als "jemand, der es gemacht hat"
+- Kritisches Korrektiv gegen Hype (AI, Software-Versprechen)
+- Operative Begleitung der Studenten im Programm
 
 ---
 
 ## Why Together
 
-The combination is intentional and complementary:
+| Dimension | Andi | Tony | Steffen |
+|-----------|------|------|---------|
+| Netzwerk & Verbindungen | ✅ | ✅ | — |
+| Rechts- & Unternehmensstruktur | — | ✅ | — |
+| IT-Gründungserfahrung | — | — | ✅ |
+| AI/Software-Urteilsvermögen | — | — | ✅ |
+| Investor Relations | — | ✅ | — |
+| Studenten-Begleitung operativ | ✅ | — | ✅ |
+| Energie & Drive | ✅ | — | — |
 
-| Dimension | [Your Name] | Tony |
-|-----------|-------------|------|
-| Technical depth | ✅ | — |
-| AI/product instincts | ✅ | — |
-| Business credibility | — | ✅ |
-| Investor network | — | ✅ |
-| Consulting/MBA world access | — | ✅ |
-| First customer access | ✅ | ✅ |
-| Deal structuring | — | ✅ |
-| Can build the product | ✅ | — |
-
-We cover each other's gaps. Neither of us is trying to learn what the other already knows — we're here to move fast.
+Alle drei bringen je 5.000 € ein → Signal: gleiche Skin in the Game, gleiche Entscheidungshoheit.
 
 ---
 
 ## Why This, Why Now
 
-**Why this:** Both of us have watched smart people fail to start because the mechanics were in the way. The frustration is personal. We know the problem from the inside.
+**Why this:** Alle drei kennen das Problem — Menschen mit Ambitionen scheitern nicht an Ideen, sondern an operativer Reibung und fehlendem Rahmen.
 
 **Why now:**
-- AI has made the agent framework buildable by two people in weeks, not months
-- The MBA class of 2025–2026 is graduating into a market where consulting jobs are tighter and AI anxiety is high — motivation to found is higher than it's been in a decade
-- There's no credible AI-native founder studio in the European market targeting this segment
+- AI hat den technischen Aufwand radikal gesenkt
+- MBA-Absolventen 2025–2026 kommen in einen Markt mit weniger klassischen Jobs und hoher AI-Unsicherheit — Gründungsmotivation so hoch wie seit Jahren nicht
+- Kein glaubwürdiger AI-nativer Founder-Studio im deutschen/europäischen MBA-Markt
 
-**What we're not optimizing for:** A quick exit. We want to build something we'd want to be members of — and that we're proud to put our names on.
+**Was wir nicht optimieren:** schnellen Exit. Wir wollen etwas bauen, bei dem wir selbst Mitglied sein würden.
 
-> ❓ Question: How do we signal Tony's network credibility without over-promising on the introductions? Need to think through how the expert network works operationally.
-
-> ❓ Question: Should one of us be "the face" publicly, or do we position as a duo from the start?
+> ❓ Question: Wie kommunizieren wir Tonys Netzwerktiefe, ohne zu viel zu versprechen?
+> ❓ Question: Wer ist nach außen "das Gesicht" — einer, oder klares Duo/Trio?

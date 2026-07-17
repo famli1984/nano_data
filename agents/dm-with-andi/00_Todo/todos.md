@@ -11,6 +11,10 @@ last_updated: 2026-05-08
 
 ## Arbeit
 
+- [ ] **KI-Produktivitäts-Workshop** — Ariel nachfassen, Termin blocken (Tag: Mitarbeitende zeigen KI-Nutzung)
+- [ ] **Problems to be Solved + Strategie-Tag** — Termin blocken, 30 min pro Person
+- [ ] **T3 Stress-Interview-Tag** — Fragebogen erstellen, dann Termine mit allen T3s
+- [ ] **Seminar "How to Found in the Age of AI"** — Konzept mit Tony, Steffen, Maryna besprechen → `02_Projects/seminar-how-to-found/`
 - [ ] **Teams-Nachrichten durchgehen** — Links zu Dateien finden (mit Claude)
 - [ ] **Todos besser strukturieren**
 - [ ] **KI Termin Vorbereitung (Mittwoch 20.05.)** — fällig 20.05.
@@ -21,6 +25,9 @@ last_updated: 2026-05-08
 
 ## Persönliches & Behörden
 
+- [ ] **Notartermin Berlin** — Termin vereinbaren
+- [ ] **Monika absagen**
+- [ ] **Seminarmontag Babysitter organisieren**
 - [ ] **Blutwerte beim Arzt machen lassen**
 - [ ] **Stadtbücherei Bücher zurückgeben** — fällig 09.05.2026
 - [ ] **Neuen Führerschein beantragen** — Termin Bürgeramt, Unterlagen zusammenstellen
@@ -28,12 +35,15 @@ last_updated: 2026-05-08
 
 ## Technik & Setup
 
+- [ ] **Bessere Spracheingabe finden** — Alternative zu aktuellem Setup evaluieren
+- [ ] **Nanoclaw Anleitung schreiben**
 - [ ] **Ubuntu Pro hinzufügen** — Ubuntu Pro Abonnement aktivieren/verknüpfen
 - [ ] **Arbeits-Update-Kanal einrichten** — Weg, damit Pauline regelmäßige Updates zu Arbeitsaufgaben auf Andis Arbeitsaccount sendet
 - [ ] **Virenscanner auf allen PCs installieren**
 
 ## Haushalt & Verkauf
 
+- [ ] **Felix Lego Räder kaufen**
 - [ ] **Student für Haushaltshilfe aussuchen** — Kandidaten sichten, Gespräch führen
 - [ ] **Blaues Rad verkaufen** — Plattform wählen, Inserat erstellen
 - [ ] **Rotes Rad verkaufen** — Plattform wählen, Inserat erstellen
@@ -43,18 +53,19 @@ last_updated: 2026-05-08
 
 ## Wartung & Fahrzeug
 
+- [ ] **Heizung Reparatur Termin verschieben**
 - [ ] **Heizung warten lassen** — Termin vereinbaren
 - [ ] **Stand-up-Paddle reparieren**
 - [ ] **Autos putzen**
 - [ ] **VW Bus**
   - [ ] Schneidebretter einladen
   - [ ] Wartung / Werkstatt-Termin
-  - [ ] Gasflasche kaufen
   - [ ] Auffahrkeil an Fahrradträger
   - [ ] Kühlschrank Befestigung
   - [ ] Bus warten lassen und Reifen-Wechsel
 - [ ] **Fahrräder**
   - [ ] Silca 324 kaufen
+  - [ ] Felix MTB Hinterrad 8er beseitigen
 
 ## Renovierung (Familienkalender)
 
@@ -93,6 +104,8 @@ last_updated: 2026-05-08
 
 | Erledigt am | Aufgabe |
 |------------|---------|
+| 2026-07-12 | **Gasflasche kaufen** — VW Bus |
+| 2026-07-12 | **Felix MTB Pedale kaufen** |
 | 2026-05-08 | **Reisekostenabrechnung Wien** — Belege aufbereiten, einreichen |
 | 2026-05-08 | **VW Bus warten lassen** — Termin Werkstatt vereinbaren |
 | 2026-05-08 | **Posteo Kalender einrichten** — CalDAV-Zugang aktivieren |
