@@ -11,9 +11,9 @@ last_updated: 2026-05-08
 
 ## Arbeit
 
-- [ ] **KI-Produktivitäts-Workshop** — Ariel nachfassen, Termin blocken (Tag: Mitarbeitende zeigen KI-Nutzung)
+- [x] **KI-Produktivitäts-Workshop** — Ariel nachfassen, Termin blocken (Tag: Mitarbeitende zeigen KI-Nutzung)
 - [ ] **Problems to be Solved + Strategie-Tag** — Termin blocken, 30 min pro Person
-- [ ] **T3 Stress-Interview-Tag** — Fragebogen erstellen, dann Termine mit allen T3s
+- [x] **T3 Stress-Interview-Tag** — Fragebogen erstellen, dann Termine mit allen T3s
 - [ ] **Seminar "How to Found in the Age of AI"** — Konzept mit Tony, Steffen, Maryna besprechen → `02_Projects/seminar-how-to-found/`
 - [ ] **Teams-Nachrichten durchgehen** — Links zu Dateien finden (mit Claude)
 - [ ] **Todos besser strukturieren**
@@ -26,16 +26,16 @@ last_updated: 2026-05-08
 ## Persönliches & Behörden
 
 - [ ] **Notartermin Berlin** — Termin vereinbaren
-- [ ] **Monika absagen**
-- [ ] **Seminarmontag Babysitter organisieren**
+- [x] **Monika absagen**
+- [x] **Seminarmontag Babysitter organisieren**
 - [ ] **Blutwerte beim Arzt machen lassen**
-- [ ] **Stadtbücherei Bücher zurückgeben** — fällig 09.05.2026
+- [x] **Stadtbücherei Bücher zurückgeben** — fällig 09.05.2026
 - [ ] **Neuen Führerschein beantragen** — Termin Bürgeramt, Unterlagen zusammenstellen
 - [ ] **Steuererklärung 2025** — Belege sammeln, ggf. Steuerberater-Termin
 
 ## Technik & Setup
 
-- [ ] **Bessere Spracheingabe finden** — Alternative zu aktuellem Setup evaluieren
+- [x] **Bessere Spracheingabe finden** — Alternative zu aktuellem Setup evaluieren
 - [ ] **Nanoclaw Anleitung schreiben**
 - [ ] **Ubuntu Pro hinzufügen** — Ubuntu Pro Abonnement aktivieren/verknüpfen
 - [ ] **Arbeits-Update-Kanal einrichten** — Weg, damit Pauline regelmäßige Updates zu Arbeitsaufgaben auf Andis Arbeitsaccount sendet
