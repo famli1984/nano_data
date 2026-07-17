@@ -51,10 +51,8 @@ last_updated: 2026-05-08
 - [ ] **Autos putzen**
 - [ ] **VW Bus**
   - [ ] Schneidebretter einladen
-  - [ ] Wartung / Werkstatt-Termin
   - [ ] Auffahrkeil an Fahrradträger
   - [ ] Kühlschrank Befestigung
-  - [ ] Bus warten lassen und Reifen-Wechsel
 - [ ] **Fahrräder**
   - [ ] Silca 324 kaufen
   - [ ] Felix MTB Hinterrad 8er beseitigen
@@ -76,11 +74,9 @@ last_updated: 2026-05-08
 ## Garten (Familienkalender)
 
 - [ ] Gartenhaus Leisten
-- [ ] Gras mähen und Unkraut jäten
 - [ ] Trampolin verankern
 - [ ] Schuppen reinigen
 - [ ] Schuppen Mausfest machen
-- [ ] Tomaten einpflanzen
 - [ ] Kirschstamm zersägen
 - [ ] Zaun freischneiden
 - [ ] Gießen automatisieren
@@ -96,6 +92,10 @@ last_updated: 2026-05-08
 
 | Erledigt am | Aufgabe |
 |------------|---------|
+| 2026-07-17 | **VW Bus Wartung / Werkstatt-Termin** |
+| 2026-07-17 | **Bus warten lassen und Reifen-Wechsel** |
+| 2026-07-17 | **Gras mähen und Unkraut jäten** |
+| 2026-07-17 | **Tomaten einpflanzen** |
 | 2026-07-17 | **Heizung Reparatur Termin verschieben** |
 | 2026-07-17 | **Heizung warten lassen** |
 | 2026-07-17 | **KI-Produktivitäts-Workshop** — Ariel nachfassen, Termin blocken |
