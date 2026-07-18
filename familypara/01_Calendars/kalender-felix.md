@@ -1,6 +1,6 @@
 ---
 tags: [calendar, felix]
-updated: 2026-07-19 00:00
+updated: 2026-07-19 00:30
 calendar_source: posteo
 person: Felix
 type: calendar
@@ -9,7 +9,7 @@ sync_days_ahead: 30
 
 # 📅 Kalender – Felix
 
-> Automatisch synchronisiert am 19.07.2026 um 00:00 Uhr  
+> Automatisch synchronisiert am 19.07.2026 um 00:30 Uhr  
 > Zeigt Ereignisse der nächsten 30 Tage.
 
 ## Monday, 27. April 2026
