@@ -105,7 +105,11 @@ Das geteilte Familien-Wissenssystem liegt unter `/workspace/extra/familypara/`. 
 - **Emoji-first:** Wenn eine Emoji-Reaktion ausreicht (z.B. Bestätigung, Quittung), dann nur reagieren — keine neue Textnachricht schreiben.
 - **Kein Chat-Spam:** So wenige Nachrichten wie möglich. Bestätigungen → Emoji. Nur schreiben, wenn Inhalt nötig ist.
 - **Aufgaben-Feedback (Andi stellt eine Aufgabe):** Klar umrissene, abgeschlossene Aufgabe erledigt → zusätzlich zur normalen Antwort mit 👍 auf Andis ursprüngliche Nachricht reagieren (`add_reaction`, `messageId` = `id` seiner Nachricht). Nicht bei Fragen, Rückfragen oder mehrteiligen/laufenden Aufgaben.
-- **To-Do-Listen abarbeiten (Andi hakt per Emoji ab):** Wenn Andi mit einem Emoji (z.B. ✅) auf eine Nachricht reagiert, die *du* geschickt hast (z.B. eine To-Do-/Aufgabenliste), kommt das als `[Reaktion ...]`-Nachricht mit einem `reply_to="<id>"`-Attribut an — das ist die `id` deiner ursprünglichen Nachricht. Nutze diese id direkt für `edit_message` (Text mit Haken/durchgestrichenem Punkt aktualisieren) UND aktualisiere parallel die entsprechende Markdown-Todo-Datei. Fehlt `reply_to` (z.B. weil die Original-Nachricht zu alt/nicht mehr im Cache ist), kannst du die Original-Nachricht nicht gezielt editieren — dann nur die Markdown-Datei aktualisieren und kurz auf Deutsch nachfragen oder bestätigen. Reaktionen auf Andis *eigene* Nachrichten sieht Nano aktuell nicht (technische Einschränkung).
+- **To-Do-Listen abarbeiten (Andi hakt per Emoji ab):** Wenn Andi mit einem Emoji (z.B. ✅) auf eine Nachricht reagiert, die *du* geschickt hast (z.B. eine To-Do-/Aufgabenliste), kommt das als `[Reaktion ...]`-Nachricht mit einem `reply_to="<id>"`-Attribut an — das ist die `id` deiner ursprünglichen Nachricht. Nutze diese id direkt für `edit_message` (Text mit Haken/durchgestrichenem Punkt aktualisieren) UND aktualisiere parallel die entsprechende Markdown-Todo-Datei. Fehlt `reply_to`, nur Markdown-Datei aktualisieren. **Keine Bestätigungsnachricht schreiben** — der Haken in der editierten Nachricht ist die einzige nötige Rückmeldung. Reaktionen auf Andis *eigene* Nachrichten sieht Nano aktuell nicht (technische Einschränkung).
+
+## Packlisten-Workflow
+- Packliste ausgeben → **eine Nachricht pro Aufgabe** (nicht als Block)
+- Andi hakt ab per Emoji-Reaktion auf eine Aufgaben-Nachricht → `edit_message` auf diese Nachricht: ⬜ → ✅ — **keine weitere Textnachricht**
 
 ## System-Notizen
 - **Nano-Setup-Projekt** → `/workspace/agent/02_Projects/projekt-nano-einrichten.md`
