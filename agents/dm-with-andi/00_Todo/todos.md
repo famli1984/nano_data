@@ -11,22 +11,14 @@ last_updated: 2026-05-08
 
 ## Arbeit
 
-- [ ] **Problems to be Solved + Strategie-Tag** — Termin blocken, 30 min pro Person
 - [ ] **Seminar "How to Found in the Age of AI"** — Konzept mit Tony, Steffen, Maryna besprechen → `02_Projects/seminar-how-to-found/`
 - [ ] **Teams-Nachrichten durchgehen** — Links zu Dateien finden (mit Claude)
 - [ ] **Todos besser strukturieren**
-- [ ] **KI Termin Vorbereitung (Mittwoch 20.05.)** — fällig 20.05.
-  - [ ] GitHub füllen
-  - [ ] Mails hinzufügen
-  - [ ] Slide von Felix (bis Mo 19.05.)
-  - [ ] Kontodaten vorbereiten (bis Mo 19.05.)
 
 ## Persönliches & Behörden
 
-- [ ] **Notartermin Berlin** — Termin vereinbaren
 - [ ] **Blutwerte beim Arzt machen lassen**
 - [ ] **Neuen Führerschein beantragen** — Termin Bürgeramt, Unterlagen zusammenstellen
-- [ ] **Steuererklärung 2025** — Belege sammeln, ggf. Steuerberater-Termin
 
 ## Technik & Setup
 
@@ -37,9 +29,7 @@ last_updated: 2026-05-08
 
 ## Haushalt & Verkauf
 
-- [ ] **Felix Lego Räder kaufen**
 - [ ] **Student für Haushaltshilfe aussuchen** — Kandidaten sichten, Gespräch führen
-- [ ] **Blaues Rad verkaufen** — Plattform wählen, Inserat erstellen
 - [ ] **Rotes Rad verkaufen** — Plattform wählen, Inserat erstellen
 - [ ] **Lastenradsitze verkaufen** — Plattform wählen, Inserat erstellen
 - [ ] **Spiele Schrank aufräumen und aussortieren**
@@ -53,9 +43,16 @@ last_updated: 2026-05-08
   - [ ] Schneidebretter einladen
   - [ ] Auffahrkeil an Fahrradträger
   - [ ] Kühlschrank Befestigung
+  - [ ] Busträger montieren
+  - [ ] Bus packen
 - [ ] **Fahrräder**
   - [ ] Silca 324 kaufen
-  - [ ] Felix MTB Hinterrad 8er beseitigen
+  - [ ] Fahrradteile kaufen: MAXXIS 29×2.5, Billy Bonkers 24×2, SRAM 2× medium + 2× large, 20 Zoll Schlauch, MTB Pedale Felix
+  - [ ] Felix MTB Hinterrad reparieren
+  - [ ] Felix Dirtbike Hinterrad reparieren
+  - [ ] Lastenrad Hinterrad reparieren
+  - [ ] Kettenwachs kochen
+  - [ ] Andi Kette wechseln
 
 ## Renovierung (Familienkalender)
 
@@ -113,3 +110,9 @@ last_updated: 2026-05-08
 | 2026-05-08 | **Terminal einrichten an Andis Handy** — Zugang zu Pauline via Terminal |
 | 2026-05-08 | **Tasks über Posteo aktivieren** — Aufgabenverwaltung via Posteo einrichten |
 | 2026-05-16 | **Kartuschenkocher kaufen** — EN417-kompatibel (für VW Bus) |
+| 2026-08-16 | **Blaues Rad verkaufen** |
+| 2026-08-16 | **KI Termin Vorbereitung** (inkl. GitHub, Mails, Slide Felix, Kontodaten) |
+| 2026-08-16 | **Felix Lego Räder kaufen** |
+| 2026-08-16 | **Problems to be Solved + Strategie-Tag** |
+| 2026-08-19 | **Steuererklärung 2025** |
+| 2026-08-19 | **Antrag Rosa Geschwisterbonus** |

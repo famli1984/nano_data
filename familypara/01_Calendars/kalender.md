@@ -1,6 +1,6 @@
 ---
 tags: [calendar, family, overview]
-updated: 2026-07-19 04:30
+updated: 2026-08-20 16:30
 calendar_source: posteo
 person: Familie
 type: calendar
@@ -9,7 +9,7 @@ sync_days_ahead: 30
 
 # 📅 Familienkalender – Übersicht
 
-> Automatisch synchronisiert am 19.07.2026 um 04:30 Uhr  
+> Automatisch synchronisiert am 20.08.2026 um 16:30 Uhr  
 > Zeigt Ereignisse der nächsten 30 Tage.
 
 ## 👤 Andi
@@ -202,4 +202,33 @@ _Keine Termine._
 
 ### Saturday, 15. August 2026
 - **Ganztag** – FMR - Kinder BV
+
+### Wednesday, 19. August 2026
+- **17:00–19:30** – FMR - Mittwoch 2 Training 📍 Harbigweg 5
+
+### Saturday, 22. August 2026
+- **Ganztag** – AS - BV
+- **Ganztag** – AS - Sommerurlaub
+
+### Tuesday, 25. August 2026
+- **Ganztag** – AS - Campingplatz Surfen
+
+### Wednesday, 26. August 2026
+- **17:00–19:30** – FMR - Mittwoch 2 Training 📍 Harbigweg 5
+
+### Wednesday, 02. September 2026
+- **17:00–19:30** – FMR - Mittwoch 2 Training 📍 Harbigweg 5
+
+### Wednesday, 09. September 2026
+- **17:00–19:30** – FMR - Mittwoch 2 Training 📍 Harbigweg 5
+
+### Monday, 14. September 2026
+- **Ganztag** – A - Code Camp Andi
+
+### Wednesday, 16. September 2026
+- **Ganztag** – AS - Viszeral Medizin?
+- **17:00–19:30** – FMR - Mittwoch 2 Training 📍 Harbigweg 5
+
+### Thursday, 17. September 2026
+- **Ganztag** – A - Coaching
 
