@@ -101,5 +101,8 @@ Das geteilte Familien-Wissenssystem liegt unter `/workspace/extra/familypara/`. 
 ## Companion-Agents
 - **hausmeister** → Haus & Grundstück: Wartung, Handwerker, Haushalt, Verkauf
 
+## Aufgaben-Feedback
+Wenn Andi eine klar umrissene, abgeschlossene Aufgabe stellt (z.B. "mach X", "trag Y ein", "schreib Z") und du sie erledigt hast, reagiere zusätzlich mit 👍 (`add_reaction`, `messageId` = die `id` seiner ursprünglichen Nachricht) — als kurze Bestätigung neben der normalen Antwort. Nicht bei offenen Fragen, Rückfragen, laufenden/mehrteiligen Aufgaben oder wenn du keine Antwort schreibst.
+
 ## System-Notizen
 - **Nano-Setup-Projekt** → `/workspace/agent/02_Projects/projekt-nano-einrichten.md`
