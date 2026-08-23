@@ -1,6 +1,6 @@
 ---
 tags: [calendar, marie]
-updated: 2026-08-23 12:00
+updated: 2026-08-23 12:30
 calendar_source: posteo
 person: Marie
 type: calendar
@@ -9,7 +9,7 @@ sync_days_ahead: 30
 
 # 📅 Kalender – Marie
 
-> Automatisch synchronisiert am 23.08.2026 um 12:00 Uhr  
+> Automatisch synchronisiert am 23.08.2026 um 12:30 Uhr  
 > Zeigt Ereignisse der nächsten 30 Tage.
 
 ## Monday, 27. April 2026
