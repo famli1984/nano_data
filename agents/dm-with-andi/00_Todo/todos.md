@@ -47,7 +47,7 @@ last_updated: 2026-05-08
   - [ ] Bus packen
 - [ ] **Fahrräder**
   - [ ] Silca 324 kaufen
-  - [ ] Fahrradteile kaufen: MAXXIS 29×2.5, Billy Bonkers 24×2, SRAM 2× medium + 2× large, 20 Zoll Schlauch, MTB Pedale Felix
+  - [ ] Fahrradteile kaufen: 20" Schlauch, 2× 24" Mantel Marie, Ekar Kette Suse
   - [ ] Felix MTB Hinterrad reparieren
   - [ ] Felix Dirtbike Hinterrad reparieren
   - [ ] Lastenrad Hinterrad reparieren
