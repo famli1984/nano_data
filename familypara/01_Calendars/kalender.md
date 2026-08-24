@@ -1,6 +1,6 @@
 ---
 tags: [calendar, family, overview]
-updated: 2026-08-24 01:30
+updated: 2026-08-24 02:30
 calendar_source: posteo
 person: Familie
 type: calendar
@@ -9,7 +9,7 @@ sync_days_ahead: 30
 
 # 📅 Familienkalender – Übersicht
 
-> Automatisch synchronisiert am 24.08.2026 um 01:30 Uhr  
+> Automatisch synchronisiert am 24.08.2026 um 02:30 Uhr  
 > Zeigt Ereignisse der nächsten 30 Tage.
 
 ## 👤 Andi
@@ -231,4 +231,7 @@ _Keine Termine._
 
 ### Thursday, 17. September 2026
 - **Ganztag** – A - Coaching
+
+### Wednesday, 23. September 2026
+- **Ganztag** – S - DAG Potsdam
 
