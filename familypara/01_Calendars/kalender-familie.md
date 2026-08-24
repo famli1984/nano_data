@@ -1,6 +1,6 @@
 ---
 tags: [calendar, familie]
-updated: 2026-08-24 18:30
+updated: 2026-08-24 19:00
 calendar_source: posteo
 person: Familie
 type: calendar
@@ -9,7 +9,7 @@ sync_days_ahead: 30
 
 # 📅 Kalender – Familie
 
-> Automatisch synchronisiert am 24.08.2026 um 18:30 Uhr  
+> Automatisch synchronisiert am 24.08.2026 um 19:00 Uhr  
 > Zeigt Ereignisse der nächsten 30 Tage.
 
 ## Monday, 27. April 2026
@@ -219,3 +219,4 @@ sync_days_ahead: 30
 
 ## Wednesday, 23. September 2026
 - **Ganztag** – S - DAG Potsdam
+- **17:00–19:30** – FMR - Mittwoch 2 Training 📍 Harbigweg 5
