@@ -1,6 +1,6 @@
 ---
 tags: [tasks, andi]
-updated: 2026-08-25 14:30
+updated: 2026-08-25 15:00
 calendar_source: posteo
 person: Andi
 type: tasks
@@ -8,7 +8,7 @@ type: tasks
 
 # ✅ Aufgaben – Andi
 
-> Automatisch synchronisiert am 25.08.2026 um 14:30 Uhr
+> Automatisch synchronisiert am 25.08.2026 um 15:00 Uhr
 
 - [ ] Arbeit – fällig: 15.05.2026 02:00
 - [ ] Teams-Nachrichten durchgehen und Links zu Dateien finden – fällig: 15.05.2026 02:00
