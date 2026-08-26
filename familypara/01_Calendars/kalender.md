@@ -1,6 +1,6 @@
 ---
 tags: [calendar, family, overview]
-updated: 2026-08-26 01:30
+updated: 2026-08-26 02:00
 calendar_source: posteo
 person: Familie
 type: calendar
@@ -9,7 +9,7 @@ sync_days_ahead: 30
 
 # 📅 Familienkalender – Übersicht
 
-> Automatisch synchronisiert am 26.08.2026 um 01:30 Uhr  
+> Automatisch synchronisiert am 26.08.2026 um 02:00 Uhr  
 > Zeigt Ereignisse der nächsten 30 Tage.
 
 ## 👤 Andi
@@ -235,4 +235,7 @@ _Keine Termine._
 ### Wednesday, 23. September 2026
 - **Ganztag** – S - DAG Potsdam
 - **17:00–19:30** – FMR - Mittwoch 2 Training 📍 Harbigweg 5
+
+### Friday, 25. September 2026
+- **Ganztag** – AS - Mountainbike Wochenende
 
