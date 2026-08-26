@@ -43,8 +43,6 @@ last_updated: 2026-05-08
   - [ ] Schneidebretter einladen
   - [ ] Auffahrkeil an Fahrradträger
   - [ ] Kühlschrank Befestigung
-  - [ ] Busträger montieren
-  - [ ] Bus packen
 - [ ] **Fahrräder**
   - [ ] Silca 324 kaufen
   - [ ] Fahrradteile kaufen: 20" Schlauch, 2× 24" Mantel Marie, Ekar Kette Suse
