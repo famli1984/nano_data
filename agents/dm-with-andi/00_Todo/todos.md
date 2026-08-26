@@ -48,7 +48,6 @@ last_updated: 2026-05-08
   - [ ] Fahrradteile kaufen: 20" Schlauch, 2× 24" Mantel Marie, Ekar Kette Suse
   - [ ] Felix MTB Hinterrad reparieren
   - [ ] Felix Dirtbike Hinterrad reparieren
-  - [ ] Lastenrad Hinterrad reparieren
   - [ ] Kettenwachs kochen
   - [ ] Andi Kette wechseln
 
@@ -114,3 +113,6 @@ last_updated: 2026-05-08
 | 2026-08-16 | **Problems to be Solved + Strategie-Tag** |
 | 2026-08-19 | **Steuererklärung 2025** |
 | 2026-08-19 | **Antrag Rosa Geschwisterbonus** |
+| 2026-08-26 | **Busträger montieren** |
+| 2026-08-26 | **Bus packen** |
+| 2026-08-26 | **Lastenrad reparieren (Decathlon)** |
