@@ -1,6 +1,6 @@
 ---
 tags: [calendar, familie]
-updated: 2026-08-31 00:30
+updated: 2026-08-31 01:00
 calendar_source: posteo
 person: Familie
 type: calendar
@@ -9,7 +9,7 @@ sync_days_ahead: 30
 
 # 📅 Kalender – Familie
 
-> Automatisch synchronisiert am 31.08.2026 um 00:30 Uhr  
+> Automatisch synchronisiert am 31.08.2026 um 01:00 Uhr  
 > Zeigt Ereignisse der nächsten 30 Tage.
 
 ## Monday, 27. April 2026
