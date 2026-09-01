@@ -1,6 +1,6 @@
 ---
 tags: [calendar, rosa]
-updated: 2026-09-01 07:30
+updated: 2026-09-01 08:00
 calendar_source: posteo
 person: Rosa
 type: calendar
@@ -9,7 +9,7 @@ sync_days_ahead: 30
 
 # 📅 Kalender – Rosa
 
-> Automatisch synchronisiert am 01.09.2026 um 07:30 Uhr  
+> Automatisch synchronisiert am 01.09.2026 um 08:00 Uhr  
 > Zeigt Ereignisse der nächsten 30 Tage.
 
 ## Monday, 27. April 2026
