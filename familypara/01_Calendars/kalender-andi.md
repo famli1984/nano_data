@@ -1,6 +1,6 @@
 ---
 tags: [calendar, andi]
-updated: 2026-09-01 17:00
+updated: 2026-09-01 17:30
 calendar_source: posteo
 person: Andi
 type: calendar
@@ -9,7 +9,7 @@ sync_days_ahead: 30
 
 # 📅 Kalender – Andi
 
-> Automatisch synchronisiert am 01.09.2026 um 17:00 Uhr  
+> Automatisch synchronisiert am 01.09.2026 um 17:30 Uhr  
 > Zeigt Ereignisse der nächsten 30 Tage.
 
 ## Monday, 27. April 2026
