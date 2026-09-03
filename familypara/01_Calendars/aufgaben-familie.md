@@ -1,6 +1,6 @@
 ---
 tags: [tasks, familie]
-updated: 2026-09-03 06:30
+updated: 2026-09-03 07:00
 calendar_source: posteo
 person: Familie
 type: tasks
@@ -8,7 +8,7 @@ type: tasks
 
 # ✅ Aufgaben – Familie
 
-> Automatisch synchronisiert am 03.09.2026 um 06:30 Uhr
+> Automatisch synchronisiert am 03.09.2026 um 07:00 Uhr
 
 - [ ] Schuppen Mausfest machen – fällig: 15.05.2026 02:00
 - [ ] Mädels Hochbetten – fällig: 15.05.2026 02:00
