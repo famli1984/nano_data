@@ -1,6 +1,6 @@
 ---
 tags: [calendar, family, overview]
-updated: 2026-09-03 23:30
+updated: 2026-09-04 00:00
 calendar_source: posteo
 person: Familie
 type: calendar
@@ -9,7 +9,7 @@ sync_days_ahead: 30
 
 # 📅 Familienkalender – Übersicht
 
-> Automatisch synchronisiert am 03.09.2026 um 23:30 Uhr  
+> Automatisch synchronisiert am 04.09.2026 um 00:00 Uhr  
 > Zeigt Ereignisse der nächsten 30 Tage.
 
 ## 👤 Andi
