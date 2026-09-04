@@ -1,6 +1,6 @@
 ---
 tags: [calendar, suse]
-updated: 2026-09-04 19:30
+updated: 2026-09-04 20:00
 calendar_source: posteo
 person: Suse
 type: calendar
@@ -9,7 +9,7 @@ sync_days_ahead: 30
 
 # 📅 Kalender – Suse
 
-> Automatisch synchronisiert am 04.09.2026 um 19:30 Uhr  
+> Automatisch synchronisiert am 04.09.2026 um 20:00 Uhr  
 > Zeigt Ereignisse der nächsten 30 Tage.
 
 _Keine Termine in den nächsten 30 Tagen._
