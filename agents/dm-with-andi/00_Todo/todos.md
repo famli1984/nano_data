@@ -8,6 +8,7 @@ last_updated: 2026-05-08
 ## Nano
 
 - [ ] **Tasks übertragen**
+- [ ] **Workout-Erinnerung Felix einrichten** — 3×/Woche vor der Schule (wie Core Circuit)
 
 ## Arbeit
 
@@ -19,6 +20,7 @@ last_updated: 2026-05-08
 
 - [ ] **Blutwerte beim Arzt machen lassen**
 - [ ] **Neuen Führerschein beantragen** — Termin Bürgeramt, Unterlagen zusammenstellen
+- [ ] **Schwimmkurs**
 
 ## Technik & Setup
 
@@ -29,6 +31,7 @@ last_updated: 2026-05-08
 
 ## Haushalt & Verkauf
 
+- [ ] **Vacuvin kaufen**
 - [ ] **Student für Haushaltshilfe aussuchen** — Kandidaten sichten, Gespräch führen
 - [ ] **Rotes Rad verkaufen** — Plattform wählen, Inserat erstellen
 - [ ] **Lastenradsitze verkaufen** — Plattform wählen, Inserat erstellen
