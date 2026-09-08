@@ -1,6 +1,6 @@
 ---
 tags: [calendar, felix]
-updated: 2026-09-08 19:00
+updated: 2026-09-08 19:30
 calendar_source: posteo
 person: Felix
 type: calendar
@@ -9,7 +9,7 @@ sync_days_ahead: 30
 
 # 📅 Kalender – Felix
 
-> Automatisch synchronisiert am 08.09.2026 um 19:00 Uhr  
+> Automatisch synchronisiert am 08.09.2026 um 19:30 Uhr  
 > Zeigt Ereignisse der nächsten 30 Tage.
 
 ## Monday, 27. April 2026
@@ -235,3 +235,4 @@ sync_days_ahead: 30
 
 ## Thursday, 08. October 2026
 - **15:00–17:00** – S - JF R1
+- **17:30–19:30** – S - OA Konferenz
