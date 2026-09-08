@@ -1,6 +1,6 @@
 ---
 tags: [calendar, rosa]
-updated: 2026-09-08 16:30
+updated: 2026-09-08 17:00
 calendar_source: posteo
 person: Rosa
 type: calendar
@@ -9,7 +9,7 @@ sync_days_ahead: 30
 
 # 📅 Kalender – Rosa
 
-> Automatisch synchronisiert am 08.09.2026 um 16:30 Uhr  
+> Automatisch synchronisiert am 08.09.2026 um 17:00 Uhr  
 > Zeigt Ereignisse der nächsten 30 Tage.
 
 ## Monday, 27. April 2026
@@ -232,3 +232,6 @@ sync_days_ahead: 30
 
 ## Wednesday, 07. October 2026
 - **17:00–19:30** – FMR - Mittwoch 2 Training 📍 Harbigweg 5
+
+## Thursday, 08. October 2026
+- **15:00–17:00** – S - JF R1
