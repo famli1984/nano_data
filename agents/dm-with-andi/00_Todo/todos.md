@@ -32,6 +32,7 @@ last_updated: 2026-05-08
 ## Haushalt & Verkauf
 
 - [ ] **Vacuvin kaufen**
+- [ ] **Ibu + Nasentropfen Doc Morris kaufen**
 - [ ] **Student für Haushaltshilfe aussuchen** — Kandidaten sichten, Gespräch führen
 - [ ] **Rotes Rad verkaufen** — Plattform wählen, Inserat erstellen
 - [ ] **Lastenradsitze verkaufen** — Plattform wählen, Inserat erstellen
