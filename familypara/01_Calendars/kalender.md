@@ -1,6 +1,6 @@
 ---
 tags: [calendar, family, overview]
-updated: 2026-09-10 01:30
+updated: 2026-09-10 02:30
 calendar_source: posteo
 person: Familie
 type: calendar
@@ -9,7 +9,7 @@ sync_days_ahead: 30
 
 # 📅 Familienkalender – Übersicht
 
-> Automatisch synchronisiert am 10.09.2026 um 01:30 Uhr  
+> Automatisch synchronisiert am 10.09.2026 um 02:30 Uhr  
 > Zeigt Ereignisse der nächsten 30 Tage.
 
 ## 👤 Andi
@@ -251,4 +251,7 @@ _Keine Termine._
 ### Thursday, 08. October 2026
 - **15:00–17:00** – S - JF R1
 - **17:30–19:30** – S - OA Konferenz
+
+### Saturday, 10. October 2026
+- **Ganztag** – AS - Anna in HD
 
