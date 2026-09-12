@@ -19,6 +19,7 @@ Probleme, die ich habe und die man lösen sollte.
 - [ ] Nachhilfe für Kinder organisieren und tracken
 - [ ] Security für Arztpraxen (IT-Sicherheit)
 - [ ] Geld richtig investieren
+- [ ] Mitarbeiter onboarden & KI-Skills aufbauen (ohne externe Berater)
 - [ ] Garten schön halten und Umbauten planen
 - [ ] Zeit durch Dienstleistungen kaufen (richtige Anbieter finden)
 
