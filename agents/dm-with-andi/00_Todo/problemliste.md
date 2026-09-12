@@ -14,7 +14,7 @@ Probleme, die ich habe und die man lösen sollte.
 - [ ] Sportplan um wirklich fit zu werden
 - [ ] Sport in den Alltag einarbeiten
 - [ ] Zuverlässige Putzfrau finden
-- [ ] Kinderorganisation (Termine, Aktivitäten, Koordination)
+- [ ] Kinderorganisation (Termine, Aktivitäten, Koordination) → KI-Agent für Kindermanagement
 - [ ] Security für Arztpraxen (IT-Sicherheit)
 - [ ] Geld richtig investieren
 - [ ] Garten schön halten und Umbauten planen
