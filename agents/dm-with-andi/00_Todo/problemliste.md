@@ -10,6 +10,7 @@ Probleme, die ich habe und die man lösen sollte.
 ## Offen
 
 - [ ] Urlaubsplanung
+- [ ] Personalisierte Packlisten-App (für Familie, Urlaub, Sport etc.)
 - [ ] Urlaub mit Kindern: passende Aktivitäten & Kurse vor Ort finden
 - [ ] Urlaubsroute mit kinderfreundlichem Zwischenstopp planen
 - [ ] Urlaubsausrüstung leihen statt kaufen
