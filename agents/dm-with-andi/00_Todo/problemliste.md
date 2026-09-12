@@ -13,6 +13,10 @@ Probleme, die ich habe und die man lösen sollte.
 - [ ] Surfkurs finden
 - [ ] Sportplan um wirklich fit zu werden
 - [ ] Sport in den Alltag einarbeiten
+- [ ] Zuverlässige Putzfrau finden
+- [ ] Kinderorganisation (Termine, Aktivitäten, Koordination)
+- [ ] Security für Arztpraxen (IT-Sicherheit)
+- [ ] Geld richtig investieren
 
 ## Archiv
 
