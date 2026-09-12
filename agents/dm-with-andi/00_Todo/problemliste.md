@@ -22,6 +22,7 @@ Probleme, die ich habe und die man lösen sollte.
 - [ ] Fahrrad-Mehrtagestouren planen
 - [ ] Die richtigen Fahrradteile finden und Fahrrad selber reparieren
 - [ ] Sportplan um wirklich fit zu werden
+- [ ] Mehr lesen, weniger Handy nutzen
 - [ ] Sport in den Alltag einarbeiten
 - [ ] Zuverlässige Putzfrau finden
 - [ ] Zuverlässige Handwerker im Rhein-Neckar-Kreis finden
