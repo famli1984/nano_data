@@ -14,6 +14,7 @@ Probleme, die ich habe und die man lösen sollte.
 - [ ] Urlaub mit Kindern: passende Aktivitäten & Kurse vor Ort finden
 - [ ] Urlaubsroute mit kinderfreundlichem Zwischenstopp planen
 - [ ] Urlaubsausrüstung leihen statt kaufen
+- [ ] Bücher in der Nachbarschaft leihen
 - [ ] Surfkurs finden
 - [ ] Fahrrad-Mehrtagestouren planen
 - [ ] Sportplan um wirklich fit zu werden
