@@ -19,6 +19,7 @@ Probleme, die ich habe und die man lösen sollte.
 - [ ] Zuverlässige Putzfrau finden
 - [ ] Pool an zuverlässigen Freelancern für Haushalt & Garten aufbauen
 - [ ] Kinderorganisation (Termine, Aktivitäten, Koordination) → KI-Agent für Kindermanagement
+- [ ] Gesundes Essen das Kindern schmeckt — finden, einkaufen, kochen
 - [ ] Familienkalender & Terminkoordination mit Partnern/Schulen/Ärzten
 - [ ] Nachhilfe für Kinder organisieren und tracken
 - [ ] Security für Arztpraxen (IT-Sicherheit)
