@@ -18,6 +18,7 @@ Probleme, die ich habe und die man lösen sollte.
 - [ ] Urlaubsausrüstung leihen statt kaufen
 - [ ] Bücher in der Nachbarschaft leihen
 - [ ] Surfkurs finden
+- [ ] Surfen lernen
 - [ ] Fahrrad-Mehrtagestouren planen
 - [ ] Die richtigen Fahrradteile finden und Fahrrad selber reparieren
 - [ ] Sportplan um wirklich fit zu werden
