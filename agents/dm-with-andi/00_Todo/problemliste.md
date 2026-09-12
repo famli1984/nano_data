@@ -21,6 +21,7 @@ Probleme, die ich habe und die man lösen sollte.
 - [ ] Pool an zuverlässigen Freelancern für Haushalt & Garten aufbauen
 - [ ] Kinderorganisation (Termine, Aktivitäten, Koordination) → KI-Agent für Kindermanagement
 - [ ] Gesundes Essen das Kindern schmeckt — finden, einkaufen, kochen
+- [ ] Erste-Hilfe-Set für Kinder & Familien (was braucht man wirklich?)
 - [ ] Familienkalender & Terminkoordination mit Partnern/Schulen/Ärzten
 - [ ] Nachhilfe für Kinder organisieren und tracken
 - [ ] Security für Arztpraxen (IT-Sicherheit)
