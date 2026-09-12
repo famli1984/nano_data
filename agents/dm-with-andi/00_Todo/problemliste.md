@@ -17,6 +17,7 @@ Probleme, die ich habe und die man lösen sollte.
 - [ ] Bücher in der Nachbarschaft leihen
 - [ ] Surfkurs finden
 - [ ] Fahrrad-Mehrtagestouren planen
+- [ ] Die richtigen Fahrradteile finden und Fahrrad selber reparieren
 - [ ] Sportplan um wirklich fit zu werden
 - [ ] Sport in den Alltag einarbeiten
 - [ ] Zuverlässige Putzfrau finden
