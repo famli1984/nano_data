@@ -10,6 +10,7 @@ Probleme, die ich habe und die man lösen sollte.
 ## Offen
 
 - [ ] Urlaubsplanung
+- [ ] Urlaub mit Kindern: passende Aktivitäten & Kurse vor Ort finden
 - [ ] Surfkurs finden
 - [ ] Sportplan um wirklich fit zu werden
 - [ ] Sport in den Alltag einarbeiten
