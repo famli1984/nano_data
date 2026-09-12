@@ -15,6 +15,8 @@ Probleme, die ich habe und die man lösen sollte.
 - [ ] Sport in den Alltag einarbeiten
 - [ ] Zuverlässige Putzfrau finden
 - [ ] Kinderorganisation (Termine, Aktivitäten, Koordination) → KI-Agent für Kindermanagement
+- [ ] Familienkalender & Terminkoordination mit Partnern/Schulen/Ärzten
+- [ ] Nachhilfe für Kinder organisieren und tracken
 - [ ] Security für Arztpraxen (IT-Sicherheit)
 - [ ] Geld richtig investieren
 - [ ] Garten schön halten und Umbauten planen
