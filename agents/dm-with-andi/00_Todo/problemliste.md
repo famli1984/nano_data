@@ -19,6 +19,7 @@ Probleme, die ich habe und die man lösen sollte.
 - [ ] Sportplan um wirklich fit zu werden
 - [ ] Sport in den Alltag einarbeiten
 - [ ] Zuverlässige Putzfrau finden
+- [ ] Zuverlässige Handwerker im Rhein-Neckar-Kreis finden
 - [ ] Pool an zuverlässigen Freelancern für Haushalt & Garten aufbauen
 - [ ] Kinderorganisation (Termine, Aktivitäten, Koordination) → KI-Agent für Kindermanagement
 - [ ] Gesundes Essen das Kindern schmeckt — finden, einkaufen, kochen
