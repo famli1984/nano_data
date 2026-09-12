@@ -17,6 +17,8 @@ Probleme, die ich habe und die man lösen sollte.
 - [ ] Kinderorganisation (Termine, Aktivitäten, Koordination)
 - [ ] Security für Arztpraxen (IT-Sicherheit)
 - [ ] Geld richtig investieren
+- [ ] Garten schön halten und Umbauten planen
+- [ ] Zeit durch Dienstleistungen kaufen (richtige Anbieter finden)
 
 ## Archiv
 
