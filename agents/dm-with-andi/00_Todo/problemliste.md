@@ -36,6 +36,7 @@ Probleme, die ich habe und die man lösen sollte.
 - [ ] Mitarbeiter onboarden & KI-Skills aufbauen (ohne externe Berater)
 - [ ] Persönlicher KI-Assistent für alle Alltagsentscheidungen (wie Nano, aber für jeden)
 - [ ] Wissen organisieren — Second Brain aufbauen
+- [ ] Karriereentscheidungen treffen (unter Berücksichtigung von KI-Impact) — Coaching
 - [ ] Garten schön halten und Umbauten planen
 - [ ] Guten Wein entdecken & genießen — Schwerpunkt Pfälzer Wein
 - [ ] Zeit durch Dienstleistungen kaufen (richtige Anbieter finden)
