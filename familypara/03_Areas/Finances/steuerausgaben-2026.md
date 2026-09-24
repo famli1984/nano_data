@@ -66,6 +66,7 @@ managed_by: Steuerberater-Agent
 | Datum | Beschreibung | Betrag € | Beleg |
 |-------|-------------|---------|-------|
 | 2026-05 | GitSync | 21,00 | - |
+| 2026 | GitHub Pro | 100,00 $ | - |
 | 2026 | Anthropic (Claude/API) | _(Betrag eintragen)_ | - |
 | 2026 | Hetzner Server | _(Betrag eintragen)_ | - |
 
