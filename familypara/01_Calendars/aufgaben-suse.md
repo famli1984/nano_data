@@ -1,6 +1,6 @@
 ---
 tags: [tasks, suse]
-updated: 2026-10-10 13:30
+updated: 2026-10-10 14:30
 calendar_source: posteo
 person: Suse
 type: tasks
@@ -8,6 +8,6 @@ type: tasks
 
 # ✅ Aufgaben – Suse
 
-> Automatisch synchronisiert am 10.10.2026 um 13:30 Uhr
+> Automatisch synchronisiert am 10.10.2026 um 14:30 Uhr
 
 _Keine offenen Aufgaben._
