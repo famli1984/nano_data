@@ -1,6 +1,6 @@
 ---
 tags: [calendar, marie]
-updated: 2026-10-13 19:00
+updated: 2026-10-13 19:30
 calendar_source: posteo
 person: Marie
 type: calendar
@@ -9,7 +9,7 @@ sync_days_ahead: 30
 
 # 📅 Kalender – Marie
 
-> Automatisch synchronisiert am 13.10.2026 um 19:00 Uhr  
+> Automatisch synchronisiert am 13.10.2026 um 19:30 Uhr  
 > Zeigt Ereignisse der nächsten 30 Tage.
 
 ## Monday, 27. April 2026
@@ -248,3 +248,6 @@ sync_days_ahead: 30
 
 ## Thursday, 05. November 2026
 - **Ganztag** – S - Frankfurt Meeting
+
+## Thursday, 12. November 2026
+- **17:30–19:30** – S - OA Konferenz
