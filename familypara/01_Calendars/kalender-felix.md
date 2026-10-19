@@ -1,6 +1,6 @@
 ---
 tags: [calendar, felix]
-updated: 2026-10-19 17:00
+updated: 2026-10-19 17:30
 calendar_source: posteo
 person: Felix
 type: calendar
@@ -9,7 +9,7 @@ sync_days_ahead: 30
 
 # 📅 Kalender – Felix
 
-> Automatisch synchronisiert am 19.10.2026 um 17:00 Uhr  
+> Automatisch synchronisiert am 19.10.2026 um 17:30 Uhr  
 > Zeigt Ereignisse der nächsten 30 Tage.
 
 ## Monday, 27. April 2026
@@ -251,3 +251,6 @@ sync_days_ahead: 30
 
 ## Thursday, 12. November 2026
 - **17:30–19:30** – S - OA Konferenz
+
+## Wednesday, 18. November 2026
+- **15:20–16:20** – FM - Augenarzt Marie und Felix

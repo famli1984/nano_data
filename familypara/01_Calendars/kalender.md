@@ -1,6 +1,6 @@
 ---
 tags: [calendar, family, overview]
-updated: 2026-10-19 17:00
+updated: 2026-10-19 17:30
 calendar_source: posteo
 person: Familie
 type: calendar
@@ -9,7 +9,7 @@ sync_days_ahead: 30
 
 # 📅 Familienkalender – Übersicht
 
-> Automatisch synchronisiert am 19.10.2026 um 17:00 Uhr  
+> Automatisch synchronisiert am 19.10.2026 um 17:30 Uhr  
 > Zeigt Ereignisse der nächsten 30 Tage.
 
 ## 👤 Andi
@@ -266,4 +266,7 @@ _Keine Termine._
 
 ### Thursday, 12. November 2026
 - **17:30–19:30** – S - OA Konferenz
+
+### Wednesday, 18. November 2026
+- **15:20–16:20** – FM - Augenarzt Marie und Felix
 
