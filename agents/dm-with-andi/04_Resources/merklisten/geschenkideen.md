@@ -10,6 +10,7 @@ last_updated: 2026-05-08
 | Felix | Mountainbike-Hose | Geburtstag | - | ✅ gekauft (2026-05-08) |
 | Felix | Planchagrill Garhaube | - | - | 📋 kaufen |
 | Felix | Robin Hood Spiel | - | - | 📋 kaufen |
+| Marie | Akrobatiktuch | - | - | 📋 kaufen |
 | Mael | Stitch Pez | - | - | 📋 kaufen |
 | Martin | Tattoo | - | - | 📋 kaufen |
 | - | Fotobuch Peru Ecuador | - | - | 📋 kaufen |
