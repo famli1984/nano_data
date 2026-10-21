@@ -91,6 +91,7 @@ managed_by: Steuerberater-Agent
 | Datum | Organisation | Betrag € | Spendenquittung |
 |-------|-------------|---------|----------------|
 | 2026 | WRO | 50,00 | ☐ |
+| 2026 | FLL Bunsengymnasium | 105,00 | ☐ |
 | 2026 | Effektiv Spenden | _(eintragen)_ | ☐ |
 
 ---
