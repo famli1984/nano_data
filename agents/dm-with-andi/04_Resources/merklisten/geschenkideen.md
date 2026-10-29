@@ -13,6 +13,8 @@ last_updated: 2026-05-08
 | - | Bluetooth für Küche | - | - | 📋 kaufen |
 | - | Außenpool | - | - | 📋 kaufen |
 | Marie | Akrobatiktuch | - | - | 📋 kaufen |
+| Rosa | Wecker | - | - | 📋 kaufen |
+| Marie | Wecker | - | - | 📋 kaufen |
 | Mael | Stitch Pez | - | - | 📋 kaufen |
 | Martin | Tattoo | - | - | 📋 kaufen |
 | - | Fotobuch Peru Ecuador | - | - | 📋 kaufen |
