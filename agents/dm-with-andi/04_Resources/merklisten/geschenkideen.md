@@ -14,9 +14,11 @@ last_updated: 2026-05-08
 | Felix | Robin Hood Spiel | - | - | 📋 kaufen |
 | - | Bluetooth für Küche | - | - | 📋 kaufen |
 | - | Außenpool | - | - | 📋 kaufen |
+| Marie | Hosen | - | - | 📋 kaufen |
 | Marie | Ohrringe | - | - | 📋 kaufen |
 | Marie | Rücklicht | Nikolaus | - | 📋 kaufen |
 | Marie | Akrobatiktuch | - | - | 📋 kaufen |
+| Rosa | Hosen | - | - | 📋 kaufen |
 | Rosa | Playmobil Schule mit Turnhalle | - | - | 📋 kaufen |
 | Rosa | Wecker | - | - | 📋 kaufen |
 | Marie | Wecker | - | - | 📋 kaufen |
