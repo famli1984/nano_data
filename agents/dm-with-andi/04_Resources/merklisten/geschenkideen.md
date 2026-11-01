@@ -8,6 +8,7 @@ last_updated: 2026-05-08
 | Person | Idee | Anlass | Preisrahmen | Status |
 |--------|------|--------|-------------|--------|
 | Felix | Mountainbike-Hose | Geburtstag | - | ✅ gekauft (2026-05-08) |
+| Felix | Bluetooth Dongle | - | - | 📋 kaufen |
 | Felix | Zahnbürste | Nikolaus | - | 📋 kaufen |
 | Felix | Planchagrill Garhaube | - | - | 📋 kaufen |
 | Felix | Robin Hood Spiel | - | - | 📋 kaufen |
