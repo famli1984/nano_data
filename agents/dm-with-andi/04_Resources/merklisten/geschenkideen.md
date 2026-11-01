@@ -16,6 +16,7 @@ last_updated: 2026-05-08
 | Marie | Ohrringe | - | - | 📋 kaufen |
 | Marie | Rücklicht | Nikolaus | - | 📋 kaufen |
 | Marie | Akrobatiktuch | - | - | 📋 kaufen |
+| Rosa | Playmobil Schule mit Turnhalle | - | - | 📋 kaufen |
 | Rosa | Wecker | - | - | 📋 kaufen |
 | Marie | Wecker | - | - | 📋 kaufen |
 | Mael | Stitch Pez | - | - | 📋 kaufen |
