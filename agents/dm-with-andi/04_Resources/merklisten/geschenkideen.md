@@ -8,10 +8,12 @@ last_updated: 2026-05-08
 | Person | Idee | Anlass | Preisrahmen | Status |
 |--------|------|--------|-------------|--------|
 | Felix | Mountainbike-Hose | Geburtstag | - | ✅ gekauft (2026-05-08) |
+| Felix | Zahnbürste | Nikolaus | - | 📋 kaufen |
 | Felix | Planchagrill Garhaube | - | - | 📋 kaufen |
 | Felix | Robin Hood Spiel | - | - | 📋 kaufen |
 | - | Bluetooth für Küche | - | - | 📋 kaufen |
 | - | Außenpool | - | - | 📋 kaufen |
+| Marie | Rücklicht | Nikolaus | - | 📋 kaufen |
 | Marie | Akrobatiktuch | - | - | 📋 kaufen |
 | Rosa | Wecker | - | - | 📋 kaufen |
 | Marie | Wecker | - | - | 📋 kaufen |
