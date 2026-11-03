@@ -1,6 +1,6 @@
 ---
 tags: [calendar, familie]
-updated: 2026-11-03 17:30
+updated: 2026-11-03 18:00
 calendar_source: posteo
 person: Familie
 type: calendar
@@ -9,7 +9,7 @@ sync_days_ahead: 30
 
 # 📅 Kalender – Familie
 
-> Automatisch synchronisiert am 03.11.2026 um 17:30 Uhr  
+> Automatisch synchronisiert am 03.11.2026 um 18:00 Uhr  
 > Zeigt Ereignisse der nächsten 30 Tage.
 
 ## Monday, 27. April 2026
@@ -254,3 +254,6 @@ sync_days_ahead: 30
 
 ## Wednesday, 18. November 2026
 - **15:20–16:20** – FM - Augenarzt Marie und Felix
+
+## Thursday, 03. December 2026
+- **17:00–20:00** – S - streamed Up Moderation
