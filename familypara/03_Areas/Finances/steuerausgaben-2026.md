@@ -75,6 +75,7 @@ managed_by: Steuerberater-Agent
 | Datum | Artikel | Betrag € | Beruflich % | Absetzbar € | Beleg |
 |-------|---------|---------|------------|------------|-------|
 | 2026 | Laptop Felix | _(Betrag eintragen)_ | _(%)_ | | - |
+| 2026-11 | Festplatte Suse Laptop | 175,30 | _(%)_ | | - |
 
 ---
 
