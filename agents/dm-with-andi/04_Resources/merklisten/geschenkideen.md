@@ -14,7 +14,7 @@ last_updated: 2026-05-08
 | Felix | Zahnbürste | Nikolaus | - | ✅ bestellt |
 | Felix | Planchagrill Garhaube | Weihnachten | - | ✅ bestellt |
 
-| - | Bluetooth für Küche | - | - | 📋 kaufen |
+
 | - | Außenpool | - | - | 📋 kaufen |
 | Marie | Kochmesser | Weihnachten | - | ✅ bestellt |
 | Marie | Hosen | - | - | 📋 kaufen |
