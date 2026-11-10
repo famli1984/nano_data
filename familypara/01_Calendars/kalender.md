@@ -1,6 +1,6 @@
 ---
 tags: [calendar, family, overview]
-updated: 2026-11-10 18:00
+updated: 2026-11-10 18:30
 calendar_source: posteo
 person: Familie
 type: calendar
@@ -9,7 +9,7 @@ sync_days_ahead: 30
 
 # 📅 Familienkalender – Übersicht
 
-> Automatisch synchronisiert am 10.11.2026 um 18:00 Uhr  
+> Automatisch synchronisiert am 10.11.2026 um 18:30 Uhr  
 > Zeigt Ereignisse der nächsten 30 Tage.
 
 ## 👤 Andi
@@ -272,4 +272,7 @@ _Keine Termine._
 
 ### Thursday, 03. December 2026
 - **17:00–20:00** – S - streamed Up Moderation
+
+### Thursday, 10. December 2026
+- **17:30–19:30** – S - OA Konferenz
 
