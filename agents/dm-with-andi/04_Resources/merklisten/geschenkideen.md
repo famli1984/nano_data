@@ -10,9 +10,9 @@ last_updated: 2026-05-08
 | Felix | Mountainbike-Hose | Geburtstag | - | ✅ gekauft (2026-05-08) |
 | Felix | MTB Hinterrad | Weihnachten | - | 📋 kaufen |
 | Felix | Sessel | Weihnachten | - | 📋 kaufen |
-| Felix | Bluetooth Dongle | - | - | 📋 kaufen |
-| Felix | Zahnbürste | Nikolaus | - | 📋 kaufen |
-| Felix | Planchagrill Garhaube | - | - | 📋 kaufen |
+| Felix | Bluetooth Dongle | Weihnachten | - | ✅ bestellt |
+| Felix | Zahnbürste | Nikolaus | - | ✅ bestellt |
+| Felix | Planchagrill Garhaube | Weihnachten | - | ✅ bestellt |
 
 | - | Bluetooth für Küche | - | - | 📋 kaufen |
 | - | Außenpool | - | - | 📋 kaufen |
