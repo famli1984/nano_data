@@ -16,15 +16,15 @@ last_updated: 2026-05-08
 
 | - | Bluetooth für Küche | - | - | 📋 kaufen |
 | - | Außenpool | - | - | 📋 kaufen |
-| Marie | Kochmesser | Weihnachten | - | 📋 kaufen |
+| Marie | Kochmesser | Weihnachten | - | ✅ bestellt |
 | Marie | Hosen | - | - | 📋 kaufen |
-| Marie | Ohrringe | - | - | 📋 kaufen |
-| Marie | Rücklicht | Nikolaus | - | 📋 kaufen |
-| Marie | Akrobatiktuch | - | - | 📋 kaufen |
+| Marie | Ohrringe | Weihnachten | - | 📋 kaufen |
+| Marie | Rücklicht | Weihnachten | - | 📋 kaufen |
+| Marie | Akrobatiktuch | Weihnachten | - | 📋 kaufen |
 
 | Rosa | Playmobil Schule mit Turnhalle | - | - | 📋 kaufen |
 | Rosa | Wecker | - | - | 📋 kaufen |
-| Marie | Wecker | - | - | 📋 kaufen |
+| Marie | Wecker | Nikolaus | - | 📋 kaufen |
 | Mael | Stitch Pez | - | - | 📋 kaufen |
 | Suse | Rücklicht | - | - | 📋 kaufen |
 | Suse | Gepäckträger | - | - | 📋 kaufen |
