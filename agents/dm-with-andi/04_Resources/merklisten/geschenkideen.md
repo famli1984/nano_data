@@ -23,8 +23,8 @@ last_updated: 2026-05-08
 | Marie | Akrobatiktuch | Weihnachten | - | 📋 kaufen |
 
 | Rosa | Playmobil Schule mit Turnhalle | - | - | 📋 kaufen |
-| Rosa | Wecker | - | - | 📋 kaufen |
-| Marie | Wecker | Nikolaus | - | 📋 kaufen |
+| Rosa | Wecker | Nikolaus | - | ✅ da |
+| Marie | Wecker | Nikolaus | - | ✅ da |
 | Mael | Stitch Pez | - | - | 📋 kaufen |
 | Suse | Rücklicht | Weihnachten | - | ✅ bestellt |
 | Suse | Gepäckträger | Weihnachten | - | ✅ bestellt |
