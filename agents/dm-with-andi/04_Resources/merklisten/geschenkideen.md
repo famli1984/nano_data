@@ -26,9 +26,9 @@ last_updated: 2026-05-08
 | Rosa | Wecker | - | - | 📋 kaufen |
 | Marie | Wecker | Nikolaus | - | 📋 kaufen |
 | Mael | Stitch Pez | - | - | 📋 kaufen |
-| Suse | Rücklicht | - | - | 📋 kaufen |
-| Suse | Gepäckträger | - | - | 📋 kaufen |
-| Suse | Tasche | - | - | 📋 kaufen |
+| Suse | Rücklicht | Weihnachten | - | ✅ bestellt |
+| Suse | Gepäckträger | Weihnachten | - | ✅ bestellt |
+| Suse | Tasche | Weihnachten | - | ✅ bestellt |
 | Martin | Tattoo | - | - | 📋 kaufen |
 | - | Fotobuch Peru Ecuador | - | - | 📋 kaufen |
 | - | Heidelberg Brett | - | - | 📋 kaufen |
