@@ -22,6 +22,7 @@ last_updated: 2026-05-08
 | Marie | Rücklicht | Weihnachten | - | 📋 kaufen |
 | Marie | Akrobatiktuch | Weihnachten | - | 📋 kaufen |
 
+| Rosa | Nähkurs | Geburtstag | - | ✅ gebucht |
 | Rosa | Playmobil Schule mit Turnhalle | - | - | 📋 kaufen |
 | Rosa | Birkenstock | Weihnachten | - | 📋 kaufen |
 | Rosa | Wecker | Nikolaus | - | ✅ da |
