@@ -65,6 +65,7 @@ managed_by: Steuerberater-Agent
 
 | Datum | Beschreibung | Betrag € | Beleg |
 |-------|-------------|---------|-------|
+| 2026-11 | Buhl WISO | 19,90 | - |
 | 2026-05 | GitSync | 21,00 | - |
 | 2026 | GitHub Pro | 100,00 $ | - |
 | 2026 | Anthropic (Claude/API) | 240,00 (12× 20 €) | - |
