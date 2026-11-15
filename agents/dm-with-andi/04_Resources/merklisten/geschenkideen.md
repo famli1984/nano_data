@@ -29,7 +29,7 @@ last_updated: 2026-05-08
 | Marie | Wecker | Nikolaus | - | ✅ da |
 | Mael | Stitch Pez | - | - | 📋 kaufen |
 | Suse | Fotobuch | Weihnachten | - | 📋 kaufen |
-| Suse | Haustür Klingel | Weihnachten | - | 📋 kaufen |
+| Suse | Haustür Klingel | Weihnachten | - | ✅ bestellt |
 | Suse | Rücklicht | Weihnachten | - | ✅ bestellt |
 | Suse | Gepäckträger | Weihnachten | - | ✅ bestellt |
 | Suse | Tasche | Weihnachten | - | ✅ bestellt |
