@@ -28,6 +28,7 @@ last_updated: 2026-05-08
 | Rosa | Wecker | Nikolaus | - | ✅ da |
 | Marie | Wecker | Nikolaus | - | ✅ da |
 | Mael | Stitch Pez | - | - | 📋 kaufen |
+| Suse | Fotobuch | Weihnachten | - | 📋 kaufen |
 | Suse | Haustür Klingel | Weihnachten | - | 📋 kaufen |
 | Suse | Rücklicht | Weihnachten | - | ✅ bestellt |
 | Suse | Gepäckträger | Weihnachten | - | ✅ bestellt |
