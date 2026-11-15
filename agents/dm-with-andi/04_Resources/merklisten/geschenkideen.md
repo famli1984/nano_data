@@ -8,7 +8,7 @@ last_updated: 2026-05-08
 | Person | Idee | Anlass | Preisrahmen | Status |
 |--------|------|--------|-------------|--------|
 | Felix | Mountainbike-Hose | Geburtstag | - | ✅ gekauft (2026-05-08) |
-| Felix | MTB Hinterrad | Weihnachten | - | 📋 kaufen |
+| Felix | MTB Hinterrad | Weihnachten | - | ✅ bestellt |
 | Felix | Sessel | Weihnachten | - | 📋 kaufen |
 | Felix | Bluetooth Dongle | Weihnachten | - | ✅ bestellt |
 | Felix | Zahnbürste | Nikolaus | - | ✅ bestellt |

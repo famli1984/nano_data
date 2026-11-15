@@ -49,7 +49,7 @@ last_updated: 2026-05-08
   - [ ] Kühlschrank Befestigung
 - [ ] **Fahrräder**
   - [ ] Silca 324 kaufen
-  - [ ] Fahrradteile kaufen: 20" Schlauch, 2× 24" Mantel Marie, Ekar Kette Suse
+  - [ ] Fahrradteile kaufen: Ekar Kette Suse
   - [ ] Felix MTB Hinterrad reparieren
   - [ ] Felix Dirtbike Hinterrad reparieren
   - [ ] Kettenwachs kochen
