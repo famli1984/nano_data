@@ -1,6 +1,6 @@
 ---
 tags: [calendar, felix]
-updated: 2026-11-17 17:30
+updated: 2026-11-17 18:00
 calendar_source: posteo
 person: Felix
 type: calendar
@@ -9,7 +9,7 @@ sync_days_ahead: 30
 
 # 📅 Kalender – Felix
 
-> Automatisch synchronisiert am 17.11.2026 um 17:30 Uhr  
+> Automatisch synchronisiert am 17.11.2026 um 18:00 Uhr  
 > Zeigt Ereignisse der nächsten 30 Tage.
 
 ## Monday, 27. April 2026
@@ -260,3 +260,6 @@ sync_days_ahead: 30
 
 ## Thursday, 10. December 2026
 - **17:30–19:30** – S - OA Konferenz
+
+## Thursday, 17. December 2026
+- **17:00–20:00** – S - JF + Weihnachtsmarkt R1
