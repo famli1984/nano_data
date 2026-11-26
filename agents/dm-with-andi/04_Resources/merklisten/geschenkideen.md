@@ -7,7 +7,6 @@ last_updated: 2026-05-08
 
 | Person | Idee | Anlass | Preisrahmen | Status |
 |--------|------|--------|-------------|--------|
-| Felix | Mountainbike-Hose | Geburtstag | - | ✅ gekauft (2026-05-08) |
 | Felix | Skihelm | - | - | 📋 kaufen |
 | Felix | MTB Hinterrad | Weihnachten | - | ✅ bestellt |
 | Felix | Sessel | Weihnachten | - | 📋 kaufen |
@@ -23,6 +22,8 @@ last_updated: 2026-05-08
 | Marie | Ohrringe | Weihnachten | - | 📋 kaufen |
 | Marie | Rücklicht | Weihnachten | - | 📋 kaufen |
 | Marie | Akrobatiktuch | Weihnachten | - | 📋 kaufen |
+| Marie | Trinkflasche | Weihnachten | - | ✅ bestellt |
+| Rosa | Trinkflasche | Weihnachten | - | ✅ bestellt |
 
 | Rosa | Uhr | Geburtstag | - | 📋 kaufen |
 | Rosa | Nähkurs | Geburtstag | - | ✅ gebucht |
