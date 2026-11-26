@@ -39,6 +39,7 @@ last_updated: 2026-05-08
 | Suse | Gepäckträger | Weihnachten | - | ✅ bestellt |
 | Suse | Tasche | Weihnachten | - | ✅ bestellt |
 | Martin | Tattoo | - | - | 📋 kaufen |
+| Hannes | Messer | Weihnachten | - | 📋 kaufen |
 | - | Fotobuch Peru Ecuador | - | - | 📋 kaufen |
 | - | Heidelberg Brett | - | - | 📋 kaufen |
 | - | Bellz | - | - | 📋 kaufen |
