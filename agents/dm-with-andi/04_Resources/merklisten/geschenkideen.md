@@ -7,7 +7,7 @@ last_updated: 2026-05-08
 
 | Person | Idee | Anlass | Preisrahmen | Status |
 |--------|------|--------|-------------|--------|
-| Felix | Skihelm | - | - | 📋 kaufen |
+| Felix | Skihelm | - | - | ✅ bestellt |
 | Felix | MTB Hinterrad | Weihnachten | - | ✅ bestellt |
 | Felix | Sessel | Weihnachten | - | 📋 kaufen |
 | Felix | Bluetooth Dongle | Weihnachten | - | ✅ bestellt |
